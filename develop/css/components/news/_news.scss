@@ -1,0 +1,11 @@
+.news {
+  max-width: rem(432);
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: rem(200);
+  padding-left: rem(24);
+  padding-right: rem(24);
+  @media (max-width: #{em(888)}) {
+    margin-top: rem(40);
+  }
+}

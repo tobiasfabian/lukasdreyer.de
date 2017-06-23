@@ -1,0 +1,43 @@
+Title: Homepage
+
+----
+
+Info: 
+
+- 
+  title: Künstler
+  text: 'Künstlerisches Schaffen ist wie das glückliche Spiel eines Kindes. Die Freiheit und das Selbstvertrauen geben den Raum  für Musizieren. Und so kann ich darüber glücklich sein, das Cello als vielseitiges Instrument als meinen ständigen Begleiter zu haben.'
+  picture: kuenstler.jpg
+- 
+  title: Dozent
+  text: >
+    Die Entwicklung der Fähigkeit zum WIR
+    bei gleichzeitig geforderter Stärkung
+    des ICH in der Verantwortung für das
+    Ganze sind von unschätzbarem Wert für
+    die Entwicklung der Persönlichkeit.
+    Professionalität entsteht dort, wo
+    Liebe und Genauigkeit gelebt werden.
+  picture: dozent.jpg
+- 
+  title: Impresario
+  text: >
+    Neben seinen Fähigkeiten am Cello, ist
+    Lukas Dreyer auch ein
+    Organisations-talent, was er seit ein
+    paar Jahren als Leiter der WGT Musik
+    Kammer in seiner Heimatstadt Leipzig und
+    als Gründer der Eichsfelder
+    Domfestpiele unter Beweis stellt.
+  picture: impresario.jpg
+- 
+  title: Arrangeur
+  text: >
+    Vorhandenes über Verbindungen neu zu
+    knüpfen, dabei der Improvisation mit
+    Erfindungsgeist neue Möglichkeiten Raum
+    zu geben, sind für mich die Spielfelder
+    für Entdeckungen. Die Sprache der Musik
+    ist universell in ihrer emotionalen
+    Gestik.
+  picture: arrangeur.jpg

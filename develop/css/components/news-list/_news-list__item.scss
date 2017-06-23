@@ -1,0 +1,23 @@
+.news-list__item {
+  margin-bottom: rem(20);
+  line-height: rem($line-height--h4);
+  font-size: rem($font-size--h4);
+  font-weight: 500;
+  a {
+    display: flex;
+    flex-direction: column;
+    transition-duration: $transition-duration;
+    &:focus,
+    &:hover {
+      color: $color--blue;
+    }
+  }
+  time {
+    display: block;
+    order: -1;
+    line-height: rem(20);
+    font-size: rem($font-size--standard);
+    color: $color--red;
+    transition-duration: inherit;
+  }
+}

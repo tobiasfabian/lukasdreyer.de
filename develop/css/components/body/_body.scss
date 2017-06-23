@@ -1,0 +1,29 @@
+body {
+
+  padding-top: rem(185);
+
+  line-height: rem($line-height--standard);
+  font-family: $font-family--work-sans;
+  font-size: rem($font-size--standard);
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-size-adjust: none;
+
+  background-image: url('../images/pattern@2x.png');
+  background-size: rem(512);
+  background-position: center top;
+  background-color: $color--beige;
+
+  @media (max-width: #{em(1040)}) {
+    padding-top: calc(#{185/1040} * 100vw);
+  }
+
+  @media (max-width: #{em(888)}) {
+    padding-top: calc(#{150/1040} * 100vw);
+    padding-bottom: rem(40);
+  }
+
+  @media (max-width: #{em(444)}) {
+    padding-top: rem(136);
+  }
+
+}

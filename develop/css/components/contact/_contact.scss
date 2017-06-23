@@ -1,0 +1,23 @@
+.contact {
+  max-width: rem(720);
+  margin-bottom: rem(70);
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: rem(48);
+  padding-right: rem(48);
+  @media (max-width: #{em(888)}) {
+    max-width: rem(348);
+    margin-top: rem(40);
+  }
+  @media (max-width: #{em(444)}) {
+    padding-left: rem(24);
+    padding-right: rem(24);
+  }
+}
+
+
+.contact__text {
+  max-width: rem(432);
+  margin-left: auto;
+  margin-right: auto;
+}

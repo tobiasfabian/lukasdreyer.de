@@ -1,0 +1,60 @@
+.vita__heading {
+
+
+
+}
+
+
+.vita__heading h3 {
+  letter-spacing: 0.01em;
+  font-weight: 900;
+  font-size: rem($font-size--h4);
+  text-transform: uppercase;
+  color: $color--red;
+  line-height: rem($line-height--h5);
+}
+
+
+// oblique line
+.vita__heading h3::after {
+  content: ' ';
+  display: block;
+  max-width: rem(624 + 24);
+  height: rem(24);
+  margin-top: rem(00);
+  margin-bottom: rem(50);
+  margin-left: rem(-24/2);
+  margin-right: rem(-24/2);
+  transform: rotate(-10deg);
+  background-image: url('../images/dotted-border--red.svg');
+  @media (max-width: #{em(444)}) {
+    margin-top: rem(20);
+    margin-bottom: rem(60);
+  }
+}
+
+
+.vita__heading h2 {
+  max-width: rem(432);
+  // margin-top: rem(20);
+  margin-left:  auto;
+  margin-right: auto;
+  text-align: center;
+  font-weight: 600;
+  font-size: rem($font-size--h2);
+  line-height: rem($line-height--h2);
+}
+
+
+// vertical line
+.vita__heading h2::after {
+  content: ' ';
+  display: block;
+  width: rem(24);
+  height: rem(192-24*3);
+  margin-top: rem(20);
+  margin-bottom: rem(20);
+  margin-left: auto;
+  margin-right: auto;
+  background-image: url('../images/dotted-border--red.svg');
+}

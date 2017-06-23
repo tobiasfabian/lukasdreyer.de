@@ -1,0 +1,23 @@
+/*
+similar to .dates__sketch
+*/
+
+.cross-sketch {
+  height: rem(348);
+  img {
+    max-width:  rem(412);
+    max-height: rem(412);
+    margin-top: rem(-32);
+    margin-left: rem(32);
+  }
+  @media (max-width: #{em(888)}) {
+    height: auto;
+    img {
+      width: 100%;
+      margin-top:    rem(15);
+      margin-bottom: rem(20);
+      margin-left: auto;
+      margin-right: auto;
+    }
+  }
+}

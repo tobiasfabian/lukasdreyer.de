@@ -1,0 +1,28 @@
+.event-thumb-seperator {
+  position: relative;
+  max-width: rem(336+0);
+  margin-bottom: rem(20);
+  margin-left: rem(-0);
+  margin-right: rem(16);
+  text-align: center;
+  font-weight: 500;
+  opacity: 0.3;
+  span {
+    display: inline-block;
+    padding-left:  rem(10);
+    padding-right: rem(10);
+    background-image: url('../images/pattern@2x.png');
+    background-size: rem(512);
+    background-position: center top;
+    background-color: $color--beige;
+  }
+  &::after {
+    content: ' ';
+    position: absolute;
+    z-index: -1;
+    left:  0;
+    right: 0;
+    top: rem(11);
+    border-bottom: rem(1) solid $color--black;
+  }
+}

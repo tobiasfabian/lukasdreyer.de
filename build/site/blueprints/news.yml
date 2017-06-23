@@ -1,0 +1,10 @@
+title: Neuigkeiten
+pages:
+  template:
+    - news_item
+  sort: published
+files: false
+fields:
+  title:
+    label: Title
+    type:  text

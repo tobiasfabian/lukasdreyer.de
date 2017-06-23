@@ -1,0 +1,14 @@
+/*
+ol element
+*/
+
+.dates-list {
+  padding-left: rem(48);
+  @media (max-width: #{em(888)}) {
+    padding-right: rem(48);
+  }
+  @media (max-width: #{em(444)}) {
+    padding-left: rem(24);
+    padding-right: rem(24);
+  }
+}

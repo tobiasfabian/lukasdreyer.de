@@ -1,0 +1,75 @@
+.typo p {
+  margin-bottom: rem($line-height--standard);
+}
+
+.typo a {
+  text-decoration: underline;
+  transition-duration: $transition-duration;
+  &:focus,
+  &:hover {
+    color: $color--blue;
+  }
+}
+
+.typo strong,
+.typo bold {
+  font-weight: 600;
+}
+
+.typo h2,
+.typo-h2 {
+  max-width: rem(432);
+  line-height: rem($line-height--h2);
+  font-size: rem($font-size--h2);
+  font-weight: 600;
+}
+
+.typo h3,
+.typo-h3 {
+  max-width: rem(432);
+  line-height: rem($line-height--h3);
+  font-size: rem($font-size--h3);
+  font-weight: 600;
+}
+
+.typo--text h3 {
+  margin-top: rem(38);
+  margin-bottom: rem(19);
+  font-weight: 400;
+}
+
+.typo--text-2 h3 {
+  margin-top: rem(36);
+  margin-bottom: rem(19);
+  font-weight: 500;
+  line-height: rem($line-height--h5);
+  font-size: rem($font-size--h5);
+}
+
+.typo h5,
+.typo-h5 {
+  max-width: rem(432);
+  margin-bottom: rem(6);
+  line-height: rem($line-height--h5);
+  font-size: rem($font-size--h5);
+  font-weight: 500;
+}
+
+.typo hr {
+  margin-top: rem(36);
+  margin-bottom: 0;
+  border: none;
+}
+
+.typo figure {
+  max-width: rem(432);
+  margin: rem(45) auto rem(35);
+  img {
+    max-width: 100%;
+  }
+  figcaption {
+    margin-top: rem(10);
+    font-size: rem($font-size--small);
+    line-height: rem($line-height--small);
+  }
+}

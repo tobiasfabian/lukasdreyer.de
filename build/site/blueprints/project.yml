@@ -1,0 +1,17 @@
+title: Projekt
+pages: false
+files: false
+fields:
+  title:
+    label: Titel
+    type:  text
+  meta-description: meta-description
+  teaser:
+    label: Teaser
+    type:  text
+  text:
+    label: Text
+    type:  textarea
+  link:
+    label: Link
+    type:  url

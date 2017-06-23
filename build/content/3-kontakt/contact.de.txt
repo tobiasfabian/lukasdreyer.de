@@ -1,0 +1,54 @@
+Title: Kontakt
+
+----
+
+Email: mail@lukasdreyer.de
+
+----
+
+Social-media: 
+
+- 
+  title: Facebook
+  url: https://www.facebook.com/herrdreyermusic
+- 
+  title: Twitter
+  url: https://twitter.com/hairdryermusic
+- 
+  title: XING
+  url: >
+    https://www.xing.com/profile/Lukas_Dreyer3
+- 
+  title: LinkedIn
+  url: https://de.linkedin.com/in/lukasdreyer/
+
+----
+
+Text: 
+
+### Verantwortlich für den Inhalt
+
+Lukas Dreyer
+Davidstr. 6
+04109 Leipzig
+
+---
+
+Webdesign: (link: https://tobiaswolf.me text: Tobias Wolf popup: yes) / Fotos: (link: http://irene-zandel.de text: Irène Zandel popup: yes) / Zeichnung: Jürgen Postel / Texte: (link: http://sabrinalieb.com/ text: Sabrina Lieb popup: yes)
+Schrift: (link: https://weiweihuanghuang.github.io/Work-Sans/ text: Work Sans popup: yes) / CMS: (link: https://getkirby.com text: Kirby popup: yes)
+
+### Hinweis zum Datenschutz
+
+Diese Website verwendet den Webanalysedienst Piwik. Piwik verwendet Cookies, die eine Analyse der Benutzung der Webseite ermöglicht. Zu diesem Zweck werden die durch den Cookie erzeugten Nutzungsinformationen an unseren Server in Deutschland übertragen und zur Nutzungsanalyse gespeichert. Die IP-Adresse wird bei diesem Vorgang umge­hend anony­mi­siert. Die Analysedaten dieser Webseite werden selbstverständlich nicht an Dritte weitergegeben. Das Tracking von Analysediensten und die Verwendung von Cookies kann durch eine entsprechende Einstellung des Browsers verhindert werden.
+
+----
+
+Meta-title: Kontakt und Impressum
+
+----
+
+Meta-description: Kontakt Lukas Dreyer – Cellist, Arrangeur, Dozent, Impressario, Leipzig
+
+----
+
+Newsletter-text: Der Newsletter erscheint einmal pro Quartal.

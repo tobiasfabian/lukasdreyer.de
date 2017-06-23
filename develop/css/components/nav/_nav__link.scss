@@ -1,0 +1,35 @@
+.nav__link {
+  @extend .bttn;
+  @media (max-width: #{em(928)}) {
+    &::before,
+    &::after {
+      content: none;
+    }
+  }
+}
+
+
+.nav.is-subpage .nav__link {
+  opacity: 0.4;
+  padding-right: rem(4);
+  color: $color--black;
+  transition-duration: $transition-duration;
+  &::before,
+  &::after {
+    content: none;
+  }
+  &.is-active {
+    opacity: 1;
+    color: $color--blue;
+  }
+  &:focus,
+  &:hover {
+    opacity: 1;
+    color: $color--blue;
+  }
+}
+
+
+.nav.is-subpage:hover .nav__link {
+  opacity: 1;
+}

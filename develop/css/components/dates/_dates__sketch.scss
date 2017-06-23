@@ -1,0 +1,22 @@
+/*
+similar to .cross-sketch
+*/
+
+.dates__sketch {
+  box-sizing: border-box;
+  flex-basis: calc(50% + #{rem(24/2)});
+  flex-shrink: 0;
+  padding-left: rem(24/2);
+  background-image: url('../images/dotted-border.svg');
+  background-repeat: repeat-y;
+  background-position: left top;
+  img {
+    max-width:  rem(412);
+    max-height: rem(412);
+    margin-top: rem(-32);
+    margin-left:rem(32);
+  }
+  @media (max-width: #{em(888)}) {
+    display: none;
+  }
+}

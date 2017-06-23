@@ -1,0 +1,176 @@
+.info__item {
+  position: relative;
+  display: flex;
+  box-sizing: border-box;
+  margin: rem(8);
+  flex-basis: calc(50% - #{rem(16)});
+  border: rem(1) solid $color--red;
+  overflow: hidden;
+  &::after {
+    content: '';
+    opacity: 0;
+    position: absolute;
+    z-index: 0;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    background-image: url('../images/pattern@2x.png');
+    background-size: rem(512);
+    transition-duration: $transition-duration*2;
+  }
+  @media (max-width: #{em(888)}) {
+    max-width: rem(464);
+    flex-basis: 100%;
+  }
+  @media (max-width: #{em(888)}) {
+    margin: rem(4) 0;
+  }
+}
+
+
+.info__item.is-visible,
+body:not(.is-touch) .info__item:hover,
+.info__item:nth-of-type(2),
+.info__item:nth-of-type(3) {
+  &::after {
+    opacity: 0.9;
+  }
+}
+
+.info__item.is-invisible,
+body:not(.is-touch) .info__item:nth-of-type(2):hover,
+body:not(.is-touch) .info__item:nth-of-type(3):hover {
+  &::after {
+    opacity: 0;
+  }
+}
+
+
+.info__item img {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  object-fit: cover;
+  transition-duration: $transition-duration*2;
+}
+
+.info__item.is-visible img,
+body:not(.is-touch) .info__item:hover img,
+.info__item:nth-of-type(2) img,
+.info__item:nth-of-type(3) img {
+  opacity: 0.8;
+  filter: brightness(1.6);
+  transform: scale(1.04);
+}
+
+.info__item.is-invisible img,
+body:not(.is-touch) .info__item:nth-of-type(2):hover img,
+body:not(.is-touch) .info__item:nth-of-type(3):hover img {
+  opacity: 1;
+  filter: brightness(1);
+  transform: scale(1);
+}
+
+
+.info__item h2 {
+  position: absolute;
+  z-index: 2;
+  left: 50%;
+  top: rem(23);
+  padding-left:  rem(16);
+  padding-right: rem(16);
+  color: $color--red;
+  font-size: rem(24);
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.02em;
+  transform: translateX(-50%);
+  transform-origin: center;
+  transition-duration: $transition-duration*2;
+  span {
+    display: block;
+    transform: rotate(-10deg);
+    transform-origin: center;
+    transition-duration: inherit;
+  }
+  @media (max-width: #{em(444)}) {
+    top: rem(17);
+  }
+}
+
+
+.info__text {
+  position: relative;
+  z-index: 1;
+  overflow: hidden;
+  margin: rem(32);
+  padding: rem(50) rem(32) rem(40);
+  -webkit-hyphens: auto;
+  color: transparent;
+  font-weight: 500;
+  line-height: rem($line-height--standard);
+  border-left: rem(2) solid transparentize($color--red, 0);
+  border-right: rem(2) solid transparentize($color--red, 0);
+  border-bottom: rem(2) solid transparentize($color--red, 0);
+  transition-duration: $transition-duration*2;
+  &::before {
+    content: ' ';
+    position: absolute;
+    z-index: 1;
+    left: 0;
+    right: 0;
+    top: 0;
+    height: rem(2);
+    background-image: url('../images/red-border-interrupted.png');
+    background-size: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+  body.is-touch & {
+    pointer-events: none;
+  }
+  @media (max-width: #{em(444)}) {
+    margin: rem(16);
+    padding: rem(45) rem(16) rem(16);
+    &::before {
+      background-image: url('../images/red-border-interrupted.png');
+      background-size: 150%;
+    }
+  }
+  @media (max-width: #{em(444)}) {
+    font-size: rem($font-size--small);
+    line-height: rem($line-height--small+2);
+  }
+}
+
+
+.info__item.is-visible .info__text,
+.info__item:nth-of-type(2) .info__text,
+.info__item:nth-of-type(3) .info__text,
+body:not(.is-touch) .info__item:nth-of-type(1):hover .info__text,
+body:not(.is-touch) .info__item:nth-of-type(4):hover .info__text {
+  color: $color--black;
+}
+
+.info__item.is-invisible .info__text,
+body:not(.is-touch) .info__item:nth-of-type(2):hover .info__text,
+body:not(.is-touch) .info__item:nth-of-type(3):hover .info__text {
+  color: transparent;
+}
+
+
+
+@media (max-width: #{em(888)}) {
+  .info__item:nth-of-type(1),
+  .info__item:nth-of-type(4) {
+    order: 1;
+  }
+  .info__item:nth-of-type(3) {
+    order: 2;
+  }
+}

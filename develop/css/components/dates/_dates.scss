@@ -1,0 +1,24 @@
+.dates {
+  position: relative;
+  display: flex;
+  max-width: rem(888);
+  margin-left: auto;
+  margin-right: auto;
+
+  @media (max-width: #{em(1168)}) {
+    transform: translateX(#{rem(-32)});
+  }
+  @media (max-width: #{em(1104)}) {
+    transform: translateX(#{rem(-64)});
+  }
+  @media (max-width: #{em(1040)}) {
+    transform: none;
+    margin-left: 0;
+  }
+
+  @media (max-width: #{em(888)}) {
+    max-width: rem(444);
+    margin-left: auto;
+  }
+
+}

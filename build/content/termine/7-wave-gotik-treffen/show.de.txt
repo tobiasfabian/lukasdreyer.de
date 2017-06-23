@@ -1,0 +1,37 @@
+Title: 26. Wave Gotik Treffen
+
+----
+
+Subtitle: Kammermusik Konzerte internationaler Künstler
+
+----
+
+Project: WGT Musik Kammer
+
+----
+
+Venue: Alte Handelsbörse
+
+----
+
+City: Leipzig
+
+----
+
+Street: Naschmarkt
+
+----
+
+Text: In diesem jährlichen Pfingst Festival hat die Kammermusik ihren festen Platz gefunden. In diesem Jahr treffen sich hier Künstler wie Moritz Eggert, Carolin Masur, Carmen Stefanescu, sowie die Ensembles Amarilli, duoUnruh, chromoson, Freiraum Syndikat, um für dieses besondere Publikum zu musizieren. Die ausgesuchten 8 Programme sind mit seltener Literatur bis zu ausgefallenen Besetzungen und neuen Kompositionen und Arrangements eigens für die Gothics zusammengestellt. Das genaue Festivalprogramm ist aktuell auf der Homepage des WGT nachzulesen. Als Besonderheit werden wie auch in den letzten Jahren in einem der Konzerte Kinder und Jugendliche die Bühne für die Schwarzen Gestalten betreten. Die internationale Junge WGT Musik Kammer stellt in diesem Jahr junge Künstler aus Sachsen, Nordrheinwestfalen, Berlin, China und Österreich vor.
+
+----
+
+Dates: 
+
+- 
+  date: 2017-06-02
+  enddate: 2017-06-05
+  venue: ""
+  city: ""
+  street: ""
+  text: ""

@@ -1,0 +1,19 @@
+title: Lebenslauf
+pages: false
+files: false
+fields:
+  title:
+    label: Titel
+    type:  text
+  meta-description: meta-description
+  heading_1:
+    label: Überschrift 1
+    type:  textarea
+    buttons: false
+  heading_2:
+    label: Überschrift 2
+    type:  textarea
+    buttons: false
+  text:
+    label: Text
+    type:  textarea

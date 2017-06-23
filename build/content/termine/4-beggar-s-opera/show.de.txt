@@ -1,0 +1,142 @@
+Title: BEGGAR’S OPERA
+
+----
+
+Text: 
+
+Im Herbst wird FREIRAUM SYNDIKAT als Band zusammen mit dem Balletto Civile aus Italien Teil einer Beggar's Opera des Komponisten Moritz Eggert im Rahmen einer Produktion der Neuköllner Oper in Berlin sein.
+
+Der Premiere am 19. Oktober folgen insgesamt 17 Vorstellungen bis zum 19. November. Wir freuen uns über dieses außergewöhnliche Projekt, das die Gründungsgeschichte des Ensembles als Kooperation mit Theater und Tanz in einer wunderbaren Weise fortschreibt.
+
+----
+
+Dates: 
+
+- 
+  date: 2017-10-19 20:00:00
+  venue: ""
+  city: ""
+  street: ""
+  text: ""
+- 
+  date: 2017-10-22 20:00:00
+  text: ""
+  venue: ""
+  city: ""
+  street: ""
+- 
+  date: 2017-10-26 20:00:00
+  text: ""
+  venue: ""
+  city: ""
+  street: ""
+- 
+  date: 2017-10-27 20:00:00
+  text: ""
+  venue: ""
+  city: ""
+  street: ""
+- 
+  date: 2017-10-28 20:00:00
+  text: ""
+  venue: ""
+  city: ""
+  street: ""
+- 
+  date: 2017-10-29 20:00:00
+  text: ""
+  venue: ""
+  city: ""
+  street: ""
+- 
+  date: 2017-11-02 20:00:00
+  text: ""
+  venue: ""
+  city: ""
+  street: ""
+- 
+  date: 2017-11-03 20:00:00
+  text: ""
+  venue: ""
+  city: ""
+  street: ""
+- 
+  date: 2017-11-04 20:00:00
+  text: ""
+  venue: ""
+  city: ""
+  street: ""
+- 
+  date: 2017-11-05 20:00:00
+  text: ""
+  venue: ""
+  city: ""
+  street: ""
+- 
+  date: 2017-11-09 20:00:00
+  text: ""
+  venue: ""
+  city: ""
+  street: ""
+- 
+  date: 2017-11-10 20:00:00
+  text: ""
+  venue: ""
+  city: ""
+  street: ""
+- 
+  date: 2017-11-12 20:00:00
+  text: ""
+  venue: ""
+  city: ""
+  street: ""
+- 
+  date: 2017-11-15 20:00:00
+  text: ""
+  venue: ""
+  city: ""
+  street: ""
+- 
+  date: 2017-11-16 20:00:00
+  text: ""
+  venue: ""
+  city: ""
+  street: ""
+- 
+  date: 2017-11-17 20:00:00
+  text: ""
+  venue: ""
+  city: ""
+  street: ""
+- 
+  date: 2017-11-18 20:00:00
+  text: ""
+  venue: ""
+  city: ""
+  street: ""
+- 
+  date: 2017-11-19 20:00:00
+  text: ""
+  venue: ""
+  city: ""
+  street: ""
+
+----
+
+Venue: Neuköllner Oper
+
+----
+
+City: Berlin
+
+----
+
+Street: 
+
+----
+
+Subtitle: Kooperation mit Balletto Civile
+
+----
+
+Project: Freiraum Syndikat

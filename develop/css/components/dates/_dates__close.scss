@@ -1,0 +1,42 @@
+.dates__close {
+  position: absolute;
+  z-index: 20;
+  left: 50%;
+  top: rem(-24-16);
+  margin-left: rem(-6);
+  color: $color--blue;
+  span {
+    display: inline-block;
+    padding-left: rem(20);
+    font-family: $font-family--caveat;
+    font-size: rem(25);
+    background-image: url('../images/close--alt.svg');
+    background-repeat: no-repeat;
+    background-position: left rem(5);
+  }
+  &:focus,
+  &:hover {
+    span {
+      text-decoration: underline;
+    }
+  }
+  @media (max-width: #{em(888)}) {
+    position: fixed;
+    top: auto;
+    bottom: rem(40);
+    left: 0;
+    right: 0;
+    display: flex;
+    height: rem(30);
+    justify-content: center;
+    white-space: nowrap;
+    padding-top: rem(10);
+    background-image: url('../images/pattern@2x.png');
+    background-size: rem(512);
+    background-position: center top;
+    background-color: $color--beige;
+    span {
+      display: block;
+    }
+  }
+}

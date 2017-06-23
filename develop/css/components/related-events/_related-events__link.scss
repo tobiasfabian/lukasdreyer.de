@@ -1,0 +1,6 @@
+.related-events__link {
+  &:focus,
+  &:hover {
+    color: $color--blue;
+  }
+}

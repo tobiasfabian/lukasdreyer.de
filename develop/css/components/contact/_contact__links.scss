@@ -1,0 +1,39 @@
+.contact__links {
+  display: flex;
+  flex-wrap: wrap;
+  line-height: rem(25);
+  justify-content: space-between;
+}
+
+
+.contact__links a {
+  display: inline-block;
+  font-family: $font-family--caveat;
+  font-size: rem(24);
+  color: $color--blue;
+  &:focus,
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+
+.contact__links div {
+  flex-basis: rem(336);
+  margin-bottom: rem(49);
+}
+
+
+.contact__email {
+}
+
+
+.contact__sm {
+  h2 {
+    margin-bottom: rem(8);
+  }
+  a {
+    display: inline-block;
+    margin-right: rem(6);
+  }
+}

@@ -1,0 +1,14 @@
+.cross-news {
+  padding-top:  rem(40);
+  padding-left: rem(72);
+  @media (max-width: #{em(888)}) {
+    padding-left: rem(48);
+    padding-right: rem(48);
+    padding-top: rem(40);
+    padding-bottom: rem(40);
+  }
+  @media (max-width: #{em(444)}) {
+    padding-left: rem(24);
+    padding-right: rem(24);
+  }
+}

@@ -1,0 +1,60 @@
+Title: Startseite
+
+----
+
+Info: 
+
+- 
+  title: Künstler
+  text: >
+    Künstlerisches Schaffen ist wie das
+    freie Spiel, das ich aus meiner Kindheit
+    kenne. Die Freiheit und das daraus
+    entstehende Selbstvertrauen geben mir
+    den Raum für meine Musik. Und so bin
+    ich glücklich, das Violoncello als
+    vielseitiges Instrument als meinen
+    ständigen Begleiter zu haben.
+  picture: kuenstler.jpg
+- 
+  title: Dozent
+  text: >
+    Professionalität entsteht dort, wo
+    Liebe und Genauigkeit gelebt werden.
+    Diese Vermittlung ist mir ein Anliegen
+    zwischen Anbieten und Lernen.
+    Vielseitige Talente fordern mich als
+    Dozent, Mentor und Coach heraus. Das
+    genaue Zuschauen und Zuhören erweitert
+    die Erfahrung.
+  picture: dozent.jpg
+- 
+  title: Impresario
+  text: >
+    Mein organisatorisches Talent ist ein
+    Teil meiner Motivation als Künstler.
+    Kommunikation bedeutet für mich Sender
+    und Empfänger sein zu können. Menschen
+    zusammen zu führen, ihnen eine
+    gemeinsame Bühne zu geben, fasziniert
+    mich.
+  picture: impresario.jpg
+- 
+  title: Arrangeur
+  text: >
+    Die Sprache der Musik ist universell in
+    ihrer emotionalen Gestik. Verbindungen
+    von Vorhandenem neu zu knüpfen, dabei
+    der Improvisation mit Erfindungsgeist
+    neue Möglichkeiten Raum zu geben, sind
+    für mich die Spielfelder für neue
+    Entdeckungen von Formen und Klängen.
+  picture: arrangeur.jpg
+
+----
+
+Meta-title: Lukas Dreyer – Cellist / Dozent / Impresario / Arrangeur
+
+----
+
+Meta-description: Lukas Dreyer – internationaler Künstler, Cellist, Arrangeur, Dozent, Mentor, Gründer und Mitglied von quattrocelli, die 12 Thüringer Cellisten, Freiraum Syndikat, Duo con pasión, Impresario der Eichsfelder Domfestspiele und künstlerischer Leiter der WGT Musik Kammer

@@ -1,0 +1,47 @@
+.nav {
+  position: fixed;
+  z-index: 15;
+  top: rem(135);
+  right: 0;
+  padding-top: rem(40);
+  text-align: right;
+  &.is-subpage {
+    padding-top: rem(10);
+  }
+
+  @media (min-width: #{em(1536)}) {
+    top: rem(0);
+    right: calc(50% - #{rem(1536/2)});
+  }
+
+  @media (max-width: #{em(928)}) {
+    top: auto;
+    bottom: 0;
+    left: 0;
+    padding-top: rem(10);
+    padding-left: rem(16);
+    padding-right: rem(16);
+    border-top: rem(1) solid transparentize(darken($color--beige, 10), 0.1);
+    background-color: transparentize($color--white, 0.1);
+    -webkit-backdrop-filter: blur(2px);
+    &::after {
+      content: ' ';
+      position: absolute;
+      z-index: -1;
+      left: 0;
+      right: 0;
+      top: 0;
+      height: 100%;
+      opacity: 0.5;
+      background-image: url('../images/pattern@2x.png');
+      background-size: rem(512);
+      background-position: center top;
+      background-color: $color--beige;
+    }
+    ul {
+      display: flex;
+      justify-content: space-around;
+    }
+  }
+
+}

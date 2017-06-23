@@ -1,0 +1,11 @@
+title: Website
+pages: false
+files: true
+fields:
+  title:
+    label: Title
+    type:  text
+  open-graph-image:
+    label: Open Graph Image
+    type:  image
+    required: true

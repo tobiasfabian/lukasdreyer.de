@@ -1,0 +1,52 @@
+.show {
+  display: flex;
+  box-sizing: border-box;
+  padding-bottom: rem(70);
+  padding-top: rem(7);
+  padding-left: rem(72);
+  flex-basis: calc(50% + #{rem(24/2)});
+  flex-shrink: 0;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  align-content: flex-start;
+  background-image: url('../images/dotted-border.svg');
+  background-repeat: repeat-y;
+  background-position: left top;
+
+  @media (max-width: #{em(1208)}) {
+    padding-left: rem(72-16);
+  }
+
+  @media (max-width: #{em(888)}) {
+    margin-top: rem(36);
+    margin-bottom: rem(40);
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: rem(48);
+    padding-right: rem(48);
+    flex-basis: rem(444);
+    flex-shrink: 1;
+    background: none;
+  }
+  @media (max-width: #{em(444)}) {
+    padding-left: rem(24);
+    padding-right: rem(24);
+  }
+}
+
+
+.show h2 {
+  @extend .typo-h3;
+  margin-top: rem(27);
+  margin-bottom: rem(18);
+  font-weight: 400;
+  em {
+    display: block;
+    font-weight: 500;
+    font-size: rem($font-size--h3 - 7);
+    text-transform: uppercase;
+  }
+  strong {
+    font-weight: 600;
+  }
+}

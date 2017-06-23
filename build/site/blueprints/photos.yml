@@ -1,0 +1,22 @@
+title: Fotos
+pages: false
+files:
+  fields:
+    alt:
+      label: Alternativer Text
+      type:  text
+      help: Wichtig für Benutzer mit Sehbehinderung und Suchmaschinen.
+      required: true
+    figcaption:
+      label: Bildunterschrift
+      type:  text
+fields:
+  title:
+    label: Titel
+    type:  text
+  meta-description: meta-description
+  gallery:
+    label: Foto-Galerie
+    type:  gallery
+    displayFilename: false
+    translate: false

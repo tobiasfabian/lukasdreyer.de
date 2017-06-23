@@ -1,0 +1,13 @@
+.logo {
+  max-width: rem(1040);
+  margin-left: auto;
+  margin-right: auto;
+  justify-content: center;
+  img {
+    max-width: 100%;
+  }
+  @media (max-width: #{em(444)}) {
+    max-width: rem(320);
+    margin-left: 0;
+  }
+}

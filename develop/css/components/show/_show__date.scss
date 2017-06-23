@@ -1,0 +1,34 @@
+/*
+time element
+*/
+.show__date {
+  display: block;
+  box-sizing: border-box;
+  width: rem(148);
+  margin-right: rem(46);
+  margin-left: rem(-12);
+  padding-top: rem(11);
+  padding-right: rem(7);
+  padding-bottom: rem(11);
+  padding-left: rem(11);
+  border: rem(2) solid $color--black;
+  border-radius: rem(4);
+  @media (max-width: #{em(1040)}) {
+    margin-right: rem(30);
+  }
+  @media (max-width: #{em(888)}) {
+    margin-left: rem(-9);
+  }
+}
+
+
+.show__date-day {
+  margin-bottom: rem(4);
+  font-weight: 600;
+}
+
+
+.show__date-hour {
+  font-size: rem($font-size--small);
+  line-height: rem($line-height--small)
+}

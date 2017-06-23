@@ -1,0 +1,139 @@
+Title: Konzert
+
+----
+
+Subtitle: The quattrocelli Scenes
+
+----
+
+Project: quattrocelli
+
+----
+
+Venue: 
+
+----
+
+City: 
+
+----
+
+Street: 
+
+----
+
+Text: 
+
+In
+„the
+quattrocelli
+scenes“
+verschmelzen
+freie
+Phantasiewelten
+in
+Klang,
+Licht
+und
+Raum
+mit
+gekonnt
+gesetzten
+Szenen
+zum
+Leitmotiv
+eines
+eigenen
+Films.
+Die
+sinnlichen
+Momente
+von
+Melancholie
+bis
+Komik,
+von
+denen
+die
+vier
+Protagonisten
+Lukas
+Dreyer,
+Tim
+Ströble,
+Matthias
+Trück
+und
+Hartwig
+Christ
+musikalisch
+erzählen,
+lassen
+das
+Publikum
+zwischen
+Erwartungen
+und
+Überraschungen
+genießen,
+lachen
+und
+träumen.
+Kammermusik
+in
+cineastischer
+Klangüppigkeit!
+
+----
+
+Dates: 
+
+- 
+  date: 2017-08-03 20:30:00
+  enddate: ""
+  venue: Sprudelhof im Badehaus
+  city: Bad Nauheim
+  street: ""
+  text: open air
+- 
+  date: 2017-08-04 18:00:00
+  enddate: ""
+  venue: Kaiserdom
+  city: Königslutter
+  street: ""
+  text: ""
+- 
+  date: 2017-08-05 18:00:00
+  enddate: ""
+  venue: Kaiserdom
+  city: Königslutter
+  street: ""
+  text: ""
+- 
+  date: 2017-08-06 20:00:00
+  enddate: ""
+  venue: Meerkabarett
+  city: Sylt
+  street: ""
+  text: ""
+- 
+  date: 2017-08-11 20:00:00
+  enddate: ""
+  venue: tba
+  city: Goßlar
+  street: ""
+  text: ""
+- 
+  date: 2017-09-16 19:00:00
+  enddate: ""
+  venue: An der Tropfsteinhöhle
+  city: Bad Grund
+  street: ""
+  text: ""
+- 
+  date: 2017-09-16 20:00:00
+  enddate: ""
+  venue: Burg Namedy
+  city: Andernach
+  street: ""
+  text: ""

@@ -1,0 +1,24 @@
+title: Nachricht
+pages: false
+files:
+  fields:
+    alt:
+      label: Alternativer Text
+      type:  text
+      required: true
+      help:  Kurzer Text, der das Foto beschreibt. Wichtig für Screenreader (Benutzer mit Sehschwäche) und Suchmaschinen. Dieser Text ist nicht sichtbar.
+    caption:
+      label: Bildbeschreibung
+      type:  textarea
+      buttons: false
+      help:  Dieser Text erscheint unter dem Foto. Er kann genutzt werden um zum Beispiel den Fotografen zu nennen oder das Foto näher zu beschreibe.
+fields:
+  title:
+    label: Titel
+    type:  text
+  published:
+    label: Datum
+    type:  date
+  text:
+    label: Text
+    type:  textarea

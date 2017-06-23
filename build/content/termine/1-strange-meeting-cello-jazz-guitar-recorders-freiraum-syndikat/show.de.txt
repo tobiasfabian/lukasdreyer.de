@@ -1,0 +1,47 @@
+Title: Strange Meeting
+
+----
+
+Text: Das vielseitige Programm „Strange Meeting“ ist eine klangliche Herausforderung und spannt mit Musik aus über vier Jahrhunderten und unterschiedlichsten Stilen einen dramaturgisch vielseitigen Bogen.
+
+----
+
+Dates: 
+
+- 
+  date: 2017-01-14 19:00:00
+  place: >
+    Evangelische Kirche, Huttenstr. 1
+    Mainz-Finthen
+  venue: Evangelische Kirche
+  city: Mainz-Finthen
+  address: Huttenstr. 1
+  street: Huttenstr. 1
+  text: ""
+- 
+  date: 2017-06-16 21:00:00
+  enddate: ""
+  venue: Villa Vigioni
+  city: Como
+  street: ""
+  text: (geschlossene Veranstaltung)
+
+----
+
+Subtitle: Cello, Jazz-Guitar, Recorders
+
+----
+
+Venue: 
+
+----
+
+City: 
+
+----
+
+Street: 
+
+----
+
+Project: Freiraum Syndikat

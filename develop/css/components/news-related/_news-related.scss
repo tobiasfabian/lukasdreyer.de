@@ -1,0 +1,39 @@
+.news-related {
+  position: relative;
+  max-width: rem(888);
+  margin-top: rem(40);
+  margin-bottom: rem(70);
+  margin-left:  auto;
+  margin-right: auto;
+  &::before {
+    content: ' ';
+    position: absolute;
+    z-index: -1;
+    top: 0;
+    right: 0;
+    left: 0;
+    height: rem(24);
+    background-image: url('../images/dotted-border.svg');
+    background-repeat: repeat-x;
+    background-position: center top;
+    transform: rotate(-10deg);
+  }
+}
+
+
+.news-related__content {
+  max-width: rem(432);
+  margin-left: auto;
+  padding-top: rem(30);
+  padding-left: rem(24);
+  padding-right: rem(24);
+  h2 {
+    margin-bottom: rem(20);
+    opacity: 0.4;
+    font-weight: 500;
+  }
+  @media (max-width: #{em(928)}) {
+    margin-right: auto;
+    padding-top: rem(70);
+  }
+}

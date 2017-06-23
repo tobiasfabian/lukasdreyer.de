@@ -1,0 +1,14 @@
+.news-item {
+  display: flex;
+  max-width: rem(624);
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: rem(24);
+  padding-right: rem(24);
+  flex-direction: column;
+}
+
+
+.news-item h2 {
+  margin-bottom: rem(14);
+}

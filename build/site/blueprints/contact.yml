@@ -1,0 +1,27 @@
+title: Kontakt
+pages: false
+files: false
+fields:
+  title:
+    label: Titel
+  meta-description: meta-description
+  email:
+    label: E-Mail
+    type:  email
+  social-media:
+    label: Social Media
+    type:  structure
+    style: table
+    fields:
+      title:
+        label: Titel
+        required: false
+      url:
+        label: URL
+        type:  url
+  newsletter-text:
+    label: Newsletter Text
+    type:  text
+  text:
+    label: Text
+    type:  textarea

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="400px" height="2px" viewBox="0 0 400 2" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>red-border-interrupted</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="red-border-interrupted" stroke="#D90700" stroke-width="2">
+            <path d="M399,1 L399,209 L1,209 L1,1 L104,1 L296,1 L399,1 Z" id="Rectangle"></path>
+        </g>
+    </g>
+</svg>

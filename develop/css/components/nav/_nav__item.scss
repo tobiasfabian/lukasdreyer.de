@@ -1,0 +1,14 @@
+.nav__item {
+  min-height: rem(20);
+  margin-left:  rem(20);
+  margin-right: rem(20);
+  margin-bottom: rem(10);
+  @media (max-width: #{em(928)}) {
+    margin-bottom: rem(8);
+    margin-left: auto;
+    margin-right: auto;
+    &.is-homepage {
+      display: none;
+    }
+  }
+}

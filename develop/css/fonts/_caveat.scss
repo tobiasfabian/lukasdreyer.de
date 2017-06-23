@@ -1,0 +1,26 @@
+/* work-sans-100 - latin */
+@font-face {
+  font-family: 'Caveat';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/caveat-v2-latin-regular.eot'); /* IE9 Compat Modes */
+  src: local('Caveat'), local('Caveat'),
+       url('../fonts/caveat-v2-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('../fonts/caveat-v2-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../fonts/caveat-v2-latin-regular.woff') format('woff'), /* Modern Browsers */
+       url('../fonts/caveat-v2-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('../fonts/caveat-v2-latin-regular.svg#Caveat') format('svg'); /* Legacy iOS */
+}
+/* work-sans-200 - latin */
+@font-face {
+  font-family: 'Caveat';
+  font-style: normal;
+  font-weight: 700;
+  src: url('../fonts/caveat-v2-latin-700.eot'); /* IE9 Compat Modes */
+  src: local('Caveat Bold'), local('Caveat-Bold'),
+       url('../fonts/caveat-v2-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('../fonts/caveat-v2-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../fonts/caveat-v2-latin-700.woff') format('woff'), /* Modern Browsers */
+       url('../fonts/caveat-v2-latin-700.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('../fonts/caveat-v2-latin-700.svg#Caveat') format('svg'); /* Legacy iOS */
+}

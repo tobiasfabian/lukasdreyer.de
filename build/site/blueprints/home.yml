@@ -1,0 +1,23 @@
+title: Start
+pages: false
+files: true
+fields:
+  title:
+    label: Title
+    type:  text
+  meta-title: meta-title
+  meta-description: meta-description
+  info:
+    label: Infos
+    type:  structure
+    fields:
+      title:
+        label: Titel
+        type:  text
+      text:
+        label: Text
+        type:  textarea
+        buttons: false
+      picture:
+        label: Bild
+        type:  image

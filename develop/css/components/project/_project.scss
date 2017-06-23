@@ -1,0 +1,16 @@
+.project {
+  position: relative;
+  display: flex;
+  box-sizing: border-box;
+  max-width: rem(888);
+  height: rem(600);
+  margin-left:  auto;
+  margin-right: auto;
+  justify-content: center;
+  align-items: center;
+  @media (max-width: #{em(444)}) {
+    height: auto;
+    padding-top: rem(120);
+    padding-bottom: rem(120);
+  }
+}

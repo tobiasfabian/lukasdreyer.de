@@ -1,0 +1,35 @@
+.bttn {
+  position: relative;
+  display: inline-block;
+  padding-right: rem(28);
+  font-family: $font-family--caveat;
+  font-size: rem(24);
+  color: $color--blue;
+  &::before,
+  &::after {
+    content: '';
+    position: absolute;
+    right: rem(7);
+    top: rem(5);
+    width: rem(13);
+    height: rem(12);
+    background-image: url('../images/arrow--blue-alt.svg');
+    background-size: rem(22) rem(12);
+    background-repeat: no-repeat;
+    background-position: left center;
+    transform-origin: left;
+    transition-duration: $transition-duration * 0.5;
+  }
+  &::after {
+    right: 0;
+    width: rem(8);
+    background-position: right center;
+  }
+  &:focus,
+  &:hover {
+    // text-decoration: underline;
+    &::after {
+      transform: translateX(#{rem(1)});
+    }
+  }
+}

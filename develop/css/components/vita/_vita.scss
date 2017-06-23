@@ -1,0 +1,38 @@
+.vita {
+  max-width: rem(624);
+  margin-bottom: rem(100);
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: rem(24);
+  padding-right: rem(24);
+  &::after {
+    content: ' ';
+    display: block;
+    height: rem(24*4);
+    width: rem(24);
+    margin-left: auto;
+    margin-right: auto;
+    background-image: url('../images/dotted-border--red.svg');
+  }
+  @media (max-width: #{em(888)}) {
+    margin-top: rem(40);
+  }
+}
+
+
+.vita .typo h3 {
+  margin-top: rem(0);
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  &::before {
+    content: ' ';
+    display: block;
+    height: rem(24*3);
+    width: rem(24);
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: rem(8);
+    background-image: url('../images/dotted-border--red.svg');
+  }
+}

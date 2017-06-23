@@ -1,0 +1,10 @@
+title: Projekte
+pages:
+  template:
+    - project
+files: false
+fields:
+  title:
+    label: Title
+    type:  text
+  meta-description: meta-description

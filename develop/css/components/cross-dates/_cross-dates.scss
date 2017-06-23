@@ -1,0 +1,20 @@
+.cross-dates {
+  display: flex;
+  padding-bottom: rem(20);
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  box-sizing: border-box;
+  @media (max-width: #{em(888)}) {
+    padding-top: rem(40);
+    padding-bottom: rem(40+24);
+  }
+}
+
+
+.cross-dates .bttn {
+  margin-left: rem(48*2);
+  @media (max-width: #{em(444)}) {
+    margin-left: rem(24*3);
+  }
+}
