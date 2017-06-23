@@ -1,6 +1,7 @@
 .nav__link {
   @extend .bttn;
   @media (max-width: #{em(928)}) {
+    padding: rem(4);
     &::before,
     &::after {
       content: none;

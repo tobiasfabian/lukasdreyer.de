@@ -1551,12 +1551,12 @@
 		},
 	"\/develop\/js\/script.js": {
 		"ft": 64,
-		"mi": 0,
+		"mi": 1,
 		"oA": 0,
 		"oAP": "\/build\/assets\/js\/script.js",
 		"oF": 2,
 		"sC": 0,
-		"tS": 0
+		"tS": 1
 		},
 	"\/README.md": {
 		"cS": 0,
