@@ -11,9 +11,9 @@
 "files": {
 	"\/.gitattributes": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/build\/assets\/.gitattributes",
-		"oF": 0
+		"oF": 1
 		},
 	"\/build": {
 		"ft": 65536,
@@ -1566,9 +1566,9 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/build\/assets\/README.html",
-		"oF": 0,
+		"oF": 1,
 		"oFM": 0,
 		"oS": 0,
 		"pHT": 0,
