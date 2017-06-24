@@ -23,7 +23,7 @@
   @media (max-width: #{em(888)}) {
     position: fixed;
     top: auto;
-    bottom: rem(40);
+    bottom: rem(41);
     left: 0;
     right: 0;
     display: flex;
@@ -31,10 +31,23 @@
     justify-content: center;
     white-space: nowrap;
     padding-top: rem(10);
-    background-image: url('../images/pattern@2x.png');
-    background-size: rem(512);
-    background-position: center top;
-    background-color: $color--beige;
+    border-top: rem(1) solid transparentize(darken($color--beige, 10), 0.1);
+    background-color: transparentize($color--white, 0.1);
+    -webkit-backdrop-filter: blur(2px);
+    &::after {
+      content: ' ';
+      position: absolute;
+      z-index: -1;
+      left: 0;
+      right: 0;
+      top: 0;
+      height: 100%;
+      opacity: 0.5;
+      background-image: url('../images/pattern@2x.png');
+      background-size: rem(512);
+      background-position: center top;
+      background-color: $color--beige;
+    }
     span {
       display: block;
     }
