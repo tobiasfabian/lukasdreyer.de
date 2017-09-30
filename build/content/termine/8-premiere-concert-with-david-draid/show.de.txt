@@ -1,0 +1,37 @@
+Title: Concert with David Braid
+
+----
+
+Subtitle: Premiere
+
+----
+
+Project: 
+
+----
+
+Venue: Festival Musica
+
+----
+
+City: Casalmaggiore
+
+----
+
+Street: 
+
+----
+
+Text: Premiere: Konzert mit Kompositionen von und mit David Braid im Rahmen des Festival Musica Casalmaggiore mit den Themen Komposition und Improvisation.
+
+----
+
+Dates: 
+
+- 
+  date: 2017-07-18
+  enddate: ""
+  venue: Festival Musica
+  city: Casalmaggiore
+  street: ""
+  text: ""

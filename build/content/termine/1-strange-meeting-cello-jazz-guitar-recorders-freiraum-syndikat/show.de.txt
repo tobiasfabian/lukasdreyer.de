@@ -25,6 +25,13 @@ Dates:
   city: Como
   street: ""
   text: (geschlossene Veranstaltung)
+- 
+  date: 2017-11-11 20:00:00
+  enddate: ""
+  venue: Neuköllner Oper
+  city: Berlin
+  street: Karl-Marx-Str.
+  text: ""
 
 ----
 

@@ -34,19 +34,13 @@ Dates:
   title: Konzert beim Musikfest Spielberg
   subtitle: ""
   project: quattrocelli
-  date: 2017-06-23 22:30:00
+  date: 2017-06-23 20:30:00
   enddate: ""
   venue: Sudhaus,
   city: Gnotzheim
   street: Spielberg 1
   text: ""
-- 
-  title: Konzert und Meisterkurs
-  subtitle: Casalmaggiore Festival Musica
-  project: ""
-  date: 2017-07-13
-  enddate: 2017-07-19
-  venue: ""
-  city: Casalmaggiore
-  street: ""
-  text: ""
+
+----
+
+Meta-description: 

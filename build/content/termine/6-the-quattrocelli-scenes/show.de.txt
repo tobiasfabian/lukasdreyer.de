@@ -117,12 +117,14 @@ Dates:
   street: ""
   text: ""
 - 
-  date: 2017-08-11 20:00:00
+  date: 2017-08-11
   enddate: ""
-  venue: tba
-  city: Goßlar
+  venue: Musikfest
+  city: Goslar
   street: ""
-  text: ""
+  text: >
+    Kinderkonzert und Soirée im Rahmen des
+    Musikfestes Goslar
 - 
   date: 2017-09-16 19:00:00
   enddate: ""
@@ -131,9 +133,30 @@ Dates:
   street: ""
   text: ""
 - 
-  date: 2017-09-16 20:00:00
+  date: 2017-09-17 20:00:00
   enddate: ""
   venue: Burg Namedy
   city: Andernach
+  street: ""
+  text: ""
+- 
+  date: 2017-08-01 20:00:00
+  enddate: ""
+  venue: Kleines Zelt
+  city: Friedrichshafen
+  street: ""
+  text: ""
+- 
+  date: 2017-09-15 20:00:00
+  enddate: ""
+  venue: Festhalle
+  city: Rutesheim
+  street: ""
+  text: ""
+- 
+  date: 2017-09-07 19:30:00
+  enddate: ""
+  venue: tba
+  city: Quickborn
   street: ""
   text: ""

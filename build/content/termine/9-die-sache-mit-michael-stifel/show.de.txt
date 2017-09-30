@@ -1,0 +1,49 @@
+Title: "Die Sache mit Michael Stifel"
+
+----
+
+Subtitle: Theaterprojekt
+
+----
+
+Project: Freiraum Syndikat
+
+----
+
+Venue: Ev. Kirche
+
+----
+
+City: Mainz
+
+----
+
+Street: Huttenstr. 1
+
+----
+
+Text: 
+
+Ein Laientheater-Projekt der Gemeinde mit musikalischer Unterstützung von Freiraum Syndikat. 
+Projektleitung, Text und Kompositionen: Lutz Dreyer
+Regie: Anita Steiner
+Musik: FREIRAUM SYNDIKAT
+
+----
+
+Dates: 
+
+- 
+  date: 2017-10-20
+  enddate: ""
+  venue: ""
+  city: ""
+  street: ""
+  text: ""
+- 
+  date: 2017-10-21
+  enddate: ""
+  venue: ""
+  city: ""
+  street: ""
+  text: ""
