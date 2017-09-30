@@ -29,7 +29,7 @@
     ?>
     <ul class="news-list">
     <?php
-      foreach($news->children()->visible()->limit(4) as $news_item):
+      foreach($news->children()->visible()->flip()->limit(3) as $news_item):
         $date = strtotime($news_item->published());
     ?>
       <li class="news-list__item">

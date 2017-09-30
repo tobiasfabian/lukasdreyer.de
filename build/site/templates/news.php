@@ -5,7 +5,7 @@
 <main class="news">
   <ul class="news-list">
   <?php
-  foreach($page->children()->visible() as $news_item):
+  foreach($page->children()->visible()->flip() as $news_item):
     $date = strtotime($news_item->published());
   ?>
   <li class="news-list__item">
