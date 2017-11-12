@@ -2,7 +2,8 @@
   margin-bottom: rem($line-height--standard);
 }
 
-.typo a {
+.typo a,
+.typo-link {
   text-decoration: underline;
   transition-duration: $transition-duration;
   &:focus,
@@ -12,7 +13,7 @@
 }
 
 .typo strong,
-.typo bold {
+.typo b {
   font-weight: 600;
 }
 
