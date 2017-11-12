@@ -40,6 +40,18 @@ Dates:
   city: Gnotzheim
   street: Spielberg 1
   text: ""
+- 
+  title: Silvesterkonzerte
+  subtitle: >
+    Filmmusik und klassische Highlights im
+    Arrangement für vier Celli
+  project: quattrocelli
+  date: 2017-12-31
+  enddate: ""
+  venue: Schloss
+  city: Stuttgart
+  street: ""
+  text: ""
 
 ----
 

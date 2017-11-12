@@ -31,13 +31,14 @@ Info:
 - 
   title: Impresario
   text: >
-    Mein organisatorisches Talent ist ein
-    Teil meiner Motivation als Künstler.
-    Kommunikation bedeutet für mich Sender
-    und Empfänger sein zu können. Menschen
-    zusammen zu führen, ihnen eine
-    gemeinsame Bühne zu geben, fasziniert
-    mich.
+    Gründungsinitiativen für
+    genreübergreifende Konzepte sind Teile
+    meiner Motivation als Künstler.
+    Kommunikation und Organisation bedeuten
+    für mich Sender und Empfänger sein zu
+    können. Begeisterte Menschen zusammen
+    zu führen, ihnen eine gemeinsame Bühne
+    zu geben, fasziniert mich.
   picture: impresario.jpg
 - 
   title: Arrangeur

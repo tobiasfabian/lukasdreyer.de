@@ -7,9 +7,10 @@
 		"uuidString": "F2DD808E-D721-4D6F-8715-7D2E93F0A690"
 		}
 	],
-"creatorBuild": "25900",
+"creatorBuild": "26097",
 "files": {
 	"\/.gitattributes": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/build\/assets\/.gitattributes",
@@ -841,6 +842,7 @@
 		"uL": 1
 		},
 	"\/develop\/fonts\/caveat-v2-latin-700.eot": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/build\/assets\/fonts\/caveat-v2-latin-700.eot",
@@ -857,24 +859,28 @@
 		"prP": 0
 		},
 	"\/develop\/fonts\/caveat-v2-latin-700.ttf": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/build\/assets\/fonts\/caveat-v2-latin-700.ttf",
 		"oF": 0
 		},
 	"\/develop\/fonts\/caveat-v2-latin-700.woff": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/build\/assets\/fonts\/caveat-v2-latin-700.woff",
 		"oF": 0
 		},
 	"\/develop\/fonts\/caveat-v2-latin-700.woff2": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/build\/assets\/fonts\/caveat-v2-latin-700.woff2",
 		"oF": 0
 		},
 	"\/develop\/fonts\/caveat-v2-latin-regular.eot": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/build\/assets\/fonts\/caveat-v2-latin-regular.eot",
@@ -891,24 +897,28 @@
 		"prP": 0
 		},
 	"\/develop\/fonts\/caveat-v2-latin-regular.ttf": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/build\/assets\/fonts\/caveat-v2-latin-regular.ttf",
 		"oF": 0
 		},
 	"\/develop\/fonts\/caveat-v2-latin-regular.woff": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/build\/assets\/fonts\/caveat-v2-latin-regular.woff",
 		"oF": 0
 		},
 	"\/develop\/fonts\/caveat-v2-latin-regular.woff2": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/build\/assets\/fonts\/caveat-v2-latin-regular.woff2",
 		"oF": 0
 		},
 	"\/develop\/fonts\/work-sans-v2-latin-100.eot": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/build\/assets\/fonts\/work-sans-v2-latin-100.eot",
@@ -925,24 +935,28 @@
 		"prP": 0
 		},
 	"\/develop\/fonts\/work-sans-v2-latin-100.ttf": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/build\/assets\/fonts\/work-sans-v2-latin-100.ttf",
 		"oF": 0
 		},
 	"\/develop\/fonts\/work-sans-v2-latin-100.woff": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/build\/assets\/fonts\/work-sans-v2-latin-100.woff",
 		"oF": 0
 		},
 	"\/develop\/fonts\/work-sans-v2-latin-100.woff2": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/build\/assets\/fonts\/work-sans-v2-latin-100.woff2",
 		"oF": 0
 		},
 	"\/develop\/fonts\/work-sans-v2-latin-200.eot": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/build\/assets\/fonts\/work-sans-v2-latin-200.eot",
@@ -959,24 +973,28 @@
 		"prP": 0
 		},
 	"\/develop\/fonts\/work-sans-v2-latin-200.ttf": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/build\/assets\/fonts\/work-sans-v2-latin-200.ttf",
 		"oF": 0
 		},
 	"\/develop\/fonts\/work-sans-v2-latin-200.woff": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/build\/assets\/fonts\/work-sans-v2-latin-200.woff",
 		"oF": 0
 		},
 	"\/develop\/fonts\/work-sans-v2-latin-200.woff2": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/build\/assets\/fonts\/work-sans-v2-latin-200.woff2",
 		"oF": 0
 		},
 	"\/develop\/fonts\/work-sans-v2-latin-300.eot": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/build\/assets\/fonts\/work-sans-v2-latin-300.eot",
@@ -993,24 +1011,28 @@
 		"prP": 0
 		},
 	"\/develop\/fonts\/work-sans-v2-latin-300.ttf": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/build\/assets\/fonts\/work-sans-v2-latin-300.ttf",
 		"oF": 0
 		},
 	"\/develop\/fonts\/work-sans-v2-latin-300.woff": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/build\/assets\/fonts\/work-sans-v2-latin-300.woff",
 		"oF": 0
 		},
 	"\/develop\/fonts\/work-sans-v2-latin-300.woff2": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/build\/assets\/fonts\/work-sans-v2-latin-300.woff2",
 		"oF": 0
 		},
 	"\/develop\/fonts\/work-sans-v2-latin-500.eot": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/build\/assets\/fonts\/work-sans-v2-latin-500.eot",
@@ -1027,24 +1049,28 @@
 		"prP": 0
 		},
 	"\/develop\/fonts\/work-sans-v2-latin-500.ttf": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/build\/assets\/fonts\/work-sans-v2-latin-500.ttf",
 		"oF": 0
 		},
 	"\/develop\/fonts\/work-sans-v2-latin-500.woff": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/build\/assets\/fonts\/work-sans-v2-latin-500.woff",
 		"oF": 0
 		},
 	"\/develop\/fonts\/work-sans-v2-latin-500.woff2": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/build\/assets\/fonts\/work-sans-v2-latin-500.woff2",
 		"oF": 0
 		},
 	"\/develop\/fonts\/work-sans-v2-latin-600.eot": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/build\/assets\/fonts\/work-sans-v2-latin-600.eot",
@@ -1061,24 +1087,28 @@
 		"prP": 0
 		},
 	"\/develop\/fonts\/work-sans-v2-latin-600.ttf": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/build\/assets\/fonts\/work-sans-v2-latin-600.ttf",
 		"oF": 0
 		},
 	"\/develop\/fonts\/work-sans-v2-latin-600.woff": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/build\/assets\/fonts\/work-sans-v2-latin-600.woff",
 		"oF": 0
 		},
 	"\/develop\/fonts\/work-sans-v2-latin-600.woff2": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/build\/assets\/fonts\/work-sans-v2-latin-600.woff2",
 		"oF": 0
 		},
 	"\/develop\/fonts\/work-sans-v2-latin-700.eot": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/build\/assets\/fonts\/work-sans-v2-latin-700.eot",
@@ -1095,24 +1125,28 @@
 		"prP": 0
 		},
 	"\/develop\/fonts\/work-sans-v2-latin-700.ttf": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/build\/assets\/fonts\/work-sans-v2-latin-700.ttf",
 		"oF": 0
 		},
 	"\/develop\/fonts\/work-sans-v2-latin-700.woff": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/build\/assets\/fonts\/work-sans-v2-latin-700.woff",
 		"oF": 0
 		},
 	"\/develop\/fonts\/work-sans-v2-latin-700.woff2": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/build\/assets\/fonts\/work-sans-v2-latin-700.woff2",
 		"oF": 0
 		},
 	"\/develop\/fonts\/work-sans-v2-latin-800.eot": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/build\/assets\/fonts\/work-sans-v2-latin-800.eot",
@@ -1129,24 +1163,28 @@
 		"prP": 0
 		},
 	"\/develop\/fonts\/work-sans-v2-latin-800.ttf": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/build\/assets\/fonts\/work-sans-v2-latin-800.ttf",
 		"oF": 0
 		},
 	"\/develop\/fonts\/work-sans-v2-latin-800.woff": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/build\/assets\/fonts\/work-sans-v2-latin-800.woff",
 		"oF": 0
 		},
 	"\/develop\/fonts\/work-sans-v2-latin-800.woff2": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/build\/assets\/fonts\/work-sans-v2-latin-800.woff2",
 		"oF": 0
 		},
 	"\/develop\/fonts\/work-sans-v2-latin-900.eot": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/build\/assets\/fonts\/work-sans-v2-latin-900.eot",
@@ -1163,24 +1201,28 @@
 		"prP": 0
 		},
 	"\/develop\/fonts\/work-sans-v2-latin-900.ttf": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/build\/assets\/fonts\/work-sans-v2-latin-900.ttf",
 		"oF": 0
 		},
 	"\/develop\/fonts\/work-sans-v2-latin-900.woff": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/build\/assets\/fonts\/work-sans-v2-latin-900.woff",
 		"oF": 0
 		},
 	"\/develop\/fonts\/work-sans-v2-latin-900.woff2": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/build\/assets\/fonts\/work-sans-v2-latin-900.woff2",
 		"oF": 0
 		},
 	"\/develop\/fonts\/work-sans-v2-latin-regular.eot": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/build\/assets\/fonts\/work-sans-v2-latin-regular.eot",
@@ -1197,18 +1239,21 @@
 		"prP": 0
 		},
 	"\/develop\/fonts\/work-sans-v2-latin-regular.ttf": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/build\/assets\/fonts\/work-sans-v2-latin-regular.ttf",
 		"oF": 0
 		},
 	"\/develop\/fonts\/work-sans-v2-latin-regular.woff": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/build\/assets\/fonts\/work-sans-v2-latin-regular.woff",
 		"oF": 0
 		},
 	"\/develop\/fonts\/work-sans-v2-latin-regular.woff2": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/build\/assets\/fonts\/work-sans-v2-latin-regular.woff2",
@@ -1563,10 +1608,10 @@
 		"tS": 1
 		},
 	"\/README.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -2126,6 +2171,10 @@
 			"active": 0,
 			"optionString": "'expression'"
 			},
+		"function-paren-newline": {
+			"active": 0,
+			"optionString": "'multiline'"
+			},
 		"generator-star-spacing": {
 			"active": 0,
 			"optionString": "{'before': true, 'after': false}"
@@ -2190,9 +2239,9 @@
 			"active": 0,
 			"optionString": "{'beforeBlockComment': true}"
 			},
-		"lines-around-directive": {
+		"lines-between-class-members": {
 			"active": 0,
-			"optionString": "{'before': 'always', 'after': 'always'}"
+			"optionString": "'always', {exceptAfterSingleLine: false}"
 			},
 		"max-depth": {
 			"active": 0,
@@ -2222,6 +2271,10 @@
 			"active": 0,
 			"optionString": "{'max': 1}"
 			},
+		"multiline-comment-style": {
+			"active": 0,
+			"optionString": "'starred-block'"
+			},
 		"multiline-ternary": {
 			"active": 0,
 			"optionString": "'always'"
@@ -2231,14 +2284,6 @@
 			"optionString": "{'newIsCap': true, 'capIsNew': true, 'newIsCapExceptions': [], 'capIsNewExceptions': ['Array', 'Boolean', 'Date', 'Error', 'Function', 'Number', 'Object', 'RegExp', 'String', 'Symbol'], 'properties': true}"
 			},
 		"new-parens": {
-			"active": 0,
-			"optionString": ""
-			},
-		"newline-after-var": {
-			"active": 0,
-			"optionString": "'always'"
-			},
-		"newline-before-return": {
 			"active": 0,
 			"optionString": ""
 			},
@@ -3342,7 +3387,8 @@
 		"createSourceMap": 0,
 		"minifyOutput": 1,
 		"outputStyle": 0,
-		"syntaxCheckerStyle": 1
+		"syntaxCheckerStyle": 1,
+		"transpilerStyle": 1
 		},
 	"languageDefaultsCSS": {
 		"autoOutputAction": 0,
@@ -3375,6 +3421,7 @@
 		"noEscapeInAttributes": 0,
 		"outputFormat": 2,
 		"outputStyle": 0,
+		"shouldRunCacheBuster": 0,
 		"useCDATA": 0,
 		"useDoubleQuotes": 0,
 		"useUnixNewlines": 0
@@ -3416,7 +3463,8 @@
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "kit",
 		"autoOutputPathReplace2": "html",
-		"autoOutputPathStyle": 0
+		"autoOutputPathStyle": 0,
+		"shouldRunCacheBuster": 0
 		},
 	"languageDefaultsLESS": {
 		"allowInsecureImports": 0,
@@ -3448,13 +3496,13 @@
 		"enableFootnotes": 1,
 		"enableLabels": 1,
 		"enableSmartQuotes": 1,
-		"escapeLineBreaks": 0,
 		"maskEmailAddresses": 1,
 		"outputFormat": 0,
 		"outputStyle": 0,
 		"parseMetadata": 1,
 		"processHTML": 0,
 		"randomFootnoteNumbers": 0,
+		"shouldRunCacheBuster": 0,
 		"useCompatibilityMode": 0
 		},
 	"languageDefaultsOTHER": {
@@ -3463,7 +3511,8 @@
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 0
+		"autoOutputPathStyle": 0,
+		"shouldRunCacheBuster": 0
 		},
 	"languageDefaultsPNG": {
 		"autoOutputAction": 0,
@@ -3483,7 +3532,8 @@
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
 		"compileDebug": 1,
-		"outputStyle": 0
+		"outputStyle": 0,
+		"shouldRunCacheBuster": 0
 		},
 	"languageDefaultsSASS": {
 		"autoOutputAction": 0,
@@ -3511,7 +3561,8 @@
 		"logicless": 0,
 		"outputFormat": 0,
 		"outputStyle": 1,
-		"railsCompatible": 0
+		"railsCompatible": 0,
+		"shouldRunCacheBuster": 0
 		},
 	"languageDefaultsSTYLUS": {
 		"autoOutputAction": 0,

@@ -43,11 +43,11 @@ Diese Website verwendet den Webanalysedienst Piwik. Piwik verwendet Cookies, die
 
 ----
 
-Meta-title: Kontakt und Impressum
+Meta-title: 
 
 ----
 
-Meta-description: Kontakt Lukas Dreyer – Cellist, Arrangeur, Dozent, Impressario, Leipzig
+Meta-description: Kontakt Lukas Dreyer - Cellist, Arrangeur, Dozent, Impressario, Leipzig
 
 ----
 

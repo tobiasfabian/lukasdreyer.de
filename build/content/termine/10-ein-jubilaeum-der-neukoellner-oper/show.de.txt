@@ -1,0 +1,37 @@
+Title: 40! Ein Jubiläum der Neuköllner Oper
+
+----
+
+Subtitle: Musik der Bettleropera aus 2 Generationen
+
+----
+
+Project: Freiraum Syndikat
+
+----
+
+Venue: Neuköllner Oper
+
+----
+
+City: Berlin
+
+----
+
+Street: 
+
+----
+
+Text: (link: https://www.neukoellneroper.de/play/40-2/ text: Infos & Tickets popup: yes)
+
+----
+
+Dates: 
+
+- 
+  date: 2017-11-12 11:00:00
+  enddate: ""
+  venue: ""
+  city: ""
+  street: ""
+  text: ""
