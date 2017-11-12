@@ -2,6 +2,7 @@ title: Termine
 pages:
   template:
     - show
+icon: calendar
 files: false
 fields:
   title:

@@ -3,6 +3,7 @@ pages:
   template:
     - news_item
   sort: published
+icon: newspaper-o
 files: false
 fields:
   title:

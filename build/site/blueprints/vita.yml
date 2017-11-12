@@ -1,6 +1,6 @@
 title: Lebenslauf
 pages: false
-files: false
+files: true
 fields:
   title:
     label: Titel

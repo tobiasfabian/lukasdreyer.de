@@ -16,7 +16,7 @@
     <h2>weitere Neuigkeiten</h2>
     <ul class="news-list">
     <?php
-    foreach($page->siblings(false)->visible() as $news_item):
+    foreach($page->siblings(false)->visible()->flip() as $news_item):
       $date = strtotime($news_item->published());
     ?>
     <li class="news-list__item">

@@ -29,7 +29,7 @@
     <strong><?= $event->title() ?></strong>
     <?= $event->subtitle() ?>
   </h2>
-  <?= $event->text() ?>
+  <?= $event->text()->kt() ?>
   <?php if ($relatedEvents->count() > 0): ?>
   <div class="related-events">
     <h3>weitere Termine</h3>

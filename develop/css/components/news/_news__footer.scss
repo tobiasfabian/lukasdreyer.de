@@ -4,6 +4,7 @@
   left: 0;
   right: 0;
   z-index: 5;
+  pointer-events: none;
   height: rem(154);
   background-image: url('../images/pattern--oblique@2x.png');
   background-size: rem(888);
@@ -44,6 +45,7 @@
   position: absolute;
   top: rem(95);
   left: 50%;
+  pointer-events: auto;
   padding-left: rem(20);
   font-family: $font-family--caveat;
   font-size: rem(25);
