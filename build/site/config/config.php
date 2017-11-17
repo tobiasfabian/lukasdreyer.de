@@ -60,27 +60,6 @@ c::set('routes', array(
     'action'  => function() {
       return site()->visit('termine', 'en');
     }
-  ),
-  array(
-    'pattern' => 'api/dates',
-    'action'  => function() {
-      $shows = page('termine')->children()->visible();
-      $dates = new Collection();
-      $key = 0;
-      foreach($shows as $show) {
-        foreach($show->dates()->toStructure() as $date) {
-          $dateObject = [];
-          $dateObject['title']  = (string)$show->title();
-          $dateObject['date']   = (string)$date->date();
-          $dateObject['venue']  = (string)$date->venue();
-          $dateObject['street'] = (string)$date->street();
-          $dates->append($key, $dateObject);
-          $key++;
-        }
-      }
-      $dates = $dates->sortBy('date');
-      return response::json($dates->toArray());
-    }
   )
 ));
 
