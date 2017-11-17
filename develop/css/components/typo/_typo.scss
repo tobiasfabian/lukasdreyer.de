@@ -74,3 +74,24 @@
     line-height: rem($line-height--small);
   }
 }
+
+.typo iframe {
+  width: 100%;
+  height: rem(351);
+  max-height: calc((100vw - #{rem(24 * 2)}) * (9/16));
+  display: block;
+  margin: rem(45) auto rem(35);
+}
+
+.typo table {
+  margin-bottom: rem($line-height--standard);
+  td {
+    padding-bottom: rem($line-height--small);
+  }
+  td:first-child {
+    padding-right: rem(16);
+    font-weight: 600;
+    color: $color--red;
+    white-space: nowrap;
+  }
+}

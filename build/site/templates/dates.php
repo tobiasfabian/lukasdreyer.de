@@ -8,14 +8,14 @@
   <?php if ($event): ?>
     <?php snippet('show') ?>
     <a class="dates__close" href="<?= $page->url() ?>">
-      <span>Termin schließen</span>
+      <span><?= l::get('close date') ?></span>
     </a>
   <?php else: ?>
     <div class="dates__sketch">
       <img src="<?= thumb($site->image('skizze--gray.png'), array('width' => 412))->url() ?>" srcset="<?= thumb($site->image('skizze--gray.png'), array('width' => 412))->url() ?> 412w, <?= thumb($site->image('skizze--gray.png'), array('width' => 412*2))->url() ?> 824w" sizes="412px" alt="Skizze von Lukas Dreyer">
     </div>
     <a class="dates__close" href="<?= $site->url() ?>">
-      <span>Termine schließen</span>
+      <span><?= l::get('close dates') ?></span>
     </a>
   <?php endif; ?>
 </div>

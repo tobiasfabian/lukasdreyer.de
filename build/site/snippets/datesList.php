@@ -10,7 +10,7 @@ $isSeparatorShown = false;
       $isSeparatorShown = true;
   ?>
   <li class="event-thumb-seperator">
-    <span>heute, <?= strftime('%e. %b %Y', time()) ?></span>
+    <span><?= l::get('today') ?>, <?= strftime('%e. %b %Y', time()) ?></span>
   </li>
   <?php endif; ?>
   <li>

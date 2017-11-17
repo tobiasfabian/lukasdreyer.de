@@ -13,5 +13,14 @@ $isSubpage = $site->pages()->visible()->filterBy('isActive', 'true')->count() > 
       <a class="nav__link<?= $item->isActive() ? ' is-active' : '' ?>" href="<?= $item->url() ?>"><?= $item->title() ?></a>
     </li>
   <?php endforeach ?>
+  <?php foreach($site->languages() as $language): ?>
+    <?php if ($site->language() !== $language): ?>
+    <!-- <li class="nav__item is-langswitch">
+      <a class="nav__link" href="<?= $page->url($language->code()) ?>">
+        <?= $language->name() ?>
+      </a>
+    </li> -->
+    <?php endif; ?>
+  <?php endforeach ?>
   </ul>
 </nav>

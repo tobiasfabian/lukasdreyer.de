@@ -13,7 +13,7 @@
 </main>
 <aside class="news-related">
   <div class="news-related__content">
-    <h2>weitere Neuigkeiten</h2>
+    <h2><?= l::get('more news') ?></h2>
     <ul class="news-list">
     <?php
     foreach($page->siblings(false)->visible()->flip() as $news_item):

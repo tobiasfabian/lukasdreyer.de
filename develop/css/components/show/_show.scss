@@ -50,13 +50,3 @@
     font-weight: 600;
   }
 }
-
-
-.show strong {
-  font-weight: 600;
-}
-
-
-.show a {
-  @extend .typo-link;
-}

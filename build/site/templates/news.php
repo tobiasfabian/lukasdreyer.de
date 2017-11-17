@@ -23,7 +23,7 @@
   </ul>
 
   <div class="news__footer">
-    <a href="<?= $site->homePage()->url() ?>">Neugikeiten schließen</a>
+    <a href="<?= $site->homePage()->url() ?>"><?= l::get('close news') ?></a>
   </div>
 
 </main>

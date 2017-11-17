@@ -5,11 +5,11 @@
 <main class="contact">
   <div class="contact__links">
     <div class="contact__email">
-      <h2 class="typo-h5">E-Mail</h2>
+      <h2 class="typo-h5"><?= l::get('email') ?></h2>
       <a href="mailto:<?= $page->email() ?>"><?= $page->email() ?></a>
     </div>
     <div class="contact__sm">
-      <h2 class="typo-h5">Soziale Netzwerke</h2>
+      <h2 class="typo-h5"><?= l::get('social networks') ?></h2>
       <?php foreach($page->social_media()->toStructure() as $item): ?>
       <a href="<?= $item->url() ?>"><?= $item->title() ?></a>
       <?php endforeach; ?>

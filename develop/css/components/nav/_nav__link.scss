@@ -10,6 +10,22 @@
 }
 
 
+.nav__item.is-langswitch .nav__link {
+  padding-right: rem(4);
+  &::before,
+  &::after {
+    content: none;
+  }
+}
+
+.nav:not(.is-subpage) .nav__item.is-langswitch .nav__link {
+  &:focus,
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+
 .nav.is-subpage .nav__link {
   opacity: 0.4;
   padding-right: rem(4);

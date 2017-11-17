@@ -4,6 +4,19 @@ Title: Vitae
 
 Text: 
 
+|                           |  |
+| ---                      | --- |
+| 1969                 | geboren in Sachsen als ältestes von drei Kindern einer Musikerfamilie |
+| 1980                 | erster Cellounterricht im Alter von elf Jahren |
+| 1992 – 1999   | Studium der Kammermusik in Frankfurt a.M. und Budapest, Konzertexamen in Aachen |
+| 1997 – heute | Gründung von **quattrocelli** |
+| 1999 – 2013   | Solocellist am Philharmonischen Orchester in Altenburg-Gera |
+| 2007 – 2012   | Gründung der 12 Thüringer Cellisten |
+| 2011 – heute | Gründung und künstlerische Leitung der **WGT Musikkammer** (Wave-Gotik-Treffen Leipzig) |
+| 2015 – heute | Gründung und Leitung der **Eichsfelder Domfestspiele** |
+| 2015 – heute | Gründung und Leitung von **Freiraum Syndikat** |
+
+
 Sein Name ist aus der Konzertlandschaft Mitteldeutschlands nicht mehr wegzudenken. Als Solocellist beim Philharmonischen Orchester in Altenburg-Gera bekannt, Gründer der 12 Thüringer Cellisten, Dozent an der Hochschule für Musik in Weimar sowie Initiator und künstlerischer Leiter der WGT Musikkammer des bekannten Wave-Gotik-Festivals in Leipzig, drehte Lukas Dreyer bereits in Thüringen und Sachsen seine Runden. Internationale Bekanntheit erlangte der Leipziger Cellist schließlich mit seinem Celloquartett (link: http://quattrocelli.de text: quattrocelli popup: true), das er bereits zu Studienzeiten gegründet hat und 2017 nunmehr sein 20-Jähriges Jubiläum feiert. Die Konzertreisen führten ihn in zahlreiche europäische Länder sowie nach Amerika und Asien, aus denen er immer wieder mit neuen Impulsen zurück nach Leipzig kehrte, um dort aktiv die Musikszene mitzugestalten. 
 
 Seit 2015 leitet er das von ihm gegründete internationale Konzertensemble (link: http://freiraumsyndikat.com text: Freiraum Syndikat popup: yes), das in seiner außergewöhnlichen Besetzung mit jungen Musikern Barock und Jazz vereint. Die Gründung dieses Projektes ist in seinen eigenen Worten ein „Ergebnis aus der Erfahrung vielseitiger kammermusikalischer Arbeiten“, die ihn begleitet haben und noch immer Teil seines Weges sind. Mit im Boot: Ein Violoncello, eine Jazzgitarre und zwei Flöten – eine gewagte Mischung mit Musikern, die allesamt Spezialisten im gegenseitigen Versuch sind, Grenzen zu überwinden und Komfortzonen zu verlassen, um durch die Kombination verschiedener musikalischer Stile und Traditionen Neues entstehen zu lassen. Gleichzeitig werden spannende Begegnungen mit Musikern geschaffen, die mit improvisatorischer und spielerischer Raffinesse das Publikum begeistern und dabei in der Lage sind, eine ganz eigene klangliche und stilistische Sprache zu entwickeln. Nicht ohne Grund hat das gefragte Konzertensemble bereits mit namhaften Komponisten wie Moritz Eggert oder Henning Sieverts zusammengearbeitet. 
@@ -18,8 +31,20 @@ In Döbeln geboren, in Frankfurt am Main, Budapest und Aachen studiert, in Leipz
 
 ----
 
-Heading-1: Cellist, Arrangeur, Impresario
+Heading-1: 
+
+Cellist
+Arrangeur
+Impresario
 
 ----
 
 Heading-2: Die Wege des Leipziger Cellisten Lukas Dreyer
+
+----
+
+Meta-title: 
+
+----
+
+Meta-description: Armando Chick Corea Tour In the Spirit of Mozart, Lalo Schifrin Auftragskomposition für quattrocelli "crosscurrents", Moritz Eggert Kompmositionen für Freiraum Syndikat Beggar's Opera, Kooperationen mit Puppenbühne Gera, Polizei Blasmusik Korps Erfurt, Henning Sieverts, Balletto Civile, Neuköllner Oper, Berlin, Solocellist des Philharmonischen Orchesters Gera-Altenburg,

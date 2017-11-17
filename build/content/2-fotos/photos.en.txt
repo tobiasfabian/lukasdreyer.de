@@ -2,7 +2,8 @@ Title: Photos
 
 ----
 
-Gallery: 
+Meta-title: 
 
-- reisender.jpg
-- gespiegelter.jpg
+----
+
+Meta-description: Fotos von Lukas Dreyer – Cellist, Dozent, Arrangerur, Impresario. Die Fotos können in hoher Auflösung heruntergeladen werden.

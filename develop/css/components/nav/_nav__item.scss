@@ -3,6 +3,11 @@
   margin-left:  rem(20);
   margin-right: rem(20);
   margin-bottom: rem(10);
+
+  &.is-langswitch {
+    margin-top: rem(20);
+  }
+
   @media (max-width: #{em(928)}) {
     margin-bottom: rem(6);
     margin-left: auto;

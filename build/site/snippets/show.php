@@ -5,7 +5,7 @@
       <?= strftime('%A', $event->date()) ?>,<br>
       <?= date('j', $event->date()) ?>. <?= strftime('%B', $event->date()) ?>
       <?php if ($event->enddate()): ?>
-        bis<br>
+        <?= l::get('until') ?><br>
         <?= strftime('%A', $event->enddate()) ?>,<br>
         <?= date('j', $event->enddate()) ?>. <?= strftime('%B', $event->enddate()) ?>
       <?php endif; ?>
@@ -13,7 +13,7 @@
     </div>
     <?php if (date('G:i', $event->date()) !== '0:00') : ?>
     <div class="show__date-hour">
-      Beginn: <?= date('G', $event->date()) ?><?=  date('i', $event->date()) !== '00' ? date(':i', $event->date()) : '' ?> Uhr
+      <?= l::get('start') ?>: <?= date('G', $event->date()) ?><?=  date('i', $event->date()) !== '00' ? date(':i', $event->date()) : '' ?> <?= l::get('o’ clock') ?>
     </div>
     <?php endif; ?>
   </time>
@@ -29,10 +29,14 @@
     <strong><?= $event->title() ?></strong>
     <?= $event->subtitle() ?>
   </h2>
-  <?= $event->text()->kt() ?>
+  <div class="typo">
+  <?php if ($event->text()): ?>
+    <?= $event->text()->kt() ?>
+  <?php endif; ?>
+  </div>
   <?php if ($relatedEvents->count() > 0): ?>
   <div class="related-events">
-    <h3>weitere Termine</h3>
+    <h3><?= l::get('more dates') ?></h3>
     <ol class="related-events__list">
     <?php foreach($relatedEvents as $relatedEvent): ?>
       <li class="related-events__item">

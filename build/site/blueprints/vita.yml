@@ -17,3 +17,9 @@ fields:
   text:
     label: Text
     type:  textarea
+    buttons:
+      h3
+      bold
+      italic
+      link
+      page
