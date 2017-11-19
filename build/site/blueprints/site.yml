@@ -1,5 +1,5 @@
 title: Website
-pages: false
+# pages: false
 files: true
 fields:
   title:
