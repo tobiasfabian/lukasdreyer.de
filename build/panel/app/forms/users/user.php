@@ -17,15 +17,28 @@ return function($user) {
     $translations[$code] = $translation->title();
   }
 
+  if($user) {
+    // get the actual role from the user data
+    // important because of the role fallbacks in the User class
+    $content['role'] = $user->role()->id();
+
+    // make sure that there's an empty role option if the user's role is invalid
+    // enforces that the user can only be updated with a valid role
+    if($user->role()->id() === 'nobody') $roles[null] = '';
+  }
+
   // add all roles
   foreach(site()->roles() as $role) {
+    // don't offer the fallback "nobody" role (only for internal use)
+    if($role->id() === 'nobody') continue;
+
     $roles[$role->id()] = $role->name();
   }
 
   // the default set of fields
   $fields = array();
 
-  if(!$user->password()) {
+  if($user && !$user->password()) {
     // Warning that the user does not have a password and can't login
     $fields['noPasswordHelp'] = array(
       'type' => 'info',

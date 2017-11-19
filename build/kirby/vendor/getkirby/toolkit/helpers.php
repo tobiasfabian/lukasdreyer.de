@@ -204,7 +204,7 @@ function memory() {
 }
 
 /**
- * Determines the size/length of numbers, strings, arrays and files
+ * Determines the size/length of numbers, strings, arrays and countable objects
  *
  * @param mixed $value
  * @return int
@@ -213,7 +213,9 @@ function size($value) {
   if(is_numeric($value)) return $value;
   if(is_string($value))  return str::length(trim($value));
   if(is_array($value))   return count($value);
-  if(f::exists($value))  return f::size($value) / 1024;
+  if(is_object($value)) {
+    if($value instanceof Countable) return count($value);
+  }
 }
 
 /**
@@ -239,13 +241,23 @@ function csrf($check = null) {
   // make sure a session is started
   s::start();
 
-  if(is_null($check)) {
-    $token = str::random(64);
-    s::set('csrf', $token);
-    return $token;
-  }
+  // check explicitly if there have been no arguments at all
+  // checking for null introduces a security issue!
+  // see https://github.com/getkirby/getkirby.com/issues/340
+  if(func_num_args() === 0) {
+    // no arguments, generate/return a token
 
-  return ($check === s::get('csrf')) ? true : false;
+    $token = s::get('csrf');
+    if(!$token) {
+      $token = str::random(64);
+      s::set('csrf', $token);
+    }
+
+    return $token;
+  } else {
+    // argument has been passed, check the token
+    return $check === s::get('csrf');
+  }
 
 }
 
@@ -253,8 +265,8 @@ function csrf($check = null) {
  * Facepalm typo alias
  * @see csrf()
  */
-function csfr($check = null) {
-  return csrf($check);
+function csfr() {
+  return call('csrf', func_get_args());
 }
 
 /**

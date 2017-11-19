@@ -13,6 +13,7 @@ class InputListField extends InputField {
 
   public function label() {
     $label = parent::label();
+    if(is_null($label)) return null;
 
     // use a legend to avoid having a label
     // that is just connected to the first input
@@ -81,6 +82,9 @@ class InputListField extends InputField {
   }
 
   public function validate() {
+    // if there are no options, there can't be a value
+    if(empty($this->options())) return true;
+    
     if(is_array($this->value())) {
       foreach($this->value() as $v) {
         if(!array_key_exists($v, $this->options())) return false;
