@@ -5,39 +5,59 @@ Title: Homepage
 Info: 
 
 - 
-  title: Künstler
-  text: 'Künstlerisches Schaffen ist wie das glückliche Spiel eines Kindes. Die Freiheit und das Selbstvertrauen geben den Raum  für Musizieren. Und so kann ich darüber glücklich sein, das Cello als vielseitiges Instrument als meinen ständigen Begleiter zu haben.'
+  title: The Artist
+  text: >
+    For me, artistic endeavours are
+    reminiscent of the type of unencumbered
+    play I experienced as a child. The
+    freedom and resulting self-confidence I
+    experience give me space for creating my
+    music. This is why I am so happy to
+    always have my cello – an instrument
+    capable of so many different sounds –
+    as my faithful traveling companion.
   picture: kuenstler.jpg
 - 
-  title: Dozent
+  title: The Instructor
   text: >
-    Die Entwicklung der Fähigkeit zum WIR
-    bei gleichzeitig geforderter Stärkung
-    des ICH in der Verantwortung für das
-    Ganze sind von unschätzbarem Wert für
-    die Entwicklung der Persönlichkeit.
-    Professionalität entsteht dort, wo
-    Liebe und Genauigkeit gelebt werden.
+    Professionalism unfolds in an atmosphere
+    where the love of music co-exists with a
+    love for precision. For me, teaching is
+    a blend of giving and learning.
+    Multi-talented students challenge me to
+    become a better instructor, mentor, and
+    coach. Closely observing and listening
+    to them enriches my own experience.
   picture: dozent.jpg
 - 
-  title: Impresario
+  title: The Impresario
   text: >
-    Neben seinen Fähigkeiten am Cello, ist
-    Lukas Dreyer auch ein
-    Organisations-talent, was er seit ein
-    paar Jahren als Leiter der WGT Musik
-    Kammer in seiner Heimatstadt Leipzig und
-    als Gründer der Eichsfelder
-    Domfestpiele unter Beweis stellt.
+    My artistic motivation also finds
+    expression in initiating projects based
+    on cross-genre concepts. Communication
+    and organisation, for me, mean the
+    ability to be both sender and receiver.
+    I find it fascinating to bring together
+    a group of enthusiastic people and give
+    them space in which to collaborate.
   picture: impresario.jpg
 - 
-  title: Arrangeur
+  title: The Arranger
   text: >
-    Vorhandenes über Verbindungen neu zu
-    knüpfen, dabei der Improvisation mit
-    Erfindungsgeist neue Möglichkeiten Raum
-    zu geben, sind für mich die Spielfelder
-    für Entdeckungen. Die Sprache der Musik
-    ist universell in ihrer emotionalen
-    Gestik.
+    The language of music is universal in
+    its emotional reach. To me, making new
+    connections between existing pieces,
+    thereby creating space for improvisation
+    and the eager invention of new
+    possibilities is like a kind of musical
+    playground where new forms and sounds
+    can be discovered.
   picture: arrangeur.jpg
+
+----
+
+Meta-title: Lukas Dreyer – Cellist / Dozent / Impresario / Arrangeur
+
+----
+
+Meta-description: Lukas Dreyer – internationaler Künstler, Cellist, Arrangeur, Dozent, Mentor, Gründer und Mitglied von quattrocelli, die 12 Thüringer Cellisten, Freiraum Syndikat, Duo con pasión, Impresario der Eichsfelder Domfestspiele und künstlerischer Leiter der WGT Musik Kammer

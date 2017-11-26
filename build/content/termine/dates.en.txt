@@ -2,41 +2,9 @@ Title: Dates
 
 ----
 
-Dates: 
 
-- 
-  title: Konzert im John Deere Forum
-  date: 2017-05-14 19:00:00
-  venue: John Deere Forum
-  city: Mannheim
-  street: John Deere Str. 70
-  subtitle: ""
-  project: quattrocelli
-  text: ""
-- 
-  title: Konzert
-  date: 2017-06-20 20:00:00
-  venue: ""
-  city: Borken
-  street: Dr.-Eckener-Str. 7
-  subtitle: ""
-  project: quattrocelli
-- 
-  title: Konzert beim Mozartfest
-  date: 2017-06-22 20:00:00
-  venue: Golf Club Würzburg
-  city: Würzburg
-  street: ""
-  subtitle: ""
-  project: quattrocelli
-  text: ""
-- 
-  title: Konzert beim Musikfest Spielberg
-  subtitle: ""
-  project: quattrocelli
-  date: 2017-06-23 22:30:00
-  enddate: ""
-  venue: Sudhaus,
-  city: Gnotzheim
-  street: Spielberg 1
-  text: ""
+Meta-description: Lukas Dreyer Violoncello in concert
+
+----
+
+No-dates: Currently no further concert dates are known.

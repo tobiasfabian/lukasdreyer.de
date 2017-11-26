@@ -1,0 +1,49 @@
+Title: Gefährliche Liebschaften
+
+----
+
+Subtitle: 
+
+----
+
+Project: 
+
+----
+
+Venue: Puppentheater
+
+----
+
+City: Gera
+
+----
+
+Street: 
+
+----
+
+Text: 
+
+Eine Produktion der Theater und Philharmonie Altenburg-Gera GmbH 
+Künstlerische Leitung und Puppenspielerin: Sabine Schramm
+Regie: Tim Heilmann
+Musikalische Leitung und Solist: Lukas Dreyer - Violoncello
+
+----
+
+Dates: 
+
+- 
+  date: 2017-11-24 19:30
+  enddate: ""
+  venue: Puppentheater
+  city: Gera
+  street: ""
+  text: ""
+- 
+  date: 2017-11-25 19:30
+  enddate: ""
+  venue: ""
+  city: ""
+  street: ""
+  text: ""
