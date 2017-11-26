@@ -94,6 +94,8 @@ body:not(.is-touch) .info__item:nth-of-type(3):hover img {
   transition-duration: $transition-duration*2;
   span {
     display: block;
+    text-align: center;
+    white-space: nowrap;
     transform: rotate(-10deg);
     transform-origin: center;
     transition-duration: inherit;

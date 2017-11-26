@@ -12,6 +12,17 @@
 }
 
 
+.cross-dates p { // no dates
+  margin-left: rem(48*2);
+  margin-right: rem(48);
+  margin-bottom: rem(20);
+  @media (max-width: #{em(444)}) {
+    margin-right: rem(24);
+    margin-left: rem(24*3);
+  }
+}
+
+
 .cross-dates .bttn {
   margin-left: rem(48*2);
   @media (max-width: #{em(444)}) {

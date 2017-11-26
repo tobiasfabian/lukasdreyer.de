@@ -37,7 +37,7 @@
     updateListHeight();
     initialScroll();
 
-    window.addEventListener('resize', updateListHeight);
+    window.addEventListener('resize', updateListHeight, {passive: true});
 
   }
 

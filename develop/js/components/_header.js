@@ -32,7 +32,7 @@
 
   updateMaxY();
 
-  window.addEventListener('resize', updateMaxY);
-  window.addEventListener('scroll', handleScroll);
+  window.addEventListener('resize', updateMaxY, {passive: true});
+  window.addEventListener('scroll', handleScroll, {passive: true});
 
 })();

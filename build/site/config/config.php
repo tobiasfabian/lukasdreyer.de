@@ -38,13 +38,13 @@ c::set('languages', array(
     'default' => true,
     'code'    => 'de',
     'name'    => 'Deutsch',
-    'locale'  => 'de_DE',
+    'locale'  => 'de_DE.utf-8',
     'url'     => '/',
   ),
   array(
     'code'    => 'en',
     'name'    => 'English',
-    'locale'  => 'en_GB',
+    'locale'  => 'en_GB.utf-8',
     'url'     => '/en',
   ),
 ));

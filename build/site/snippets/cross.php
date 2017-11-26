@@ -1,12 +1,17 @@
 <div class="cross">
   <div class="cross__item cross-dates">
     <?php
-      $events = $events = $events->filter(function($event) {
+      $events = $events->filter(function($event) {
         return date('ymd', time()) <= date('ymd', $event->date());
       })->limit(3);
-      snippet('datesList', array('events' => $events, 'event' => false));
+      if ($events->count() > 0):
     ?>
-    <a class="bttn" href="<?= $site->page('termine')->url() ?>"><?= l::get('more dates') ?></a>
+      <?= snippet('datesList', array('events' => $events, 'event' => false)); ?>
+      <a class="bttn" href="<?= $site->page('termine')->url() ?>"><?= l::get('more dates') ?></a>
+    <?php else: ?>
+      <?= page('termine')->no_dates()->kt(); ?>
+      <a class="bttn" href="<?= $site->page('termine')->url() ?>"><?= l::get('all dates') ?></a>
+    <?php endif; ?>
   </div>
   <div class="cross__item cross-sketch">
     <img src="<?= thumb($site->image('skizze.png'), array('width' => 412))->url() ?>" srcset="<?= thumb($site->image('skizze.png'), array('width' => 412))->url() ?> 412w, <?= thumb($site->image('skizze.png'), array('width' => 412*2))->url() ?> 824w" sizes="412px" alt="<?= l::get('drawing of') ?> Lukas Dreyer">

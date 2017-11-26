@@ -3,16 +3,24 @@ pages:
   template:
     - show
 icon: calendar
+options:
+  url: false
 files: false
 fields:
   title:
     label: Title
     type:  text
   meta-description: meta-description
+  no-dates:
+    label: Keine Termine – Text
+    type:  textarea
+    buttons: false
+    help: Dieser Text wird auf der Startseite angezeigt, wenn es keine zukünftigen Termine gibt.
   dates:
     label: Termine
     type:  structure
     style: table
+    translate: false
     modalsize: large
     fields:
       title:

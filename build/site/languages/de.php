@@ -1,6 +1,7 @@
 <?php
 l::set('download', 'herunterladen');
 l::set('more dates', 'weitere Termine');
+l::set('all dates', 'alle Termine');
 l::set('close dates', 'Termine schließen');
 l::set('close date', 'Termin schließen');
 l::set('more news', 'weitere Neuigkeiten');

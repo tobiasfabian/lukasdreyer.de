@@ -16,8 +16,8 @@
   const infoItemElements = document.querySelectorAll('.info__item');
   [...infoItemElements].forEach((element, i) => {
     element.dataset.i = i + 1;
-    element.addEventListener('touchstart', handleTouchStart);
-    element.addEventListener('touchend', handleTouchEnd);
-    element.addEventListener('touchcancel', handleTouchEnd);
+    element.addEventListener('touchstart', handleTouchStart, {passive: true});
+    element.addEventListener('touchend', handleTouchEnd, {passive: true});
+    element.addEventListener('touchcancel', handleTouchEnd, {passive: true});
   });
 })();

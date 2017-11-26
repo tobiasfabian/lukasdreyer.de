@@ -15,5 +15,9 @@
     &.is-homepage {
       display: none;
     }
+    &.is-langswitch {
+      margin-top: 0;
+      padding-left: rem(5);
+    }
   }
 }

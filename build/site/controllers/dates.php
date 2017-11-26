@@ -4,7 +4,7 @@ return function($site, $pages, $page) {
     $dates = page('termine');
     $shows = $dates->children()->visible();
     $events = new Collection();
-    foreach($dates->dates()->toStructure() as $date) {
+    foreach($dates->content('de')->dates()->toStructure() as $date) {
       $event = new Collection();
       $showId = str::slug($date->title());
       $slug = $showId . '-' . date('d-m-y', $date->date());
