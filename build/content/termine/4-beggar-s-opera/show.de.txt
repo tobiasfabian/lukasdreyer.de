@@ -120,6 +120,13 @@ Dates:
   venue: ""
   city: ""
   street: ""
+- 
+  date: 2018-02-25 17:00
+  enddate: ""
+  venue: Anhaltisches Theater
+  city: Dessau
+  street: ""
+  text: 'Gastspiel der Neuköllner Oper Balletto Civile und dem **Freiraum Syndikat** in Dessau zu den Kurt Weill Festspieltagen.'
 
 ----
 

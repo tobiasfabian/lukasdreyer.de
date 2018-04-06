@@ -48,7 +48,7 @@ Info:
     von Vorhandenem neu zu knüpfen, dabei
     der Improvisation mit Erfindungsgeist
     neue Möglichkeiten Raum zu geben, sind
-    für mich die Spielfelder für neue
+    für mich die Spielfelder für
     Entdeckungen von Formen und Klängen.
   picture: arrangeur.jpg
 

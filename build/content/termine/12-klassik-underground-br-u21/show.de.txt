@@ -1,0 +1,37 @@
+Title: Klassik Underground BR U21
+
+----
+
+Subtitle: Konzert mit Moritz Eggert
+
+----
+
+Project: Freiraum Syndikat
+
+----
+
+Venue: Milla Club
+
+----
+
+City: München
+
+----
+
+Street: 
+
+----
+
+Text: Live Übertragung von BR Klassik
+
+----
+
+Dates: 
+
+- 
+  date: 2018-03-19 21:30
+  enddate: ""
+  venue: Milla Club
+  city: München
+  street: ""
+  text: ""

@@ -50,14 +50,14 @@ Info:
     thereby creating space for improvisation
     and the eager invention of new
     possibilities is like a kind of musical
-    playground where new forms and sounds
-    can be discovered.
+    playground where forms and sounds can be
+    discovered.
   picture: arrangeur.jpg
 
 ----
 
-Meta-title: Lukas Dreyer – Cellist / Dozent / Impresario / Arrangeur
+Meta-title: Lukas Dreyer – cellist / teacher / impresario / Arrangeur
 
 ----
 
-Meta-description: Lukas Dreyer – internationaler Künstler, Cellist, Arrangeur, Dozent, Mentor, Gründer und Mitglied von quattrocelli, die 12 Thüringer Cellisten, Freiraum Syndikat, Duo con pasión, Impresario der Eichsfelder Domfestspiele und künstlerischer Leiter der WGT Musik Kammer
+Meta-description: Lukas Dreyer – international artist, cello player, arranger, teacher, mentor, founder and member from quattrocelli, 12 Thüringer Cellisten, Freiraum Syndikat, Duo con pasión, impresario of Eichsfelder Domfestspiele und artistic leader of WGT Musik Kammer

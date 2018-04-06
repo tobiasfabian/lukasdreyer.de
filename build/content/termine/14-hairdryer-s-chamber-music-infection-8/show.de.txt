@@ -1,0 +1,37 @@
+Title: Hairdryer's Chamber Music Infection 8
+
+----
+
+Subtitle: Lukas Dreyer presents
+
+----
+
+Project: WGT Musik Kammer
+
+----
+
+Venue: Alte Handelsbörse
+
+----
+
+City: Leipzig
+
+----
+
+Street: Naschmarkt
+
+----
+
+Text: Das Violoncello ist zum Instrument des Jahres gekührt worden. Lukas Dreyer lädt Musiker, Künstler und das Publikum der WGT Musik Kammer zu diesem Konzert ein, das im Format ursprünglich als Hauskonzert startete. Musikalisches und Szenisches wird von Lukas Dreyer, Violoncello, Verena Marisa, Theremin, Moritz Eggert, Klavier und Marco Jodes, Tanz präsentiert. Die Musik wird von Bach bis Eggert und Improvisationen reichen.
+
+----
+
+Dates: 
+
+- 
+  date: 2018-05-19 13:30
+  enddate: ""
+  venue: ""
+  city: ""
+  street: ""
+  text: ""

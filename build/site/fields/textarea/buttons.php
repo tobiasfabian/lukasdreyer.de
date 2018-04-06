@@ -30,8 +30,42 @@ class Buttons {
   }
 
   public function __toString() {
-
+    
     $html  = '<nav class="field-buttons">';
+    
+    $autocomplete = c::get('textarea.autocomplete', false);
+    
+    if ($autocomplete == true) {
+      
+      $excludedKirbyTags = c::get('textarea.excludedKirbyTags', array());
+      $includedKirbyTags = c::get('textarea.includedKirbyTags', null);
+    
+      $html .= '<div class="kirbytags">';
+      foreach (kirbytext::$tags as $kirbytag => $content) {
+        if (is_array($includedKirbyTags)) {
+          if (!in_array($kirbytag, $includedKirbyTags)) continue;
+        }
+        elseif (in_array($kirbytag, $excludedKirbyTags)) continue;
+        
+        $html .= '<div class="kirbytag">';
+        $html .= '<div class="kirbytag-name">';
+        $html .= $kirbytag;
+        $html .= '</div>';
+        if(array_key_exists("attr", $content)) {
+          $html .= '<div class="attributes">';
+          foreach ($content["attr"] as $key => $content) {
+           $html .= '<div class="attribute">';
+           $html .= $content;
+           $html .= '</div>';
+          }
+          $html .= '</div>';
+        }
+        $html .= '</div>';
+      }
+      $html .= '</div>';
+    
+    }
+    
     $html .= '<ul class="nav nav-bar">';
 
     foreach(static::$setup as $key => $button) {
@@ -77,35 +111,58 @@ class Buttons {
 
 }
 
-$h1 = c::get('textarea.h1', 'h1');
-$h2 = c::get('textarea.h2', 'h2');
-$h3 = c::get('textarea.h3', 'h3');
-
 buttons::$setup = array(
   'h1' => array(
     'label'    => $this->translation['buttons.h1.label'],
-    'btext'    => substr($h1, 1),
+    'btext'    => '1',
     'text'     => ' ',
-    'shortcut' => 'meta+' . substr($h1, 1),
-    'template' => str_repeat("#",substr($h1, 1)) . ' ',
+    'shortcut' => 'meta+1',
+    'template' => str_repeat("#", 1) . ' ',
     'class'    => "header",
     'icon'     => 'header'
   ),
   'h2' => array(
     'label'    => $this->translation['buttons.h2.label'],
-    'btext'    => substr($h2, 1),
+    'btext'    => '2',
     'text'     => ' ',
-    'shortcut' => 'meta+' . substr($h2, 1),
-    'template' => str_repeat("#",substr($h2, 1)) . ' ',
+    'shortcut' => 'meta+2',
+    'template' => str_repeat("#", 2) . ' ',
     'class'    => "header",
     'icon'     => 'header'
   ),
   'h3' => array(
     'label'    => $this->translation['buttons.h3.label'],
-    'btext'    => substr($h3, 1),
+    'btext'    => '3',
     'text'     => ' ',
-    'shortcut' => 'meta+' . substr($h3, 1),
-    'template' => str_repeat("#",substr($h3, 1)) . ' ',
+    'shortcut' => 'meta+3',
+    'template' => str_repeat("#", 3) . ' ',
+    'class'    => "header",
+    'icon'     => 'header'
+  ),
+  'h4' => array(
+    'label'    => $this->translation['buttons.h4.label'],
+    'btext'    => '4',
+    'text'     => ' ',
+    'shortcut' => 'meta+4',
+    'template' => str_repeat("#", 4) . ' ',
+    'class'    => "header",
+    'icon'     => 'header'
+  ),
+  'h5' => array(
+    'label'    => $this->translation['buttons.h5.label'],
+    'btext'    => '5',
+    'text'     => ' ',
+    'shortcut' => 'meta+5',
+    'template' => str_repeat("#", 5) . ' ',
+    'class'    => "header",
+    'icon'     => 'header'
+  ),
+  'h6' => array(
+    'label'    => $this->translation['buttons.h6.label'],
+    'btext'    => '6',
+    'text'     => ' ',
+    'shortcut' => 'meta+6',
+    'template' => str_repeat("#", 6) . ' ',
     'class'    => "header",
     'icon'     => 'header'
   ),
@@ -122,6 +179,13 @@ buttons::$setup = array(
     'shortcut' => 'meta+i',
     'template' => '*{text}*',
     'icon'     => 'italic'
+  ),
+  'strikethrough' => array(
+    'label'    => $this->translation['buttons.strikethrough.label'],
+    'text'     => $this->translation['buttons.strikethrough.text'],
+    'shortcut' => 'meta+s',
+    'template' => '~~{text}~~',
+    'icon'     => 'strikethrough'
   ),
   'blockquote' => array(
     'label'    => $this->translation['buttons.blockquote.label'],

@@ -64,6 +64,7 @@ c::set('routes', array(
 ));
 
 
+c::set('textarea.autocomplete', true);
 c::set('textarea.buttons', array(
   "h3",
   "bold",

@@ -1,0 +1,40 @@
+Title: 27. Wave Gotik Treffen
+
+----
+
+Subtitle: WGT Musik Kammer
+
+----
+
+Project: WGT Musik Kammer
+
+----
+
+Venue: Alte Handelsbörse
+
+----
+
+City: Leipzig
+
+----
+
+Street: Naschmarkt
+
+----
+
+Text: 
+
+Die WGT Musik Kammer wurde 2011 gegründet und lädt jedes Jahr zu Pfingsten internationale Künstler ein. In diesem Jahr werden über 50 Musikern und Musikerinnen ihre ausgefallenen Programme dem Gothic Publikum präsentieren. Konzepte mit Kammermusik selten gepielter Werke sind hier ein Schwerpunkt wie außergewöhnliche Besetzungen oder Musik in außergewöhnlicher Umgebung. 
+Höhepunkte sind eine instrumentale Fassung des Requiems von Brahms für Theremin, Sprecher und Kammerorchester, sowie eine szenisch musikalisch gestaltetes Programm mit Texten von H.P.Lovecraft. Die einzelnen Konzerttermine sind in Kürze dem Programm des WGT zu entnehmen.
+
+----
+
+Dates: 
+
+- 
+  date: 2018-05-19
+  enddate: 2018-05-21
+  venue: ""
+  city: ""
+  street: ""
+  text: ""

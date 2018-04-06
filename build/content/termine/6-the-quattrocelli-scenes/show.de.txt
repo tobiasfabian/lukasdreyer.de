@@ -160,3 +160,24 @@ Dates:
   city: Quickborn
   street: ""
   text: ""
+- 
+  date: 2018-01-06 16:00
+  enddate: ""
+  venue: Gut Zichtau
+  city: Zichtau
+  street: ""
+  text: Neujahrskonzert
+- 
+  date: 2018-01-07 16:00
+  enddate: ""
+  venue: Kunsthaus
+  city: Salzwedel
+  street: ""
+  text: Neujahrskonzert
+- 
+  date: 2018-02-04 19:30
+  enddate: ""
+  venue: Loisachhalle
+  city: Wolfrathshausen
+  street: ""
+  text: ""
