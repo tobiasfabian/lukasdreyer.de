@@ -7,7 +7,7 @@
 		"uuidString": "F2DD808E-D721-4D6F-8715-7D2E93F0A690"
 		}
 	],
-"creatorBuild": "26148",
+"creatorBuild": "26680",
 "files": {
 	"\/.gitattributes": {
 		"cB": 0,
@@ -1635,6 +1635,7 @@
 	"displayValue": "lukasdreyer.de",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "\/develop\/images\/favicon.png",
+	"iconImageWasSetByUser": 0,
 	"lastBuiltDate": 516561874
 	},
 "projectSettings": {
@@ -1643,6 +1644,7 @@
 	"animateCSSInjections": 0,
 	"autoBuildNewItems": 1,
 	"autoprefixerBrowserString": "> 1%, last 2 versions, Firefox ESR, Opera 12.1",
+	"autoprefixerEnableIEGrid": 0,
 	"babelAuxiliaryCommentAfter": "",
 	"babelAuxiliaryCommentBefore": "",
 	"babelConfigFileHandlingType": 0,
@@ -2206,6 +2208,10 @@
 		"id-match": {
 			"active": 0,
 			"optionString": "'^[a-z]+([A-Z][a-z]+)*$', {'properties': false, 'onlyDeclarations': true}"
+			},
+		"implicit-arrow-linebreak": {
+			"active": 0,
+			"optionString": "'beside'"
 			},
 		"indent": {
 			"active": 0,
@@ -3433,6 +3439,7 @@
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
+		"outputFormat": 0,
 		"quality": 100
 		},
 	"languageDefaultsJS": {

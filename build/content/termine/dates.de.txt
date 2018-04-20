@@ -94,7 +94,7 @@ Dates:
   project: quattrocelli
   date: 2018-04-21
   enddate: ""
-  venue: ""
+  venue: geschlossene Veranstaltung
   city: Mannheim
   street: ""
   text: Geschlossene Veranstaltung
@@ -114,8 +114,28 @@ Dates:
   project: quattrocelli
   date: 2018-07-05
   enddate: ""
-  venue: Rittersaal
+  venue: geschlossene Veranstaltung
   city: Castell
+  street: ""
+  text: ""
+- 
+  title: Konzert
+  subtitle: Times
+  project: quattrocelli
+  date: 2018-07-04
+  enddate: ""
+  venue: geschlossene Veranstaltung
+  city: Castell
+  street: ""
+  text: ""
+- 
+  title: Konzert
+  subtitle: Musica Mundi Brüssel
+  project: quattrocelli
+  date: 2018-07-21 20:00
+  enddate: ""
+  venue: Chateau du Lac,
+  city: Genval, Belgien
   street: ""
   text: ""
 

@@ -2,9 +2,137 @@ Title: Dates
 
 ----
 
-
 Meta-description: Lukas Dreyer Violoncello in concert
 
 ----
 
 No-dates: Currently no further concert dates are known.
+
+----
+
+Dates: 
+
+- 
+  title: Konzert im John Deere Forum
+  date: 2017-05-14 19:00:00
+  venue: John Deere Forum
+  city: Mannheim
+  street: John Deere Str. 70
+  subtitle: ""
+  project: quattrocelli
+  text: ""
+- 
+  title: Konzert
+  date: 2017-06-20 20:00:00
+  venue: ""
+  city: Borken
+  street: Dr.-Eckener-Str. 7
+  subtitle: ""
+  project: quattrocelli
+- 
+  title: Konzert beim Mozartfest
+  date: 2017-06-22 20:00:00
+  venue: Golf Club Würzburg
+  city: Würzburg
+  street: ""
+  subtitle: ""
+  project: quattrocelli
+  text: ""
+- 
+  title: Konzert beim Musikfest Spielberg
+  subtitle: ""
+  project: quattrocelli
+  date: 2017-06-23 20:30:00
+  enddate: ""
+  venue: Sudhaus,
+  city: Gnotzheim
+  street: Spielberg 1
+  text: ""
+- 
+  title: Silvesterkonzerte
+  subtitle: >
+    Filmmusik und klassische Highlights im
+    Arrangement für vier Celli
+  project: quattrocelli
+  date: 2017-12-31
+  enddate: ""
+  venue: Schloss
+  city: Stuttgart
+  street: ""
+  text: ""
+- 
+  title: Neujahrskonzert
+  subtitle: ""
+  project: quattrocelli
+  date: 2018-01-21 19:30
+  enddate: ""
+  venue: Bürgersaal Haar
+  city: München
+  street: ""
+  text: ""
+- 
+  title: Konzert
+  subtitle: Times
+  project: quattrocelli
+  date: 2018-04-11 19:30
+  enddate: ""
+  venue: Capitol Limburgerhof
+  city: Limburgerhof
+  street: ""
+  text: ""
+- 
+  title: Konzert
+  subtitle: Konzert für die Jugend
+  project: quattrocelli
+  date: 2018-04-12 10:00
+  enddate: ""
+  venue: Stadthalle
+  city: Göppingen
+  street: ""
+  text: >
+    Ein Programm für Kinder und Erwachsene.
+    Musikvermittlung mit szenischen und
+    musikalischen Elementen. Die vier
+    Cellisten lassen sich in die Karten
+    schauen und laden Kinder ein dabei Neues
+    gemeinsam zu entdecken.
+- 
+  title: Konzert
+  subtitle: Times
+  project: quattrocelli
+  date: 2018-04-21
+  enddate: ""
+  venue: ""
+  city: Mannheim
+  street: ""
+  text: Geschlossene Veranstaltung
+- 
+  title: Konzert
+  subtitle: Internationales Kammermusikfest
+  project: quattrocelli
+  date: 2018-05-10 19:30
+  enddate: ""
+  venue: Kolosseum
+  city: Lübeck
+  street: ""
+  text: ""
+- 
+  title: Konzert
+  subtitle: Times
+  project: quattrocelli
+  date: 2018-07-04 19:30
+  enddate: ""
+  venue: Rittersaal
+  city: Castell
+  street: ""
+  text: ""
+- 
+  title: Konzert
+  subtitle: Times
+  project: quattrocelli
+  date: 2018-07-05 19:30
+  enddate: ""
+  venue: Rittersaal
+  city: Castell
+  street: ""
+  text: ""
