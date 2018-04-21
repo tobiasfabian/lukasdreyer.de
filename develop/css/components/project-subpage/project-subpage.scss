@@ -1,0 +1,65 @@
+.project-subpage {
+  position: relative;
+  display: flex;
+  max-width: rem(624);
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: rem(50);
+  padding-left: rem(24);
+  padding-right: rem(24);
+  flex-direction: column;
+
+  &::before {
+    content: ' ';
+    display: block;
+    max-width: rem(624 + 64);
+    height: rem(24);
+    margin-top: rem(0);
+    margin-bottom: rem(50);
+    margin-left: rem(-64/2);
+    margin-right: rem(-64/2);
+    transform: rotate(-10deg);
+    background-image: url('../images/dotted-border.svg');
+  }
+
+  @media (max-width: em(888)) {
+    margin-top: rem(40);
+  }
+
+  @media (max-width: em(704)) {
+    &::before {
+      max-width: rem(624 + 24);
+      margin-bottom: rem(40);
+      margin-left: rem(-24/2);
+      margin-right: rem(-24/2);
+    }
+  }
+
+  @media (max-width: em(444)) {
+    &::before {
+      margin-bottom: rem(50);
+    }
+  }
+}
+
+
+.project-subpage .project__nav-item--prev {
+  top: 0;
+  left: 0;
+  // right: 0;
+  bottom: auto;
+
+  @media (max-width: em(704)) {
+    left: rem(20);
+  }
+}
+
+
+.project-subpage h2 {
+  margin-top: rem(40);
+  margin-bottom: rem(14);
+
+  @media (max-width: em(444)) {
+    margin-top: 0;
+  }
+}

@@ -29,6 +29,8 @@ of the system, please check out http://getkirby.com/docs/advanced/options
 
 */
 
+c::set('cachebuster', true);
+
 c::set('debug', true);
 c::set('thumbs.quality', 80);
 c::set('thumbs.driver','im');

@@ -21,8 +21,8 @@ if (isset($event)) {
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1.0">
 
-  <link rel="stylesheet" href="<?= url('assets/css/style.css') ?>">
-  <script defer src="<?= url('assets/js/script.js') ?>"></script>
+  <?= css('assets/css/style.css') ?>
+  <?= js('assets/js/script.js', ['defer' => true]) ?>
 
   <?php if (isset($event)): ?>
     <meta property="og:url" content="<?= $event->url() ?>" />

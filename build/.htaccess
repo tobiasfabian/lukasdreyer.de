@@ -32,6 +32,8 @@ RewriteEngine on
 RewriteCond %{HTTP_HOST} ^www.lukasdreyer.de$
 RewriteRule ^(.*)$ http://lukasdreyer.de/$1 [R=301,L]
 
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^(.+)\.(\d+)\.(js|css)$ $1.$3 [L]
 
 # make sure to set the RewriteBase correctly
 # if you are running the site in a subfolder.
