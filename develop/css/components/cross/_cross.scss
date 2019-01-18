@@ -47,8 +47,8 @@
   &::before {
     opacity: 1;
     background-position:
-      center rem(72+24), // top
-      center rem(504-24), // bottom
+      center rem(72), // top
+      center rem(504), // bottom
       rem(192-24) center, // left
       rem(672+24) center; // right
   }
