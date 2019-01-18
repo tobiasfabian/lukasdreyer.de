@@ -1,0 +1,38 @@
+Title: Tauffahrt MEIN SCHIFF 2 Tui Cruises
+
+----
+
+Subtitle: cello quartet meets Dieter Hallervorden & HEINO
+
+----
+
+Project: 
+
+----
+
+Venue: 
+
+----
+
+City: 
+
+----
+
+Street: 
+
+----
+
+Text: 
+
+----
+
+Dates: 
+
+- 
+  date: 2019-02-03
+  enddate: 2019-02-15
+  venue: Mein Schiff 2
+  city: >
+    Bremerhaven-LaCoruna-Porto-Lissabon-Cadiz-Lanzarote-GranCanaria
+  street: ""
+  text: 'Auf der Tauffahrt des neuen "Mein Schiff 2" von Tui Cruises wird das Nadolny Celloquartett in der Besetzung: Lukas Dreyer, Matthias Diener, Florian Hoheisel und Thomas Schmidt-Ott ein Programm mit Musik aus 4 Jahrhunderten anbieten. Als besondere Band wird das Quartett 3 Aufritte an Bord haben und dabei auch mit **Dieter Hallervorden** und **Heino** zusammen auf der Bühne seine überraschenden Arrangements von Bach, Romantik, über Beatles bis zu Queen und Heavy Metal Titeln präsentieren. Ein spannendes "cross over" Projekt in einer absoluten Premieren Besetzung!'

@@ -138,6 +138,36 @@ Dates:
   city: Genval, Belgien
   street: ""
   text: ""
+- 
+  title: Konzert
+  subtitle: Altenburger Musikfestival
+  project: quattrocelli
+  date: 2018-08-09 20:00
+  enddate: ""
+  venue: Alte Brauerei
+  city: Altenburg
+  street: ""
+  text: ""
+- 
+  title: Konzert
+  subtitle: Schloss Namedy
+  project: quattrocelli
+  date: 2018-08-10 19:00
+  enddate: ""
+  venue: Schloss Burg Namedy
+  city: Andernach
+  street: ""
+  text: ""
+- 
+  title: Konzert
+  subtitle: Times
+  project: quattrocelli
+  date: 2018-10-04 19:30
+  enddate: ""
+  venue: Schloss Kapfenburg
+  city: Lauchheim
+  street: ""
+  text: ""
 
 ----
 

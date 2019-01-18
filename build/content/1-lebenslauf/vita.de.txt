@@ -1,13 +1,15 @@
-Title: Lebenslauf
+Title: Vita
 
 ----
 
 Text: 
 
 Als Solocellist beim Philharmonischen Orchester in Altenburg-Gera bekannt, Gründer der 12 Thüringer Cellisten, Dozent an der Hochschule für Musik in Weimar sowie Initiator und künstlerischer Leiter der WGT Musik Kammer des Wave-Gotik-Festivals in Leipzig, drehte Lukas Dreyer bereits in Thüringen und Sachsen seine Runden. Internationale Bekanntheit, erlangte der Leipziger Cellist schließlich mit seinem Celloquartett quattrocelli,
-das er bereits zu Studienzeiten gründete und nunmehr sein 20-Jähriges Jubiläum feiert. Zwischen Barock und Jazz: 2015 gründete er das internationale Konzertensemble Freiraum Syndikat, das mit einer gewagten Mischung aus einem Violoncello, einer Jazzgitarre und zwei Blockflöten die Opulenz eines ganzen Kammerorchesters auf die Bühne bringt. Die vier Musiker sind Spezialisten im gegenseitigen Versuch, Grenzen zu überwinden und Komfortzonen zu verlassen, um durch Improvisation, spielerischer Raffinesse und die Kombination verschiedener musikalischer Stile aus über vier Jahrhunderten ungehört Neues entstehen zu lassen. Nicht ohne Grund konnte das Konzertensemble bereits mit namhaften Komponisten wie Moritz Eggert oder Henning Sieverts zusammenarbeiten.
+das er bereits zu Studienzeiten gründete und 2017 sein 20-Jähriges Jubiläum feierte. 
+Zwischen Barock und Jazz: 2015 gründete er das internationale Konzertensemble Freiraum Syndikat, das mit einer gewagten Mischung aus einem Violoncello, einer Jazzgitarre und zwei Blockflöten die Opulenz eines ganzen Kammerorchesters auf die Bühne bringt. Die vier Musiker sind Spezialisten im gegenseitigen Versuch, Grenzen zu überwinden und Komfortzonen zu verlassen, um durch Improvisation, spielerischer Raffinesse und die Kombination verschiedener musikalischer Stile aus über vier Jahrhunderten ungehört Neues entstehen zu lassen. Nicht ohne Grund konnte das Konzertensemble bereits mit namhaften Komponisten und Musikern wie Moritz Eggert oder Henning Sieverts zusammenarbeiten. 
+Seit 2017 widmet sich Lukas Dreyer seinem Instrument Violoncello auch als Solist wieder mehr.  Dabei arbeitet er mit den Musikern wie David Braid oder Moritz Eggert auf internationalen Festivals in Italien (Cassalmaggiore)  und Deutschland (WGT) an Programmen zwischen Klassik, neuer Musik, Jazz und Improvisation.  
 
-(file: lukas-dreyer-lebenslauf.pdf text: Lebenslauf herunterladen)
+
 
 
 |                           |  |
@@ -15,24 +17,22 @@ das er bereits zu Studienzeiten gründete und nunmehr sein 20-Jähriges Jubiläu
 | 1969                 | in Döbeln/Sachsen als ältester von drei Kindern in einer Musikerfamilie aufgewachsen |
 | 1980                 | erster Cellounterricht im Alter von 11 Jahren |
 | 1992 – 1999   | Cello und Kammermusik-Studium in Frankfurt a.M. und Budapest, Konzert Examen in Aachen  |
-| 1997 – heute | Gründer von **quattrocelli** |
-| 1999 – 2013   | Solocellistim Philharmonischen Orchester Altenburg-Gera |
-| 2007 – 2012   | Gründer der 12 Thüringer Cellisten |
-| 2011 – heute | Gründer und künstlerischer Leiter der **WGT Musikkammer** (Leipzig Wave Gotik Treffen) |
-| 2015 – heute | Gründer und künstlerischer Leiter der Eichsfelder Domfestspiele |
-| 2015 – heute | Gründer und Band leader von dem Ensemble **Freiraum Syndikat** |
-
-
+| 1997 – heute | Gründer von (link: http://lukasdreyer.de/projekte/quattrocelli text: **quattrocelli**) |
+| 1999 – 2013   | Solocellist im **Philharmonischen Orchester Altenburg-Gera** |
+| 2007 – 2012   | Gründer und Leiter der **12 Thüringer Cellisten** |
+| 2011 – heute | Gründer und künstlerischer Leiter der (link: http://lukasdreyer.de/projekte/wgt-musikkammer text: **WGT Musik Kammer**) (Leipzig Wave Gotik Treffen) |
+| 2015 – heute | Gründer und künstlerischer Leiter der (link: http://lukasdreyer.de/projekte/eichsfelder-domfestspiele  text: **Eichsfelder Domfestspiele**) |
+| 2015 – heute | Gründer und künstlerischer Leiter des Projektes (link: http://lukasdreyer.de/projekte/freiraum-syndikat text: **FREIRAUM SYNDIKAT music/lab/production**) |
 
 ### Lehre
 
 |                           |  |
-| ---                      | --- |
-| 2007 – heute | Lehrauftrag Orchesterstudien, Schwerpunkt Violoncello; Hochschule für Musik **FRANZ LISZT** in Weimar |
+| ---                      | --- | 
+| 2001 – heute | Probespieltraining, privater Unterricht für Violoncello |
+| 2007 – heute | Lehrauftrag Orchesterstudien, Schwerpunkt Violoncello;  **Hochschule für Musik "FRANZ LISZT"** in Weimar |
 | 2008 - 2011 | Dozent für Cello am Hochbegabtenzentrum Belvedere in Weimar |
 | 2010 – 2016 | Dozent für Cello am Landesgymnasium Latina „August Hermann Francke“ in Halle |
-| 2013 -2014, 2017 | Mentor an der Hochschule für Musik und Tanz „Felix Mendelssohn-Bartholdy“ in Leipzig |
-
+| 2013/14/17/18 | Mentor an der Hochschule für Musik und Tanz „Felix Mendelssohn-Bartholdy“ in Leipzig |
 
 ### Kooperationen
 
@@ -44,22 +44,26 @@ das er bereits zu Studienzeiten gründete und nunmehr sein 20-Jähriges Jubiläu
 | 2015 | **Frank Soehnle** Figurentheater Projekt |
 | 2015 - heute | **Moritz Eggert** Leipzig Wave Gotik Treffen, Songs & Musik zu La BETTLEROPERa für FREIRAUM SYNDIKAT komponiert |
 | 2016 | **Konrad Adenauer Stiftung**, **Theater und Philharmonie Thüringen** Musikalische Ringlesungen |
+| 2017 | **David Braid** Kanada, **Music Festival Casalmaggiore** Italien
 | 2017 | **Neuköllner Oper** Berlin, **Balletto Civile**, Genua |
 
 ### Prägende Begegnungen 
 
-Prof. Daniel-Robert Graf
-Prof. Hans-Christian Schweiker
-Prof. Hubert Buchberger
-Prof. Sandor Devich
-Prof. Uzi Wiesel 
-Alban Berg Quartet
-Bartók Quartet
-Melos Quartet
-Smetana Quartet
-Amadeus Quartet
+Alban Berg Quartett
+Amadeus Quartett
 Armando Chick Corea
+Bartók Quartett
+Daniel-Robert Graf
+David Braid
+Gabriel Feltz
+Hans-Christian Schweiker
+Hubert Buchberger
 Lalo Schifrin
+Melos Quartett
+Sandor Devich
+Uzi Wiesel 
+Smetana Quartett
+
 
 ### Förderungen
 
@@ -67,6 +71,25 @@ Stiftung Villa Musica
 Sellheim Stiftung
 Ernst von Siemens Stiftung
 EEB Thüringen
+
+### Media 
+
+|                           |  |
+| ---                      | --- | 
+|  1998 |  CD quattrocelli “Live”  |
+|  2004 |  CD quattrocelli "Kaleidoskop" (NDR) | 
+|  2005 |  CD "Don Quixote" exerpts on (link: https://soundcloud.com/lukasdreyer/sets/don-quixote-richard-strauss  text: soundcloud popup: true) | 
+|  2005 |  CD "alma y musica" exerpts on (link: https://soundcloud.com/lukasdreyer/sets/villa-lobos-sonate text: soundcloud popup: true) | 
+|  2006 |  CD quattrocelli “Favourites” exerpts on (link: http://quattrocelli.de/cd  text: website quattrocelli popup: true) | 
+|  2007 |  CD quattrocelli “Scenes” (Radio Bremen) exerpts on (link: http://quattrocelli.de/cd  text: website quattrocelli popup: true) | 
+|  2007 |  CD Die 12 Thüringer Cellisten “Der erste Streich” (querstand) | 
+|  2007 |  CD "Villa-Lobos - Großes Konzert für Vc und Orch." on  (link: https://soundcloud.com/lukasdreyer/sets/villa-lobos-groses-konzert-fur-violoncello-und-orchester-op-51  text: soundcloud popup: true) | 
+|  2010 |  Video "Pirates of the Caribbeans" quattrocelli on (link: https://www.youtube.com/quattrocelli  text: youtube  popup: true) |
+|  2013 |  Video "Ghostbusters" quattrocelli on (link: https://www.youtube.com/quattrocelli  text: youtube  popup: true) |
+|  2014 |  Video "Skyfall" quattrocelli on (link: https://www.youtube.com/quattrocelli  text: youtube  popup: true) |
+| 2011 - heute | Videodokumentationen from WGT Musik Kammer on (link: https://www.youtube.com/wgtmusikkammer text: youtube  popup: true) |
+| 2015 - heute | Videodokumentationen from Eichsfelder Domfestspiele on (link: https://www.youtube.com/channel/UCLC2swETqVT6npI99Bhp80g text: youtube  popup: true) |
+|  2017 |  CD quattrocelli “Times”  exerpts on (link: http://quattrocelli.de/cd  text: website quattrocelli popup: true) |
 
 ----
 

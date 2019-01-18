@@ -2,7 +2,7 @@ Title: Konzert
 
 ----
 
-Subtitle: The quattrocelli Scenes
+Subtitle: Times
 
 ----
 
@@ -25,9 +25,7 @@ Street:
 Text: 
 
 In
-„the
-quattrocelli
-scenes“
+"times“
 verschmelzen
 freie
 Phantasiewelten
@@ -181,3 +179,13 @@ Dates:
   city: Wolfrathshausen
   street: ""
   text: ""
+- 
+  date: 2019-02-22
+  enddate: ""
+  venue: Schloss Ismaning
+  city: Ismaning
+  street: ""
+  text: >
+    aktuelles Programm mit eigenen
+    Kompositionen und Arrangements von
+    quattrocelli

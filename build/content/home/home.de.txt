@@ -18,15 +18,7 @@ Info:
   picture: kuenstler.jpg
 - 
   title: Dozent
-  text: >
-    Professionalität entsteht dort, wo
-    Liebe und Genauigkeit gelebt werden.
-    Diese Vermittlung ist mir ein Anliegen
-    zwischen Anbieten und Lernen.
-    Vielseitige Talente fordern mich als
-    Dozent, Mentor und Coach heraus. Das
-    genaue Zuschauen und Zuhören erweitert
-    die Erfahrung.
+  text: '"Als Vermittler klassischer Musik ist Lukas Dreyer für mich eine ideale Lehrerpersönlichkeit: unkonventionell, kommunikativ, zuverlässig und hingebungsvoll der Sache dienend, ein hervorragender und sensibler Kammermusikpartner. Sein Spektrum als Cellist ist weit gefasst und seine musikalischen und pädagogischen Fähigkeiten außerordentlich." (Moritz Eggert)'
   picture: dozent.jpg
 - 
   title: Impresario
@@ -58,4 +50,4 @@ Meta-title: Lukas Dreyer – Cellist / Dozent / Impresario / Arrangeur
 
 ----
 
-Meta-description: Lukas Dreyer – internationaler Künstler, Cellist, Arrangeur, Dozent, Mentor, Gründer und Mitglied von quattrocelli, die 12 Thüringer Cellisten, Freiraum Syndikat, Duo con pasión, Impresario der Eichsfelder Domfestspiele und künstlerischer Leiter der WGT Musik Kammer
+Meta-description: Lukas Dreyer – internationaler Künstler, lebt in Leipzig, unterrichtet an der Musikhochschule "Franz Liszt" in Weimar, Solo-Cellist, Vorbereitung zu Probespielen und Studium, Arrangeur, Gründer und Mitglied von quattrocelli, die 12 Thüringer Cellisten, Freiraum Syndikat, Mentor, Coach, Impresario der Eichsfelder Domfestspiele und künstlerischer Leiter der WGT Musik Kammer

@@ -1,10 +1,12 @@
-Title: Vitae
+Title: Vita
 
 ----
 
 Text: 
 
-Lukas Dreyer, well-known as solo cellist in the Altenburg-Gera Philharmonic Orchestra, founder of the 12 Thuringian Cellists, instructor at the Weimar (Germany) University of Music, as well as initiator and artistic director of the Leipzig Wave-Gothic festival’s WGT Music Chamber, has made the musical rounds of Germany’s states of Thuringia and Saxony. The cellist ultimately achieved international recognition through his cello quartet quattrocelli, which he founded while still a student, and which is now celebrating its 20th anniversary. Combining his love of Baroque music and jazz, in 2015, he founded the international concert ensemble “Freiraum Syndikat”, which, with a bold combination of cello, jazz guitar, and two recorders, recreates the opulence of an entire chamber orchestra in its performances. The four musicians’ specialty is their mutual attempt to break boundaries and leave behind comfort zones, while, in a blend of improvisation, playful refinement, and a mixture of differing musical styles spanning over four centuries, creating never-before-heard musical novelties. The ensemble’s success has already led to collaboration with such renowned composers as Moritz Eggert and Henning Sieverts.
+Lukas Dreyer, well-known as solo cellist in the Altenburg-Gera Philharmonic Orchestra, founder of the 12 Thuringian Cellists, instructor at the Weimar (Germany) University of Music, as well as initiator and artistic director of the Leipzig Wave-Gothic festival’s WGT Music Chamber, has made the musical rounds of Germany’s states of Thuringia and Saxony. The cellist ultimately achieved international recognition through his cello quartet quattrocelli, which he founded while still a student, and which is now celebrating its 20th anniversary. Combining his love of Baroque music and jazz, in 2015, he founded the international concert ensemble “Freiraum Syndikat”, which, with a bold combination of cello, jazz guitar, and two recorders, recreates the opulence of an entire chamber orchestra in its performances. The four musicians’ specialty is their mutual attempt to break boundaries and leave behind comfort zones, while, in a blend of improvisation, playful refinement, and a mixture of differing musical styles spanning over four centuries, creating never-before-heard musical novelties. The ensemble’s success has already led to collaboration with such renowned musicians and composers as Moritz Eggert, and Henning Sieverts. 
+Since 2017 Lukas Dreyer's focus on solistic play is more on his instrument Cello. He played on international Festivals in Italy (Casalmaggiore) and Germany (WGT) with the musicians and composers David Braid (Canada) and Moritz Eggert (Germany) showing programs with music between classic, modern music, jazz and improvisation. 
+
 
 |                           |  |
 | ---                      | --- |
@@ -40,22 +42,26 @@ Lukas Dreyer, well-known as solo cellist in the Altenburg-Gera Philharmonic Orch
 | 2015 | **Frank Soehnle** Puppet-show project |
 | 2015 - present  | **Moritz Eggert** Leipzig Wave Gothic Festival, Songs & La BETTLEROPERa composed for FREIRAUM SYNDIKAT |
 | 2016 | **Konrad Adenauer Foundation**, **Theater and Philharmony Thuningia** musical play reading |
+| 2017 | **David Braid** Canada, **Music Festival Casalmaggiore** Italy |
 | 2017 | **Neuköllner Oper** Berlin, **Balletto Civile**, Genua |
 
 ### Influential Encounters 
 
-Prof. Daniel-Robert Graf
-Prof. Hans-Christian Schweiker
-Prof. Hubert Buchberger
-Prof. Sandor Devich
-Prof. Uzi Wiesel 
 Alban Berg Quartet
-Bartók Quartet
-Melos Quartet
-Smetana Quartet
 Amadeus Quartet
 Armando Chick Corea
+Bartók Quartet
+Daniel-Robert Graf
+David Braid
+Gabriel Feltz
+Hans-Christian Schweiker
+Hubert Buchberger
 Lalo Schifrin
+Melos Quartet
+Sandor Devich
+Uzi Wiesel 
+Smetana Quartet
+
 
 ### Sponsors
 
@@ -63,6 +69,25 @@ Foundation Villa Musica
 Sellheim Foundation
 Ernst von Siemens Foundation
 EEB Thuringia
+
+### Media 
+
+|                           |  |
+| ---                      | --- | 
+|  1998 |  CD quattrocelli “Live”  |
+|  2004 |  CD quattrocelli "Kaleidoskop" (NDR) | 
+|  2005 |  CD "Don Quixote" exerpts on (link: https://soundcloud.com/lukasdreyer/sets/don-quixote-richard-strauss  text: soundcloud popup: true) | 
+|  2005 |  CD "alma y musica" exerpts on (link: https://soundcloud.com/lukasdreyer/sets/villa-lobos-sonate text: soundcloud popup: true) | 
+|  2006 |  CD quattrocelli “Favourites” exerpts on (link: http://quattrocelli.de/cd  text: website quattrocelli popup: true) | 
+|  2007 |  CD quattrocelli “Scenes” (Radio Bremen) exerpts on (link: http://quattrocelli.de/cd  text: website quattrocelli popup: true) | 
+|  2007 |  CD Die 12 Thüringer Cellisten “Der erste Streich” (querstand) | 
+|  2007 |  CD "Villa-Lobos - Großes Konzert für Vc und Orch." on  (link: https://soundcloud.com/lukasdreyer/sets/villa-lobos-groses-konzert-fur-violoncello-und-orchester-op-51  text: soundcloud popup: true) | 
+|  2010 |  Video "Pirates of the Caribbeans" quattrocelli on (link: https://www.youtube.com/quattrocelli  text: youtube  popup: true) |
+|  2013 |  Video "Ghostbusters" quattrocelli on (link: https://www.youtube.com/quattrocelli  text: youtube  popup: true) |
+|  2014 |  Video "Skyfall" quattrocelli on (link: https://www.youtube.com/quattrocelli  text: youtube  popup: true) |
+| 2011 - heute | Videodokumentationen from WGT Musik Kammer on (link: https://www.youtube.com/wgtmusikkammer text: youtube  popup: true) |
+| 2015 - heute | Videodokumentationen from Eichsfelder Domfestspiele on (link: https://www.youtube.com/channel/UCLC2swETqVT6npI99Bhp80g text: youtube  popup: true) |
+|  2017 |  CD quattrocelli “Times”  exerpts on (link: http://quattrocelli.de/cd  text: website quattrocelli popup: true) |
 
 ----
 

@@ -21,6 +21,10 @@ Social-media:
 - 
   title: LinkedIn
   url: https://de.linkedin.com/in/lukasdreyer/
+- 
+  title: Instagram
+  url: >
+    https://www.instagram.com/hairdryermusic/
 
 ----
 

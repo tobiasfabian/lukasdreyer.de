@@ -2,7 +2,7 @@ Title: Gefährliche Liebschaften
 
 ----
 
-Subtitle: 
+Subtitle: Puppenspiel für Erwachsene
 
 ----
 
@@ -42,6 +42,13 @@ Dates:
   text: ""
 - 
   date: 2017-11-25 19:30
+  enddate: ""
+  venue: ""
+  city: ""
+  street: ""
+  text: ""
+- 
+  date: 2018-11-03 19:30
   enddate: ""
   venue: ""
   city: ""
