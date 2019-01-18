@@ -8,6 +8,9 @@
   margin-right: auto;
   justify-content: center;
   align-items: center;
+  @media (max-width: #{em(888)}) {
+    margin-top: rem(40);
+  }
   @media (max-width: #{em(444)}) {
     height: auto;
     padding-top: rem(120);
