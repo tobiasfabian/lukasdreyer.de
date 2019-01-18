@@ -17,7 +17,11 @@
     }
     &.is-langswitch {
       margin-top: 0;
-      padding-left: rem(5);
+      a {
+        max-width: 0.65em;
+        text-transform: lowercase;
+        overflow: hidden;
+      }
     }
   }
 }

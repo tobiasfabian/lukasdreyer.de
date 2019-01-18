@@ -2,8 +2,25 @@ Title: Video-Archiv WGT Musik Kammer
 
 ----
 
-Meta-description: 
+Meta-description: Hier sind die Videodokumentationen der WGT Musik Kammer zu finden.
 
 ----
 
 Text: 
+
+### Dokumentation 2017
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XLqlJSlKJLM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+### Dokumentation 2016
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mb-sL1kwUP8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+### Dokumentation 2015
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kocL31BpdZA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+### Dokumentation 2014 (Special: Junge WGT Musik Kammer)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oT_l-zISjEg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+### Dokumentation 2013
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dxyadsb7Ok" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+### Dokumentation 2012
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9gJQ49FdVmk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+### Dokumentation 2011
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Vp6aDIX5cI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+mehr Videos im (link: https://www.youtube.com/channel/UCJ6QRaikbuqESO1pnqbofYw text: **Youtube Kanal** popup: true)

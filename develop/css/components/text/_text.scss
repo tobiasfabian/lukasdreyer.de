@@ -1,0 +1,30 @@
+.text {
+  position: relative;
+  display: flex;
+  max-width: rem(624);
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: rem(24);
+  padding-right: rem(24);
+  margin-bottom: rem(70);
+  flex-direction: column;
+
+  h3 {
+    max-width: rem(432);
+    margin-top: rem(70);
+    // line-height: rem($line-height--h2);
+    // font-size: rem($font-size--h2);
+    font-weight: 600;
+
+    &:first-child {
+      margin-top: 0;
+    }
+
+    strong {
+      display: block;
+      // margin-bottom: rem(5);
+      font-size: rem($font-size--h5);
+      color: $color--red;
+    }
+  }
+}

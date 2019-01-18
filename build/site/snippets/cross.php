@@ -27,6 +27,9 @@
       </li>
     <?php endforeach; ?>
     </ul>
+    <a class="bttn" href="<?= $site->page('projekte')->url() ?>">
+      <?= l::get('more projects') ?>
+    </a>
   </div>
   <div class="cross__item cross-news">
     <?php

@@ -69,6 +69,32 @@
 }
 
 
+.cross--projects {
+  &::before {
+    opacity: 1;
+    background-position:
+      center rem(72 - 24 * 2), // top
+      center rem(504 + 24 * 2), // bottom
+      rem(192 - 24) center, // left
+      rem(672 + 24) center; // right
+  }
+  @media (max-width: #{em(888)}) {
+    &::before {
+      background-image:
+        url('../images/dotted-border.svg'),
+        url('../images/dotted-border.svg'),
+    }
+  }
+  @media (max-width: #{em(444)}) {
+    &::before {
+      background-position:
+        center rem(70), // top
+        center calc(100% - #{rem(70)}), // bottom
+    }
+  }
+}
+
+
 .cross__item {
   max-width: rem(888/2);
   min-height: rem(372);

@@ -4,6 +4,7 @@ l::set('more dates', 'more dates');
 l::set('all dates', 'all dates');
 l::set('close dates', 'close dates');
 l::set('close date', 'close date');
+l::set('more projects', 'more projects');
 l::set('more news', 'more news');
 l::set('close news', 'close news');
 l::set('start', 'Start');

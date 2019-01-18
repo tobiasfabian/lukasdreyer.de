@@ -73,11 +73,16 @@
   @import 'components/related-events/related-events__place';
   @import 'components/related-events/related-events__link';
 
+@import 'components/projects/projects';
+  @import 'components/projects/projects__text';
+
 @import 'components/project/project';
   @import 'components/project/project__text';
   @import 'components/project/project__nav-item';
 
 @import 'components/project-subpage/project-subpage';
+
+@import 'components/text/text';
 
 @import 'components/news-item/news-item';
   @import 'components/news-item/news-item__date';

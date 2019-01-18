@@ -1,7 +1,25 @@
 .cross-projects {
   padding-left: rem(48);
   padding-right: rem(48);
-  padding-top: rem(80);
+  padding-top: rem(60);
+  .bttn {
+    color: $color--red;
+    padding-right: rem(26);
+    font-family: $font-family--work-sans;
+    font-size: rem($font-size--standard);
+    font-weight: 600;
+    &::before,
+    &::after {
+      background-image: url('../images/arrow--red.svg');
+      background-size: rem(19) rem(12);
+    }
+    &::before {
+      width: rem(12);
+    }
+    &::after {
+      width: rem(7);
+    }
+  }
   @media (max-width: #{em(888)}) {
     padding-top: rem(40);
     padding-bottom: rem(40+24);
@@ -16,9 +34,7 @@
 // li element
 .cross-projects__item {
   max-width: rem(288);
-  &:not(:last-of-type) {
-    margin-bottom: rem(20);
-  }
+  margin-bottom: rem(20);
   strong {
     display: block;
     margin-bottom: rem(5);
