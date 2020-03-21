@@ -1,0 +1,48 @@
+Title: Kreation und Offenbarung
+
+----
+
+Subtitle: Spiel mit Klangräumen in Musik, Wort und Bewegung
+
+----
+
+Project: FREIRAUM SYNDIKAT
+
+----
+
+Venue: 
+
+----
+
+City: 
+
+----
+
+Street: 
+
+----
+
+Text: 
+
+Das internationale Ensemble Freiraum Syndikat als Bandkonzept findet im musikalischen Kontext
+gemeinsam mit Schauspielern und Tänzern seine Klangkonzepte über die Genregrenzen hinaus.
+Dabei wird der besondere Bezug auf den Aufführungsort als Raum gesucht und somit Anlass zum
+authentischen Erlebnis für das Publikum.
+
+Violoncello - Lukas Dreyer
+E-Gitarre / Gitarre - Flavio Virzì
+Neam Tarek - Harfe
+Sabine Schramm - Sprecherin
+Marco Jodes - Tanzimprovisation
+
+----
+
+Dates: 
+
+- 
+  date: 2019-09-08 15:00
+  enddate: ""
+  venue: Ev. Kirche
+  city: Bad Tennstedt
+  street: ""
+  text: ""

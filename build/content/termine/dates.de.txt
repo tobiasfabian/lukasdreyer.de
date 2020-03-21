@@ -168,6 +168,70 @@ Dates:
   city: Lauchheim
   street: ""
   text: ""
+- 
+  title: Konzert
+  subtitle: Expowal
+  project: quattrocelli
+  date: 2019-05-13
+  enddate: ""
+  venue: Expowal
+  city: Hannover
+  street: ""
+  text: >
+    Der Lionsclub Hannover lädt ein. Info
+    unter www.quattrocelli.de
+- 
+  title: Konzert
+  subtitle: Lessingtheater
+  project: quattrocelli
+  date: 2019-05-11
+  enddate: ""
+  venue: Lessingtheater
+  city: Wolfenbüttel
+  street: ""
+  text: Info unter www.quattrocelli.de
+- 
+  title: Konzert
+  subtitle: Schloss Ismaning
+  project: quattrocelli
+  date: 2019-02-22
+  enddate: ""
+  venue: ""
+  city: Ismaning
+  street: ""
+  text: Infos unter www.quattrocelli.de
+- 
+  title: Konzert
+  subtitle: Kolosseum
+  project: quattrocelli
+  date: 2019-06-01 19:30
+  enddate: ""
+  venue: ""
+  city: Lübeck
+  street: ""
+  text: ""
+- 
+  title: Weihnachtskonzert
+  subtitle: ""
+  project: quattrocelli
+  date: 2019-12-15 18:00
+  enddate: ""
+  venue: Maximilianpark Festsaal
+  city: Hamm
+  street: ""
+  text: 'Weihnachtskonzert mit Cantate´86, Robert und Angelika Atzorn, Charlotte Jarosch von Schweder & Quattrocelli'
+- 
+  title: Russische Seele
+  subtitle: Sinfonietta Mainz
+  project: ""
+  date: 2020-03-22 17:00
+  enddate: ""
+  venue: Kurfürstliches Schloss
+  city: Mainz (abgesagt)
+  street: ""
+  text: >
+    (wegen corona abgesagt. Ein neuer Termin
+    wird bekannt gegeben)
 
 ----
 

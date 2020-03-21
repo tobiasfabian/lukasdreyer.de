@@ -24,63 +24,8 @@ Street:
 
 Text: 
 
-In
-"times“
-verschmelzen
-freie
-Phantasiewelten
-in
-Klang,
-Licht
-und
-Raum
-mit
-gekonnt
-gesetzten
-Szenen
-zum
-Leitmotiv
-eines
-eigenen
-Films.
-Die
-sinnlichen
-Momente
-von
-Melancholie
-bis
-Komik,
-von
-denen
-die
-vier
-Protagonisten
-Lukas
-Dreyer,
-Tim
-Ströble,
-Matthias
-Trück
-und
-Hartwig
-Christ
-musikalisch
-erzählen,
-lassen
-das
-Publikum
-zwischen
-Erwartungen
-und
-Überraschungen
-genießen,
-lachen
-und
-träumen.
-Kammermusik
-in
-cineastischer
-Klangüppigkeit!
+In "times“ verschmelzen freie Phantasiewelten in Klang, Licht und Raum mit gekonnt gesetzten Szenen. 
+Momente von Melancholie bis Komik. Kammermusik in cineastischer Klangüppigkeit!
 
 ----
 
@@ -180,12 +125,44 @@ Dates:
   street: ""
   text: ""
 - 
-  date: 2019-02-22
+  date: 2019-08-13 20:00
   enddate: ""
-  venue: Schloss Ismaning
-  city: Ismaning
+  venue: Friesensaal Keitum, Kulturhaus
+  city: Sylt
   street: ""
-  text: >
-    aktuelles Programm mit eigenen
-    Kompositionen und Arrangements von
-    quattrocelli
+  text: ""
+- 
+  date: 2019-08-15
+  enddate: ""
+  venue: Sommerfest Trier
+  city: Trier
+  street: ""
+  text: ""
+- 
+  date: 2019-09-15 17:00
+  enddate: ""
+  venue: Kavalierhaus
+  city: Königs Wusterhausen
+  street: ""
+  text: Schlosskonzerte
+- 
+  date: 2019-09-25 20:00
+  enddate: ""
+  venue: Kundenhalle Sparkasse
+  city: Salzgitter
+  street: ""
+  text: Kulturkreis Salzgitter
+- 
+  date: 2019-09-26
+  enddate: ""
+  venue: Burghaus Bielstein
+  city: Wiehl
+  street: ""
+  text: Kulturkreis Wiehl
+- 
+  date: 2019-10-05 19:30
+  enddate: ""
+  venue: Seepark Landesgartenschau
+  city: Lahr
+  street: ""
+  text: ""

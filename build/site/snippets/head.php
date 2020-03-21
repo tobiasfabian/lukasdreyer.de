@@ -41,7 +41,7 @@ if (isset($event)) {
     <meta property="og:description" content="<?= $page->meta_description() ?>" />
   <?php endif; ?>
   <meta property="og:image" content="<?= $site->open_graph_image()->toFile()->url() ?>" />
-
+  <meta name="flattr:id" content="zly3qe">
 
   <title><?= $metaTitle ?></title>
 

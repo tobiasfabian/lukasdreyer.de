@@ -1,0 +1,37 @@
+Title: Tyler Faraday Band feat. Lukas Dreyer - Cello
+
+----
+
+Subtitle: Internationaler Sommer Campus 2019
+
+----
+
+Project: 
+
+----
+
+Venue: Wielandgut
+
+----
+
+City: Oßmannstedt
+
+----
+
+Street: 
+
+----
+
+Text: Die portugiesische Jazz Formation um den Sänger und Gitarristen Tyler Faraday aus Lissabon tour durch Europa und stellt seine neue CD vor. Die Coverband tourt in der Besetzung: Tyler Faraday - voc/git, Ozeaz Miranda - drums, Claudio Andrade - bass durch Europa.
+
+----
+
+Dates: 
+
+- 
+  date: 2019-08-30
+  enddate: ""
+  venue: Wielandgut Oßmannstedt
+  city: Weimar / Oßmannstedt
+  street: ""
+  text: ""

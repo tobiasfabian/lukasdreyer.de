@@ -1,0 +1,58 @@
+Title: Heimat und Grenze
+
+----
+
+Subtitle: musikalische Vernissage
+
+----
+
+Project: Eichsfelder Domfestspiele
+
+----
+
+Venue: 
+
+----
+
+City: 
+
+----
+
+Street: 
+
+----
+
+Text: Info folgt in Kürze
+
+----
+
+Dates: 
+
+- 
+  date: 2019-11-14 19:00
+  enddate: ""
+  venue: St. Alban
+  city: Effelder
+  street: ""
+  text: ""
+- 
+  date: 2019-11-15 19:00
+  enddate: ""
+  venue: Aula St. Ursula
+  city: Duderstadt
+  street: ""
+  text: ""
+- 
+  date: 2020-03-25 10:00
+  enddate: ""
+  venue: KulturKloster
+  city: Duderstadt (verschoben)
+  street: ""
+  text: >
+    Vernissage 2020 mit Bildern aus dem
+    Projekt Heimat und Grenze von 2019.
+    Musik von Johann Sebastian Bach für
+    Violoncello solo. Eintritt nach tel.
+    Anmeldung im KulturKloster frei.
+    (abgesagt. Ein neuer Termin wird bekannt
+    gegeben)

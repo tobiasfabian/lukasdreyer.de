@@ -24,13 +24,14 @@ Info:
   title: Impresario
   text: >
     Gründungsinitiativen für
-    genreübergreifende Konzepte sind Teile
-    meiner Motivation als Künstler.
-    Kommunikation und Organisation bedeuten
-    für mich Sender und Empfänger sein zu
-    können. Begeisterte Menschen zusammen
-    zu führen, ihnen eine gemeinsame Bühne
-    zu geben, fasziniert mich.
+    genreübergreifende Kammermusikprojekte
+    und Konzertformate sind Teile meiner
+    Motivation als Künstler. Kommunikation
+    und Organisation bedeuten für mich
+    Sender und Empfänger sein zu können.
+    Begeisterte Menschen zusammen zu
+    führen, ihnen eine gemeinsame Bühne zu
+    geben, fasziniert mich.
   picture: impresario.jpg
 - 
   title: Arrangeur
@@ -50,4 +51,4 @@ Meta-title: Lukas Dreyer – Cellist / Dozent / Impresario / Arrangeur
 
 ----
 
-Meta-description: Lukas Dreyer – internationaler Künstler, lebt in Leipzig, unterrichtet an der Musikhochschule "Franz Liszt" in Weimar, Solo-Cellist, Vorbereitung zu Probespielen und Studium, Arrangeur, Gründer und Mitglied von quattrocelli, die 12 Thüringer Cellisten, Freiraum Syndikat, Mentor, Coach, Impresario der Eichsfelder Domfestspiele und künstlerischer Leiter der WGT Musik Kammer
+Meta-description: Lukas Dreyer – internationaler Cellist mit interdisziplinären Konzepten,  Gründer von Freiraum Syndikat, Dozent, Mentor und Coach, Impresario, Konzertfomatentwickler und künstlerischer Leiter der internationalen WGT Musik Kammer in Leipzig

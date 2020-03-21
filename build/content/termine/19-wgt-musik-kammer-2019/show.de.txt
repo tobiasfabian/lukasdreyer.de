@@ -1,0 +1,41 @@
+Title: 28. Wave Gotik Treffen
+
+----
+
+Subtitle: 
+
+----
+
+Project: WGT Musik Kammer
+
+----
+
+Venue: 
+
+----
+
+City: Leipzig
+
+----
+
+Street: 
+
+----
+
+Text: 
+
+Neue Musik als Klangerlebnis ist bei diesem offenen Publikum genauso willkommen wie auch klassische Tradition. Neue Kompositionen von Moritz Eggert, Manfred Stahnke und Shir-Ran Yinon sind deshalb ganz im Sinne der Weiterentwicklung eines Gedankens “Good music is good no matter what kind of music it is.” von Miles Davis fester Bestandteil des Konzeptes dieser internationalen Kammermusik Reihe in Leipzig, wo die Formate immer inhaltlich neu gedacht werden.  
+
+Mehr Infos unter : https://lukasdreyer.de/neuigkeiten/wgt-musik-kammer-2019
+
+----
+
+Dates: 
+
+- 
+  date: 2019-06-08
+  enddate: 2019-06-10
+  venue: ""
+  city: ""
+  street: ""
+  text: ""

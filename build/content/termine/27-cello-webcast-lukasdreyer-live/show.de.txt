@@ -1,0 +1,85 @@
+Title: live webcast Tiny Concert Series
+
+----
+
+Subtitle: tiny concert series
+
+----
+
+Project: Hairdryer's Chamber Music Infection
+
+----
+
+Venue: 
+
+----
+
+City: stream (Leipzig)
+
+----
+
+Street: 
+
+----
+
+Text: 
+
+----
+
+Dates: 
+
+- 
+  date: 2020-01-18 21:30
+  enddate: ""
+  venue: ""
+  city: ""
+  street: ""
+  text: |
+    bach project #50-1
+    some music from G-Major Suite for you
+    
+    (link:https://facebook.com/events/s/livepodcastinfection/2494248810893870/?ti=icl)
+- 
+  date: 2020-01-25 20:30
+  enddate: ""
+  venue: ""
+  city: ""
+  street: ""
+  text: |
+    bach project #50-2
+    tiny concert program: solo suite in g major JSBach  Menuetts I&II // Gigue
+    
+    (link:https://facebook.com/events/s/livepodcastinfection-502/198733417965865/?ti=icl)
+- 
+  date: 2020-02-08 20:30
+  enddate: ""
+  venue: ""
+  city: stream (Leipzig)
+  street: ""
+  text: |
+    bach project #50-3
+    programm - from G-Major Suite 2 Courante & Menuet 1+2
+    
+    live stream: (link:https://facebook.com/events/s/livepodcastinfection-tiny-conc/465736604096254/?ti=icl popup:true)
+- 
+  date: 2020-02-29 20:30
+  enddate: ""
+  venue: ""
+  city: stream (Leipzig)
+  street: ""
+  text: |
+    bach project #50-4
+    programm - from G-Major Suite Prelude/Sarabande/Gigue
+    
+    live stream: (link:https://facebook.com/events/s/livewebcastinfection-tiny-conc/1420841188077589/?ti=icl popup:true)
+- 
+  date: 2020-03-28
+  enddate: ""
+  venue: ""
+  city: stream (Leipzig)
+  street: ""
+  text: |
+    bach project #51.1
+    programm - tba
+    
+    live stream: (link:https://facebook.com/events/s/livewebcastinfection-tiny-conc/236462134039516/?ti=icl popup:true)

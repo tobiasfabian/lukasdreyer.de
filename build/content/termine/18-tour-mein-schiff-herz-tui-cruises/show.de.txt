@@ -1,0 +1,37 @@
+Title: Mary Roos Abschiedskonzert
+
+----
+
+Subtitle: Tournee
+
+----
+
+Project: 
+
+----
+
+Venue: MEIN SCHIFF HERZ Tui Cruises
+
+----
+
+City: Azoren-Madeira
+
+----
+
+Street: 
+
+----
+
+Text: info tba
+
+----
+
+Dates: 
+
+- 
+  date: 2020-02-10
+  enddate: 2020-02-13
+  venue: ""
+  city: ""
+  street: ""
+  text: ""

@@ -1,0 +1,37 @@
+Title: Hugo Junkers Preisverleihung
+
+----
+
+Subtitle: geschlossene Veranstaltung
+
+----
+
+Project: FREIRAUM SYNDIKAT
+
+----
+
+Venue: Technikmuseum "Hugo Junckers"
+
+----
+
+City: Dessau
+
+----
+
+Street: 
+
+----
+
+Text: 
+
+----
+
+Dates: 
+
+- 
+  date: 2019-12-04
+  enddate: ""
+  venue: ""
+  city: ""
+  street: ""
+  text: ""

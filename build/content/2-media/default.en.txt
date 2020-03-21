@@ -1,0 +1,62 @@
+Title: Media
+
+----
+
+Text: 
+
+### **Producer** Video „Ghostbusters“ quattrocelli
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Y1Zq9IcbPuM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### **Soloist** CD Richard Strauss „Don Quixote“
+<iframe width="100%" height="450" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/2203823&color=%23db0700&auto_play=false&hide_related=true&show_comments=false&show_user=false&show_reposts=false&show_teaser=false&show_playcount=false&sharing=false"></iframe>
+out of stock
+
+### **Instructor** Videodocumentations
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLdlqYNEuG6wj63NyAqRDVaM9n6Kbf_V5c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### **Arranger** CD quattrocelli „Scenes“  (Radio Bremen)
+exerpts & order via (link: http://quattrocelli.de/cd text: website quattrocelli popup: true)
+
+### **Impresario** Theater play of Eichsfelder Domfestspiele
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vzsl21AMWUs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### **Project** CD „alma y musica“
+<iframe width="100%" height="450" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/627571026&color=%23db0700&auto_play=false&hide_related=true&show_comments=false&show_user=false&show_reposts=false&show_teaser=false&show_playcount=false&sharing=false"></iframe>
+order via (link: http://lukasdreyer.de/kontakt-impressum
+ text: E-Mail here popup: true)
+
+###**Producer** Die 12 Thüringer Cellisten
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y2e5tmKy8y8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### **Soloist** CD „Villa-Lobos - Conzert No 1 for Cello and Orch.“
+<iframe width="100%" height="450" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/627586962&color=%23db0700&auto_play=false&hide_related=true&show_comments=false&show_user=false&show_reposts=false&show_teaser=false&show_playcount=false&sharing=false"></iframe>
+order via (link: http://lukasdreyer.de/kontakt-impressum
+ text: E-Mail here popup: true)
+
+### **Project** Video „Skyfall“ quattrocelli
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/3i4K7Lz98wQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### **Producer** Videodokumentationen from WGT Musik Kammer
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed?listType=user_uploads&list=wgtmusikkammer" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### **Project** Video „Pirates of the Caribbeans“ quattrocelli
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/3tHov269Ky0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### **Arranger** CD quattrocelli „Favourites“ 
+exerpts & order via (link: http://quattrocelli.de/cd text: website quattrocelli popup: true)
+
+### **Project** CD quattrocelli „Times“
+exerpts & order via (link: http://quattrocelli.de/cd text: website quattrocelli popup: true)
+
+### **Project** CD Die 12 Thüringer Cellisten “Der erste Streich” (label: querstand)
+exerpts & order via  (link: https://www.grooves-inc.co.uk/die-thueringer-cellisten-der-erste-streich-querstand-cd-pZZa1-1898326761.html text: grooves popup: true)
+
+### **Project** CD quattrocelli „Kaleidoskop“ (NDR)
+out of stock
+
+### **Project** CD quattrocelli „Live“
+out of stock
+
+----
+
+Url-key: media

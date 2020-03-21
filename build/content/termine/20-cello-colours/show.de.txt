@@ -1,0 +1,49 @@
+Title: Cello Colours
+
+----
+
+Subtitle: Fauré-Yinon-Eggert-Mahler-Schifrin
+
+----
+
+Project: WGT Musik Kammer
+
+----
+
+Venue: Alte Handelsbörse
+
+----
+
+City: Leipzig
+
+----
+
+Street: 
+
+----
+
+Text: 
+
+Lukas Dreyer - Violoncello
+Moritz Eggert - Klavier
+Johannes Krampen - Violine
+Shir-Ran Yinon - Viola
+
+Gabriel Fauré - Deuxieme Sonate pour Violoncelle et Piano Op. 117
+Shir-Ran Yinon - Episoden für Streichtrio
+Moritz Eggert - Hämmerklavier XI
+Gustav Mahler - Klavierquartett a-moll
+Moritz Eggert - Auf den Punkt für Klaviertrio und 3 Metronome
+Lalo Schifrin - Elegie & Meditation für Klaviertrio
+
+----
+
+Dates: 
+
+- 
+  date: 2019-06-09 13:30
+  enddate: ""
+  venue: ""
+  city: ""
+  street: ""
+  text: ""

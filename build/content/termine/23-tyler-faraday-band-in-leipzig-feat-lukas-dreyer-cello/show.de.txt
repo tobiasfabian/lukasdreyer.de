@@ -1,0 +1,51 @@
+Title: Tyler Faraday Band Europa tour 2019 feat. Lukas Dreyer - Cello
+
+----
+
+Subtitle: Trilogie Leipzig
+
+----
+
+Project: 
+
+----
+
+Venue: 
+
+----
+
+City: Leipzig
+
+----
+
+Street: 
+
+----
+
+Text: 
+
+----
+
+Dates: 
+
+- 
+  date: 2019-08-27 18:00
+  enddate: ""
+  venue: 'Café K&K'
+  city: ""
+  street: ""
+  text: Info folgt
+- 
+  date: 2019-08-28 18:00
+  enddate: ""
+  venue: Café Pastel
+  city: ""
+  street: ""
+  text: Info folgt
+- 
+  date: 2019-08-29 18:00
+  enddate: ""
+  venue: Obenauf
+  city: ""
+  street: ""
+  text: Info folgt
