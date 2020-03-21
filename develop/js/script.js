@@ -14,4 +14,10 @@ function isTouchDevice() {
 
 if (isTouchDevice()) {
   document.querySelector('body').classList.add('is-touch');
+  document.addEventListener('mousemove', () => {
+    document.querySelector('body').classList.remove('is-touch');
+  }, {
+    passive: true,
+    once: true,
+  });
 }

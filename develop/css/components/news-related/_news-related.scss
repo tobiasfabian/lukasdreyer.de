@@ -32,7 +32,7 @@
     opacity: 0.4;
     font-weight: 500;
   }
-  @media (max-width: #{em(928)}) {
+  @media (max-width: #{em($bp-mobile-nav)}) {
     margin-right: auto;
     padding-top: rem(70);
   }

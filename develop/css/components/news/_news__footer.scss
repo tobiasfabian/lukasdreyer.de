@@ -10,7 +10,7 @@
   background-size: rem(888);
   background-position: center top;
   background-repeat: no-repeat;
-  @media (max-width: #{em(928)}) {
+  @media (max-width: #{em($bp-mobile-nav)}) {
     bottom: rem(40);
     display: flex;
     height: rem(30);
@@ -35,7 +35,7 @@
   width: rem(888);
   transform: rotate(-10deg);
   background-image: url('../images/dotted-border.svg');
-  @media (max-width: #{em(928)}) {
+  @media (max-width: #{em($bp-mobile-nav)}) {
     content: none;
   }
 }
@@ -58,7 +58,7 @@
   &:hover {
     text-decoration: underline;
   }
-  @media (max-width: #{em(928)}) {
+  @media (max-width: #{em($bp-mobile-nav)}) {
     position: static;
     transform: none;
   }

@@ -8,7 +8,7 @@
     margin-top: rem(20);
   }
 
-  @media (max-width: #{em(928)}) {
+  @media (max-width: #{em($bp-mobile-nav)}) {
     margin-bottom: rem(6);
     margin-left: auto;
     margin-right: auto;

@@ -1,6 +1,6 @@
 .nav__link {
   @extend .bttn;
-  @media (max-width: #{em(928)}) {
+  @media (max-width: #{em($bp-mobile-nav)}) {
     padding: rem(4);
     &::before,
     &::after {

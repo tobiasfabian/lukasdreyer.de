@@ -14,7 +14,7 @@
     right: calc(50% - #{rem(1536/2)});
   }
 
-  @media (max-width: #{em(928)}) {
+  @media (max-width: #{em($bp-mobile-nav)}) {
     top: auto;
     bottom: 0;
     left: 0;
