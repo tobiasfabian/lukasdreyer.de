@@ -12,29 +12,23 @@ function updateListHeight() {
   }
 }
 
-function initialScroll() {
-  const seperatorElement = listElement.querySelector('.event-thumb-seperator');
-  if (window.matchMedia('(max-width: 55.5em)').matches) {
-    if (element.classList.contains('is-list-only')) {
-      const bodyElement = getBody();
-      setTimeout(function() {
-        bodyElement.scrollTop = seperatorElement.offsetTop + 145;
-      }, 500);
-    }
-  } else {
-    listElement.scrollTop = seperatorElement.offsetTop - 185+40;
-  }
-}
-
 const element = document.querySelector('.dates');
 if (element) {
 
   var listElement = element.querySelector('.dates-list');
   var showElement = element.querySelector('.show');
+  var datesListScrollTop = sessionStorage.getItem('datesListScrollTop');
 
   updateListHeight();
-  initialScroll();
+
+  if (datesListScrollTop) {
+    listElement.scroll({
+      top: datesListScrollTop,
+    });
+  }
 
   window.addEventListener('resize', updateListHeight, {passive: true});
-
+  listElement.addEventListener('scroll', () => {
+    sessionStorage.setItem('datesListScrollTop', listElement.scrollTop);
+  }, {passive: true});
 }
