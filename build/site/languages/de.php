@@ -8,6 +8,7 @@ l::set('more projects', 'weitere Projekte');
 l::set('more news', 'weitere Neuigkeiten');
 l::set('close news', 'Neuigkeiten schließen');
 l::set('start', 'Beginn');
+l::set('end', 'Ende');
 l::set('today', 'heute');
 l::set('o’ clock', 'Uhr');
 l::set('email', 'E-Mail');

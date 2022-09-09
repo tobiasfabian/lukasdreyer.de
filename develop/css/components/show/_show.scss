@@ -13,6 +13,10 @@
   background-repeat: repeat-y;
   background-position: left top;
 
+  .typo {
+    width: 100%;
+  }
+
   @media (max-width: #{em(1208)}) {
     padding-left: rem(72-16);
   }
