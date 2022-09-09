@@ -1,6 +1,6 @@
-// @codekit-prepend 'components/_header.js'
-// @codekit-prepend 'components/_dates.js'
-// @codekit-prepend 'components/_infoItems.js'
+import './components/_header';
+import './components/_dates';
+import './components/_infoItems';
 
 function isTouchDevice() {
   try {

@@ -1,38 +1,34 @@
-(function(){
+function handleScroll() {
+  window.requestAnimationFrame(updateHeader);
+}
 
-  function handleScroll() {
-    window.requestAnimationFrame(updateHeader);
-  }
+function updateHeader() {
+  const y = window.scrollY / 2 < maxY ? window.scrollY / 2 : maxY;
+  headerElement.style.transform = 'translateY(-'+y+'px)';
+}
 
-  function updateHeader() {
-    const y = window.scrollY / 2 < maxY ? window.scrollY / 2 : maxY;
-    headerElement.style.transform = 'translateY(-'+y+'px)';
-  }
-
-  function updateMaxY() {
-    if (window.matchMedia('(max-width: 27.75em)').matches) {
-      maxY = 102;
+function updateMaxY() {
+  if (window.matchMedia('(max-width: 27.75em)').matches) {
+    maxY = 102;
+  } else {
+    if (headerImgElement.offsetWidth > 0) {
+      const headerImgWidth = headerImgElement.offsetWidth;
+      maxY = 0.08173076923 * headerImgWidth;
     } else {
-      if (headerImgElement.offsetWidth > 0) {
+      headerImgElement.addEventListener('load', function() {
         const headerImgWidth = headerImgElement.offsetWidth;
         maxY = 0.08173076923 * headerImgWidth;
-      } else {
-        headerImgElement.addEventListener('load', function() {
-          const headerImgWidth = headerImgElement.offsetWidth;
-          maxY = 0.08173076923 * headerImgWidth;
-        });
-      }
+      });
     }
-    window.requestAnimationFrame(updateHeader);
   }
+  window.requestAnimationFrame(updateHeader);
+}
 
-  const headerElement = document.querySelector('.header');
-  const headerImgElement = headerElement.querySelector('img');
-  let maxY = 85;
+const headerElement = document.querySelector('.header');
+const headerImgElement = headerElement.querySelector('img');
+let maxY = 85;
 
-  updateMaxY();
+updateMaxY();
 
-  window.addEventListener('resize', updateMaxY, {passive: true});
-  window.addEventListener('scroll', handleScroll, {passive: true});
-
-})();
+window.addEventListener('resize', updateMaxY, {passive: true});
+window.addEventListener('scroll', handleScroll, {passive: true});
