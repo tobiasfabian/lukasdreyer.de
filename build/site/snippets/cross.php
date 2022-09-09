@@ -2,6 +2,9 @@
   <div class="cross__item cross-dates">
     <?php
       $events = $events->filter(function($event) {
+        if ($event->enddate()) {
+          return date('ymd', time()) <= date('ymd', $event->enddate());
+        }
         return date('ymd', time()) <= date('ymd', $event->date());
       })->limit(3);
       if ($events->count() > 0):

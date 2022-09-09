@@ -5,7 +5,7 @@ $isSeparatorShown = false;
 <?php foreach($events as $eventsItem): ?>
   <?php
     if (!$isSeparatorShown
-    && date('ymd', time()) <= date('ymd', $eventsItem->date())
+    && date('ymd', time()) <= date('ymd', ($eventsItem->enddate() ? $eventsItem->enddate() : $eventsItem->date()))
     && !$page->isHomePage()):
       $isSeparatorShown = true;
   ?>
