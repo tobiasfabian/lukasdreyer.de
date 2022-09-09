@@ -32,14 +32,14 @@ $isSeparatorShown = false;
       </span>
       <div class="event-thumb__date">
         <time datetime="<?= date('c', $eventsItem->date()) ?>">
-          <?php if ($eventsItem->enddate() && date('m', $eventsItem->date()) === date('m', $eventsItem->enddate())) : ?>
+          <?php if ($eventsItem->enddate() && date('ymd', $eventsItem->date()) !== date('ymd', $eventsItem->enddate()) && date('m', $eventsItem->date()) === date('m', $eventsItem->enddate())) : ?>
             <?= date('d', $eventsItem->date()) ?>
           <?php else: ?>
             <?= date('d', $eventsItem->date()) ?>
             <span><?= strftime('%b', $eventsItem->date()) ?></span>
           <?php endif; ?>
         </time>
-        <?php if ($eventsItem->enddate()) :?>
+        <?php if ($eventsItem->enddate() && date('ymd', $eventsItem->date()) !== date('ymd', $eventsItem->enddate())) :?>
           <time datetime="<?= date('c', $eventsItem->enddate()) ?>">
             <?= date('d', $eventsItem->enddate()) ?>
             <span><?= strftime('%b', $eventsItem->enddate()) ?></span>

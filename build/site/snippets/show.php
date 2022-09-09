@@ -13,14 +13,16 @@
       </div>
       <?php endif; ?>
       <?php if ($event->enddate()): ?>
-        <div class="show__until" aria-label="<?= l::get('until') ?>">—</div>
-        <?= strftime('%A', $event->enddate()) ?>,<br>
-        <?= date('j', $event->enddate()) ?>. <?= strftime('%B', $event->enddate()) ?>
-        <br><?= date('Y', $event->enddate()) ?>
+        <?php if (date('ymd', $event->date()) !== date('ymd', $event->enddate())): ?>
+          <div class="show__until" aria-label="<?= l::get('until') ?>">—</div>
+          <?= strftime('%A', $event->enddate()) ?>,<br>
+          <?= date('j', $event->enddate()) ?>. <?= strftime('%B', $event->enddate()) ?>
+          <br><?= date('Y', $event->enddate()) ?>
+        <?php endif; ?>
         <?php if (date('G:i', $event->enddate()) !== '0:00') : ?>
-        <div class="show__date-hour">
-          <?= l::get('end') ?>: <?= date('G', $event->enddate()) ?><?=  date('i', $event->enddate()) !== '00' ? date(':i', $event->enddate()) : '' ?> <?= l::get('o’ clock') ?>
-        </div>
+          <div class="show__date-hour">
+            <?= l::get('end') ?>: <?= date('G', $event->enddate()) ?><?=  date('i', $event->enddate()) !== '00' ? date(':i', $event->enddate()) : '' ?> <?= l::get('o’ clock') ?>
+          </div>
         <?php endif; ?>
       <?php endif; ?>
     </div>

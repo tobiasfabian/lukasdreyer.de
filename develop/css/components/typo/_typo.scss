@@ -81,6 +81,10 @@
   max-height: calc((100vw - #{rem(24 * 2)}) * (9/16));
   display: block;
   margin: rem(45) auto rem(35);
+
+  &[src^="https://embed.podcasts.apple.com"] {
+    height: auto;
+  }
 }
 
 .typo table {
