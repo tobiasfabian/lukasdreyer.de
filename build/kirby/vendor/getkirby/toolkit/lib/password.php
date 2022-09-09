@@ -31,9 +31,7 @@ class Password {
    * @return boolean
    */
   public static function isHash($hash) {
-    $algo = password_get_info($hash)['algo'];
-
-    return $algo !== 0 && $algo !== null;
+    return password_get_info($hash)['algo'] !== 0;
   }
 
   /**

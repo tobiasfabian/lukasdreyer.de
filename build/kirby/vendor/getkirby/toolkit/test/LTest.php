@@ -3,19 +3,19 @@
 require_once('lib/bootstrap.php');
 
 class LTest extends PHPUnit_Framework_TestCase {
-
-  public function setUp(): void {
+  
+  protected function setUp() {
 
     l::set('testvar', 'testvalue');
 
   }
 
   public function testGet() {
-
+    
     $this->assertEquals('testvalue', l::get('testvar'));
     $this->assertEquals('defaultvalue', l::get('nonexistentvar', 'defaultvalue'));
 
-  }
+  }  
 
   public function testSet() {
 

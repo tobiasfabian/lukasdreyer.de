@@ -7,7 +7,7 @@ class PasswordTest extends PHPUnit_Framework_TestCase {
   protected $pw;
   protected $hash;
 
-  public function setUp(): void {
+  protected function setUp() {
 
     $this->pw   = 'mysupersecretpassword';
     $this->hash = Password::hash($this->pw);

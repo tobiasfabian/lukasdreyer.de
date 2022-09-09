@@ -7,7 +7,7 @@ class CollectionTest extends PHPUnit_Framework_TestCase {
   protected $data;
   protected $collection;
 
-  public function setUp(): void {
+  protected function setUp() {
 
     $this->data = array(
       'first'  => 'My first element',
@@ -19,7 +19,7 @@ class CollectionTest extends PHPUnit_Framework_TestCase {
 
   }
 
-  public function tearDown(): void {
+  public function tearDown() {
     // reset the collection
     $this->collection = new Collection($this->data);
   }

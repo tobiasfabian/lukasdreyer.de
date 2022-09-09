@@ -6,7 +6,7 @@ class DimensionsTest extends PHPUnit_Framework_TestCase {
 
   protected $dim;
 
-  public function setUp(): void {
+  protected function setUp() {
 
     $this->dim = new Dimensions(500, 300);
 
@@ -36,7 +36,7 @@ class DimensionsTest extends PHPUnit_Framework_TestCase {
   }
 
   public function testFitWidth() {
-
+  
     $dim = $this->dim;
 
     $dim->fitWidth(300);
@@ -56,5 +56,5 @@ class DimensionsTest extends PHPUnit_Framework_TestCase {
     $this->assertEquals(180, $dim->height());
 
   }
-
+  
 }

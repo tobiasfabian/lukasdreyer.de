@@ -10,7 +10,7 @@ class HeaderTest extends PHPUnit_Framework_TestCase {
 
   protected $statusHeaders;
 
-  public function setUp(): void {
+  protected function setUp() {
     // incomplete list compared to header::$codes, mostly for
     // testing header::success and other named methods
     $this->statusHeaders = [

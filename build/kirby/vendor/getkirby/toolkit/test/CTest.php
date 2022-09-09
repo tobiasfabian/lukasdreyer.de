@@ -4,18 +4,18 @@ require_once('lib/bootstrap.php');
 
 class CTest extends PHPUnit_Framework_TestCase {
 
-  public function setUp(): void {
+  protected function setUp() {
 
     c::set('testvar', 'testvalue');
 
   }
 
   public function testGet() {
-
+    
     $this->assertEquals('testvalue', c::get('testvar'));
     $this->assertEquals('defaultvalue', c::get('nonexistentvar', 'defaultvalue'));
 
-  }
+  }  
 
   public function testSet() {
 
@@ -34,5 +34,5 @@ class CTest extends PHPUnit_Framework_TestCase {
     $this->assertEquals('value2', c::get('var2'));
 
   }
-
+  
 }
