@@ -1,0 +1,39 @@
+Title: RSA Classic
+
+----
+
+Subtitle: Kammerkonzert realsoundartists
+
+----
+
+Project: 
+
+----
+
+Venue: 
+
+----
+
+City: 
+
+----
+
+Street: 
+
+----
+
+Text: 
+
+----
+
+Dates: 
+
+- 
+  date: 2019-09-20
+  enddate: ""
+  venue: >
+    Musikhaus am Bielstein (wegen Corona
+    abgesagt)
+  city: Gleichen
+  street: ""
+  text: ""

@@ -1,0 +1,39 @@
+Title: Hochzeiter Support Tour
+
+----
+
+Subtitle: 20.22
+
+----
+
+Project: 
+
+----
+
+Venue: 
+
+----
+
+City: 
+
+----
+
+Street: 
+
+----
+
+Text: 
+
+----
+
+Dates: 
+
+- 
+  date: 2022-06-17
+  enddate: 2022-06-19
+  venue: St. Augustin
+  city: Wien
+  street: ""
+  text: >
+    privates Konzert im Rahmen einer Trauung
+    und Taufe

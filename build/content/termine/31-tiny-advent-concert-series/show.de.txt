@@ -1,0 +1,61 @@
+Title: TINY ADVENT CONCERT SERIES
+
+----
+
+Subtitle: Kooperation mit "So geht sächsisch."
+
+----
+
+Project: HAIRDRYER MUSIC STUDIO
+
+----
+
+Venue: 
+
+----
+
+City: Leipzig
+
+----
+
+Street: 
+
+----
+
+Text: 
+
+Vier Weihnachtsprogramme zum Advent in 10 min. im #digitalstage Format aus dem #hairdryermusicstudio 
+feat. Schauspielerin und Jongleurin Daniela Mitterlehner
+
+----
+
+Dates: 
+
+- 
+  date: 2020-11-29
+  enddate: ""
+  venue: 1. Advent
+  city: ""
+  street: ""
+  text: ""
+- 
+  date: 2020-12-06
+  enddate: ""
+  venue: 2. Advent
+  city: ""
+  street: ""
+  text: ""
+- 
+  date: 2020-12-13
+  enddate: ""
+  venue: 3. Advent
+  city: ""
+  street: ""
+  text: ""
+- 
+  date: 2020-12-20
+  enddate: ""
+  venue: 4. Advent
+  city: ""
+  street: ""
+  text: ""

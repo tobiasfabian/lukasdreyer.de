@@ -1,18 +1,23 @@
-Title: Contact
+Title: Donation
 
 ----
 
 Text: 
 
+### Donation
+**Do you like what I do? Then please consider supporting me on (link: https://flattr.com/@LukasDreyer.de text: FLATTR popup: yes)**
+
+
+
 ### Verantwortlich für den Inhalt
 
 Lukas Dreyer
-Davidstr. 6
-04109 Leipzig
+Schadowstr. 7
+04177 Leipzig
 
 ---
 
-Web design: (link: https://tobiaswolf.me text: Tobias Wolf popup: yes) / Fotos: (link: http://irene-zandel.de text: Irène Zandel popup: yes) / Zeichnung: Jürgen Postel / Texte: (link: http://sabrinalieb.com/ text: Sabrina Lieb popup: yes)
+Webdesign: (link: https://tobiaswolf.me text: Tobias Wolf popup: yes) / Fotos: (link: http://irene-zandel.de text: Irène Zandel popup: yes) / Zeichnung: Jürgen Postel / Texte: (link: http://sabrinalieb.com/ text: Sabrina Lieb popup: yes)
 Schrift: (link: https://weiweihuanghuang.github.io/Work-Sans/ text: Work Sans popup: yes) / CMS: (link: https://getkirby.com text: Kirby popup: yes)
 
 ### Hinweis zum Datenschutz
@@ -29,7 +34,7 @@ Social-media:
 
 - 
   title: Facebook
-  url: https://www.facebook.com/herrdreyermusic
+  url: https://www.facebook.com/lukasdreyer.de
 - 
   title: Twitter
   url: https://twitter.com/hairdryermusic
@@ -40,6 +45,10 @@ Social-media:
 - 
   title: LinkedIn
   url: https://de.linkedin.com/in/lukasdreyer/
+- 
+  title: Instagram
+  url: >
+    https://www.instagram.com/hairdryermusic/
 
 ----
 
@@ -47,7 +56,7 @@ Meta-title:
 
 ----
 
-Meta-description: Kontakt Lukas Dreyer - Cellist, Arrangeur, Dozent, Impressario, Leipzig
+Meta-description: Kontakt Lukas Dreyer - Cellist, Arrangeur, Dozent, Impressario, Leipzig, Donation of the Artist via Flattr
 
 ----
 

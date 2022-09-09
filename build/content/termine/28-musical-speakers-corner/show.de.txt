@@ -1,0 +1,40 @@
+Title: MUSICAL SPEAKERS CORNER
+
+----
+
+Subtitle: “Kultur im Lockdown, und nun?” - Happening am Pfingstsonntag
+
+----
+
+Project: FREIRAUM SYNDIKAT
+
+----
+
+Venue: Alte Handelsbörse
+
+----
+
+City: Leipzig
+
+----
+
+Street: Naschmarkt 1
+
+----
+
+Text: 
+
+**Crossmediales Kulturereignis vom Leipziger Freiraum Syndikat mit Bühnenpremiere TRI ON LINE am Abend**
+ Infos unter: (link: neuigkeiten text: Neuigkeiten)
+
+----
+
+Dates: 
+
+- 
+  date: 2020-05-31 15:00
+  enddate: 2020-05-31 21:00
+  venue: ""
+  city: Leipzig
+  street: ""
+  text: ""

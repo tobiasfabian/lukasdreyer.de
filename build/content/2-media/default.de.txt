@@ -1,8 +1,43 @@
-Title: Media
+Title: Studio
 
 ----
 
 Text: 
+
+###  HAIRDRYER MUSIC STUDIO
+**Hybridstudio für Livestream**
+
+
+Live Produktionen im kleinen Rahmen mit professioneller Ton- und Bildregie seit 2020 in Leipzig Lindenau. Das Studio bietet Möglichkeiten für Livestream, Webcast, Podcast. 
+(image: img_6581.jpg)
+In diesem charmanten Raum finden seit Sommer 2022 kleine Studiokonzerte statt. Ich arbeite hier selbst als Studiomusiker und lade dazu auch regelmäßig internationale Musikerinnen und Künstler nach Leipzig ein, ihre Musik hier zu spielen und mit mir gemeinsam passende Konzepte für ihre medialen Präsentationen im künstlerischen Prozess zu finden. Dabei berate ich auch technisch gern.
+
+(image: img_6978.jpg)
+Die professionelle Betreuung ist mir als Produzent und Studiobetreiber sehr wichtig. Deshalb arbeite ich auch eng mit Tonmeistern, Regisseuren, Schauspielern und Marketingexperten zusammen. Das Netzwerk ist Teil meiner aktiven Tätigkeit als künsterisch denkender und inspirierter offener Geist mit internationalem Netzwerk im Bereich  interdisziplinärer Musikvermittlung.
+
+(image: img_6964.jpg)
+So finden in diesem besonderen Ambiente einer Musikwerkstatt neue Kooperation und spannende neue Ideen ihren Platz . 
+
+Wer Lust hat den Ort kennezulernen, hier zu produzieren und mehr darüber zu erfahren, schreibt mir einfach seine Ideen und Vorstellungen (link: kontakt-impressum text: Kontakt)
+Ich freue mich aufs Kennenlernen und zusammenarbeiten.
+
+Die Kosten werden immer individuell besprochen. Ein paar Infos zu euren Buchungsanfragen findet ihr hier: (link: media/buchungsanfragen text: Studio FAQs )
+
+
+### **Produzent**  „Podcast Music-Jingle für 20blue“ Hairdryer Music Studio Leipzig
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/de/podcast/20blue-minutes-06-arndt-ginzel/id1560123952?i=1000568851313"></iframe>
+
+### **Produzent**  „Teaser Traumtrunken“ Hairdryer Music Studio Leipzig
+<iframe src="https://player.vimeo.com/video/558923877?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Ronja Sophie Traumtrunken Teaser.mp4"></iframe>
+
+### **Produzent** „Videolesung mit Daniela Mitterlehner“ Hairdryer Music Studio Leipzig
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZNid5Rx2X-I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### **4. Premiere 20.12.20 9:30**  „Tiny Advent Concerts“ Hairdryer Music Studio Leipzig
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bx6eJvu-8Po" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### **Produzent/Bandleader**  „Beggars Opera / Eggert Song Premiere“ WGT Musik Kammer
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yhgpx0dEWjA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### **Produzent** Video „Ghostbusters“ quattrocelli
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Y1Zq9IcbPuM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -15,7 +50,6 @@ Text:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLdlqYNEuG6wj63NyAqRDVaM9n6Kbf_V5c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### **Arrangeur** CD quattrocelli „Scenes“  (Radio Bremen)
-Auszüge & Bestellung über (link: http://quattrocelli.de/cd text: website quattrocelli popup: true)
 
 ### **Impresario** Laientheater der Eichsfelder Domfestspiele
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vzsl21AMWUs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -41,17 +75,7 @@ zu bestellen über (link: http://lukasdreyer.de/kontakt-impressum text: E-Mail h
 ### **Projekt** Video „Pirates of the Caribbeans“ quattrocelli
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/3tHov269Ky0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### **Arrangeur** CD quattrocelli „Favourites“ 
-Auszüge & Bestellung über (link: http://quattrocelli.de/cd text: website quattrocelli popup: true)
-
-### **Projekt** CD quattrocelli „Times“
-Auszüge & Bestellung über (link: http://quattrocelli.de/cd text: website quattrocelli popup: true)
-
 ### **Projekt** CD Die 12 Thüringer Cellisten “Der erste Streich” (querstand)
-Auszüge & Bestellung über (link: https://www.grooves-inc.co.uk/die-thueringer-cellisten-der-erste-streich-querstand-cd-pZZa1-1898326761.html text: Handel popup: true)
+Auszüge & Bestellung über (link: https://www.grooves-inc.co.uk/die-thueringer-cellisten-der-erste-streich-querstand-cd-pZZa1-1898326761.html text: Handel popup: true) 
 
-### **Projekt** CD quattrocelli „Kaleidoskop“ (NDR)
-nicht mehr im Handel
-
-### **Projekt** CD quattrocelli „Live“
-nicht mehr im Handel
+### **Arrangeur** CD quattrocelli „Kaleidoskop“ (NDR)

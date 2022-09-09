@@ -5,7 +5,7 @@ Title: Homepage
 Info: 
 
 - 
-  title: The Artist
+  title: The Cello Player
   text: >
     For me, artistic endeavours are
     reminiscent of the type of unencumbered
@@ -30,16 +30,17 @@ Info:
     to them enriches my own experience.
   picture: dozent.jpg
 - 
-  title: The Impresario
+  title: The Producer
   text: >
     My artistic motivation also finds
     expression in initiating projects based
-    on cross-genre concepts. Communication
-    and organisation, for me, mean the
-    ability to be both sender and receiver.
-    I find it fascinating to bring together
-    a group of enthusiastic people and give
-    them space in which to collaborate.
+    on interdisciplinary concepts.
+    Communication, organisation and
+    production, for me, mean the ability to
+    be both sender and receiver. I find it
+    fascinating to bring together a group of
+    enthusiastic people and give them space
+    in which to collaborate.
   picture: impresario.jpg
 - 
   title: The Arranger
@@ -56,7 +57,7 @@ Info:
 
 ----
 
-Meta-title: Lukas Dreyer – cellist / teacher / impresario / Arrangeur
+Meta-title: Lukas Dreyer – cellist / teacher / arranger / streaming producer
 
 ----
 

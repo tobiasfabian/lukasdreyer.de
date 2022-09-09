@@ -1,0 +1,63 @@
+Title: Canzonetta
+
+----
+
+Subtitle: Kammerchor
+
+----
+
+Project: Canzonetta Leipzig
+
+----
+
+Venue: 
+
+----
+
+City: 
+
+----
+
+Street: 
+
+----
+
+Text: 
+
+----
+
+Dates: 
+
+- 
+  date: 2022-02-19
+  enddate: 2022-02-20
+  venue: Kreuzkirche
+  city: Dresden
+  street: ""
+  text: ""
+- 
+  date: 2022-04-01
+  enddate: 2022-04-02
+  venue: Thomas Kirche
+  city: Leipzig
+  street: ""
+  text: |
+    Motette
+    Fr 18 Uhr
+    Sa 15 Uhr
+    
+    Eintritt frei
+- 
+  date: 2022-07-02
+  enddate: 2022-07-03
+  venue: Chorfest
+  city: Chemnitz
+  street: ""
+  text: ""
+- 
+  date: 2022-08-07
+  enddate: 2022-08-11
+  venue: Konzertreise
+  city: Rügen
+  street: '#Binz #Göhren #Trent #Vilmitz'
+  text: 'Chor Tour mit Konzerten in: Ostseebad Binz (Mo 8.8. 20:00, Ev. Kirche) # Ostseebad Göhren (Di 9.8. 20:00, Ev. Dorfkirche) # Trent (Mi 10.8. 20:00 Konzert , Ev. Wegekirche St. Katharinen) # Vilmnitz Do 11.8. (19:30 Konzert, Ev. Pfarrkirche St. Maria Magdalena)'

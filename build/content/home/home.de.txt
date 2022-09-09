@@ -5,7 +5,7 @@ Title: Startseite
 Info: 
 
 - 
-  title: Künstler
+  title: Cellist
   text: >
     Künstlerisches Schaffen ist wie das
     freie Spiel, das ich aus meiner Kindheit
@@ -22,16 +22,7 @@ Info:
   picture: dozent.jpg
 - 
   title: Impresario
-  text: >
-    Gründungsinitiativen für
-    genreübergreifende Kammermusikprojekte
-    und Konzertformate sind Teile meiner
-    Motivation als Künstler. Kommunikation
-    und Organisation bedeuten für mich
-    Sender und Empfänger sein zu können.
-    Begeisterte Menschen zusammen zu
-    führen, ihnen eine gemeinsame Bühne zu
-    geben, fasziniert mich.
+  text: 'Gründungsinitiativen für interdisziplinäre Kunst und  Konzertformate sind Teile meiner Motivation als Künstler. Kommunikation, Organisation und Produktion bedeuten für mich Sender und Empfänger sein zu können. Begeisterte Menschen zusammen zu führen, ihnen eine gemeinsame Bühne zu geben, fasziniert mich.'
   picture: impresario.jpg
 - 
   title: Arrangeur
@@ -47,7 +38,7 @@ Info:
 
 ----
 
-Meta-title: Lukas Dreyer – Cellist / Dozent / Impresario / Arrangeur
+Meta-title: Lukas Dreyer – Cellist / Dozent / Arrangeur / Impresario
 
 ----
 

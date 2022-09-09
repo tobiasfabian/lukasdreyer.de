@@ -42,17 +42,3 @@ Dates:
   city: Duderstadt
   street: ""
   text: ""
-- 
-  date: 2020-03-25 10:00
-  enddate: ""
-  venue: KulturKloster
-  city: Duderstadt (verschoben)
-  street: ""
-  text: >
-    Vernissage 2020 mit Bildern aus dem
-    Projekt Heimat und Grenze von 2019.
-    Musik von Johann Sebastian Bach für
-    Violoncello solo. Eintritt nach tel.
-    Anmeldung im KulturKloster frei.
-    (abgesagt. Ein neuer Termin wird bekannt
-    gegeben)

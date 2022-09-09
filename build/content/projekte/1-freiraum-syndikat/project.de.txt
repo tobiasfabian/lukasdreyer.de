@@ -2,7 +2,11 @@ Title: FREIRAUM SYNDIKAT
 
 ----
 
-Text: F​REIRAUM​ S​YNDIKAT​ wurde​ im Jahre 2015​ gegründet​. Lukas Dreyer ist der Gründer und Bandleader. D​as in seiner einzigartigen Besetzung bereits international gefragt​e Ensemble​ folgt dem Gedanken, aus verschiedenen musikalischen Traditionen durch Kombination und Inspiration Neues entstehen zu lassen. Der musikalische Freiraum für neue Begegnungen reicht in diesem Ensemble vom Arrangement über Improvisation bis hin zur Möglichkeit der Entdeckung neuer Genres. Eigene Kompositionen und spartenübergreifende Kooperationen sind seit Anbeginn feste Bestandteile der offenen Besetzung.
+Text: 
+
+Die Möglichkeiten entstehen im schöpferischen Spiel. Die Förderung von musikalisch inspirierten Prozessen lässt künstlerisch kreativ agierende Menschen Neues entdecken. Freiraum Syndikat bietet dafür die Werkstatt und die Bühne.
+Die Vermittlung von Kunst in der freien Begegnung der Sparten. Musik mit Klang und Rhythmus ist Basis für intuitive Prozesse für Bewegung, Sprache, Malen und Erzählen der gemeinsamen Erlebnisse im LAB für Kunstvermittlung. Die Begegnung auf Augenhöhe ist Spiegel und der Anspruch in den Kooperationen, die Freiraum Syndikat prägen.
+Kreativität entsteht mit dem Freiraum Syndikat als vermittelnde Kraft zwischen Dissonanz und Harmonie.
 
 ----
 
@@ -10,7 +14,7 @@ Link: http://freiraumsyndikat.com
 
 ----
 
-Teaser: music lab & stage production
+Teaser: Musik & Kunst / Kultur / Vermittlung
 
 ----
 
@@ -18,4 +22,4 @@ Meta-title:
 
 ----
 
-Meta-description: Als künstlerisch motiviertes Projekt im interdisziplinären Gedanken treffen sich unter der Leitung von dem Cellisten Lukas Dreyer internationale Musiker, Künstler und Pädagogen für die Entwicklung von neuen Konzepten für Bühnenprogramme und anderen Formaten. Die Spielfelder der Kooperationen sind von Konzert, Theater, Lesung, bis hin zu Workshops und Masterclasses geöffnet.
+Meta-description: Potentiale und deren Entfaltung brauchen Freiräume im Denken und Handeln. Die Möglichkeiten entstehen im schöpferischen Spiel. Die Förderung von musikalisch inspirierten Prozessen lässt künstlerisch kreativ agierende Menschen neue entdecken. Freiraum Syndikat bietet dafür die Werkstatt und die Bühne.

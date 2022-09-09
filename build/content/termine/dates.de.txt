@@ -220,18 +220,6 @@ Dates:
   city: Hamm
   street: ""
   text: 'Weihnachtskonzert mit Cantate´86, Robert und Angelika Atzorn, Charlotte Jarosch von Schweder & Quattrocelli'
-- 
-  title: Russische Seele
-  subtitle: Sinfonietta Mainz
-  project: ""
-  date: 2020-03-22 17:00
-  enddate: ""
-  venue: Kurfürstliches Schloss
-  city: Mainz (abgesagt)
-  street: ""
-  text: >
-    (wegen corona abgesagt. Ein neuer Termin
-    wird bekannt gegeben)
 
 ----
 

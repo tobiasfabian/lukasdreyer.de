@@ -1,0 +1,237 @@
+Title: TINY CONCERT SERIES
+
+----
+
+Subtitle: digital stage
+
+----
+
+Project: HAIRDRYER MUSIC STUDIO
+
+----
+
+Venue: 2xlivestream
+
+----
+
+City: 
+
+----
+
+Street: 
+
+----
+
+Text: 
+
+----
+
+Dates: 
+
+- 
+  date: 2020-01-18 21:30
+  enddate: ""
+  venue: ""
+  city: stream (Leipzig)
+  street: ""
+  text: |
+    bach project #50-1
+    some music from G-Major Suite for you
+    
+    (link:https://facebook.com/events/s/livepodcastinfection/2494248810893870/?ti=icl)
+- 
+  date: 2020-01-25 20:30
+  enddate: ""
+  venue: ""
+  city: stream (Leipzig)
+  street: ""
+  text: |
+    bach project #50-2
+    tiny concert program: solo suite in g major JSBach  Menuetts I&II // Gigue
+    
+    (link:https://facebook.com/events/s/livepodcastinfection-502/198733417965865/?ti=icl)
+- 
+  date: 2020-02-08 20:30
+  enddate: ""
+  venue: ""
+  city: stream (Leipzig)
+  street: ""
+  text: |
+    bach project #50-3
+    programm - from G-Major Suite 2 Courante & Menuet 1+2
+    
+    live stream: (link:https://facebook.com/events/s/livepodcastinfection-tiny-conc/465736604096254/?ti=icl popup:true)
+- 
+  date: 2020-02-29 20:30
+  enddate: ""
+  venue: ""
+  city: stream (Leipzig)
+  street: ""
+  text: |
+    bach project #50-4
+    programm - from G-Major Suite Prelude/Sarabande/Gigue
+    
+    live stream: (link:https://facebook.com/events/s/livewebcastinfection-tiny-conc/1420841188077589/?ti=icl popup:true)
+- 
+  date: 2020-03-28
+  enddate: ""
+  venue: ""
+  city: stream (Mainz)
+  street: ""
+  text: |
+    bach project #51.1
+    **programm:
+    bach & lukas
+    preludium in G & improvisation **(Dauer: 10min.)
+    
+    **20:29-20:41**
+    live stream: (link:https://facebook.com/events/s/livewebcastinfection-tiny-conc/236462134039516/?ti=icl popup:true)
+- 
+  date: 2020-04-11
+  enddate: 2020-04-12
+  venue: ""
+  city: 2streams (Mainz)
+  street: ""
+  text: |
+    bach project #51.2
+    **Sa & So 20:30**
+    20:29-21:01 event time
+    20:30-20:40 concert time
+    20:40-21:00 chat meeting time
+    
+    
+    Programm:
+    **bach&quintkanonensuite** (Dauer: 10min.)
+    sarabande in G-Dur - JSBach
+    quintkanon im geburtstag - LWDreyer
+    improvisationen -LDreyer
+    
+    streaming link:
+    Sa+So (link:https://www.facebook.com/lukasdreyer.de/live/ popup:true)
+- 
+  date: 2020-04-25
+  enddate: 2020-04-26
+  venue: ""
+  city: 2streams (Leipzig)
+  street: ""
+  text: |
+    bach project #51.3
+    **Sa & So 20:30 CET**
+    20:29-21:01 event time
+    20:30-20:40 concert time
+    20:40-21:00 chat meeting time
+    
+    
+    
+    Programm:
+    **Bach&interspaces** (Dauer: 10min.)
+    Live Improvisation über eine Allemande in G
+    
+    supported by
+    **kulturama** a digital project of **Goetheinstitut**
+    
+    streaming link:
+    Sa+So (link:https://www.facebook.com/lukasdreyer.de/live/ popup:true)
+- 
+  date: 2020-05-16
+  enddate: 2020-05-17
+  venue: ""
+  city: 2streams (Leipzig)
+  street: ""
+  text: |
+    bach project #51.4
+    **Sa & So 20:30 CET**
+    20:29-21:01 event time
+    20:30-20:40 concert time
+    20:40-21:00 chat meeting time
+    
+    
+    Programm:
+    **tba** (Dauer: 10min.)
+    Details folgen
+    
+    supported by
+    **kulturama** a digital project of **Goetheinstitut**
+    
+    streaming link:
+    Sa+So (link:https://www.facebook.com/lukasdreyer.de/live/ popup:true)
+- 
+  date: 2020-07-29
+  enddate: 2020-07-30
+  venue: ""
+  city: 2streams (Mainz)
+  street: ""
+  text: |
+    bach project #51.5
+    **Mi & Do 20:30 CET**
+    20:29-21:01 event time
+    20:30-20:40 concert time
+    20:40-21:00 chat meeting time
+    
+    
+    Programm:
+    **Es-Dur** (Dauer: 10min.)
+    
+    
+    supported by
+    **kulturama** a digital project of **Goetheinstitut**
+    
+    streaming link:  https://lukasdreyer.de/media
+- 
+  date: 2020-10-10
+  enddate: 2020-10-11
+  venue: ""
+  city: 2streams (Mainz)
+  street: ""
+  text: |
+    bach project #51.6
+    **Sa & So 20:30 CET**
+    20:29-21:01 event time
+    20:30-20:40 concert time
+    20:40-21:00 chat meeting time
+    
+    
+    Programm:
+    **Es-Dur** (Dauer: 10min.)
+    
+    
+    supported by
+    **kulturama** a digital project of **Goetheinstitut**
+    
+    streaming link:  https://lukasdreyer.de/media
+- 
+  date: 2021-02-14
+  enddate: ""
+  venue: HAIRDRYER MUSIC STUDIO
+  city: CHICK COREA SPIRIT
+  street: PREMIERE
+  text: '**Premiere 19:45** live auf facebook'
+- 
+  date: 2021-04-17
+  enddate: 2021-04-18
+  venue: HAIRDRYER MUSIC STUDIO
+  city: 2streams (Leipzig)
+  street: www.yutube.com
+  text: 'program & info TBA'
+- 
+  date: 2021-07-29 19:00
+  enddate: ""
+  venue: dreamstage.live
+  city: DER KONZERT FILM
+  street: PREMIERE
+  text: |
+    **TINY CONCERT - "LOVE" DER KONZERT FILM**
+    
+    Musik von J.S.Bach für Cello solo und Loop-Improvisationen als Collage mit Texten von und über Bach und die Liebe. Der Film stellt das hybride Konzept als Formatgründung Tiny Concert an verschiedenen Orten im Rahmen einer Kooperation mit So geht Sächsisch!, dem Moritzburg Festival und dem Hairdryer Music Studio in 50 min. vor.
+    anschließend gibt es Gelegenheit mit den Künstlern in einem Zoom meeting live zu treffen und ein Backstage Gespräch über das Projekt zu führen.
+    Der Link wird auf der Sartseite lukasdreyer.de in den Juli News platziert.
+    
+    Wir freuen uns auf zahlreiche Gäste. Die Einnahmen kommen zu 80% den Künstlern zugute.
+    
+    Künstler und Co-Produzent:
+    Lukas Dreyer Violoncello, Loop Improvisation
+    Gast:
+    Daniele Mitterlehner
+    Sprecherin, Jongleurin
+    
+    Tickets: https://dreamstage.live/de/event/tiny-concert

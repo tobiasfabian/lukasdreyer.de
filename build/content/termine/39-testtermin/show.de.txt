@@ -1,0 +1,44 @@
+Title: Testtermin
+
+----
+
+Subtitle: untertitel
+
+----
+
+Project: HAIRDRYER MUSIC STUDIO
+
+----
+
+Venue: ort
+
+----
+
+City: stadt
+
+----
+
+Street: strasse
+
+----
+
+Text: text
+
+----
+
+Dates: 
+
+- 
+  date: 2022-09-09 16:00
+  enddate: 2022-09-10 17:00
+  venue: ""
+  city: ""
+  street: ""
+  text: ""
+- 
+  date: 2022-09-09 19:00
+  enddate: 2022-09-09 20:00
+  venue: ""
+  city: ""
+  street: ""
+  text: ""

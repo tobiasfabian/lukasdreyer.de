@@ -1,4 +1,4 @@
-Title: Kontakt
+Title: Impressum +
 
 ----
 
@@ -10,10 +10,17 @@ Social-media:
 
 - 
   title: Facebook
-  url: https://www.facebook.com/herrdreyermusic
+  url: https://www.facebook.com/lukasdreyer.de
+- 
+  title: Instagram
+  url: >
+    https://www.instagram.com/hairdryer_music_studio/
 - 
   title: Twitter
   url: https://twitter.com/hairdryermusic
+- 
+  title: twitch.tv
+  url: https://www.twitch.tv/lukasdreyer
 - 
   title: XING
   url: >
@@ -21,20 +28,24 @@ Social-media:
 - 
   title: LinkedIn
   url: https://de.linkedin.com/in/lukasdreyer/
-- 
-  title: Instagram
-  url: >
-    https://www.instagram.com/hairdryermusic/
 
 ----
 
 Text: 
 
+### Donation 
+
+**Do you like what I do? Then please consider supporting me regularly on 
+(link: https://flattr.com/@LukasDreyer.de text: FLATTR popup: yes) 
+or one time donation by
+(link: https://paypal.me/hairdryermusic
+ text: PAYPAL.ME popup: yes) 
+
 ### Verantwortlich für den Inhalt
 
 Lukas Dreyer
-Davidstr. 6
-04109 Leipzig
+Schadowstr. 7
+04177 Leipzig
 
 ---
 
@@ -51,7 +62,7 @@ Meta-title:
 
 ----
 
-Meta-description: Kontakt Lukas Dreyer - Cellist, Arrangeur, Dozent, Impressario, Leipzig
+Meta-description: Kontakt Lukas Dreyer - Cellist, Arrangeur, Dozent, Impressario, Leipzig, Donation via Flattr possible
 
 ----
 

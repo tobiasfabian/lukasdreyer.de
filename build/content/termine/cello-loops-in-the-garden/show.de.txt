@@ -1,0 +1,49 @@
+Title: Cello Loops in the Garden
+
+----
+
+Subtitle: Kompositionen und Improvisationen im Arrangement
+
+----
+
+Project: Hairdryer's Chamber Music Infection
+
+----
+
+Venue: 
+
+----
+
+City: 
+
+----
+
+Street: 
+
+----
+
+Text: 
+
+----
+
+Dates: 
+
+- 
+  date: 2020-09-12 18:30
+  enddate: ""
+  venue: Villa Flora
+  city: Bautzen
+  street: Am Ziegelwall 3
+  text: |
+    Live Konzert im Garten als Kooperartion der Villa Flora und  Weingut Zimmerling (Pillnitz-Dresden)
+    
+    Einlass: 17:30 Uhr
+    Beginn: 18:30 Uhr
+    
+    Programm:
+    
+    Musik für Violoncello solo und Loopstation von J.S.Bach und Lukas Dreyer.
+    Eine Klangreise zwischen, Interpretation, Improvisation & Konversation.
+    Die Zuschauer erleben einen musikalischen Konzeptabend in privater Garten-Athmosphäre. Dauer ca 60min.
+    
+    Anmeldung unter: blume@a-bernstein.de erbeten.

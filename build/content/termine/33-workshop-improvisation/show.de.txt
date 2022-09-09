@@ -1,0 +1,48 @@
+Title: Workshop Improvisation
+
+----
+
+Subtitle: #Move_it! Raus aus der Schublade. Jüdische Geschichte in Klang Bild & Bewegung
+
+----
+
+Project: FREIRAUM SYNDIKAT
+
+----
+
+Venue: 
+
+----
+
+City: 
+
+----
+
+Street: 
+
+----
+
+Text: 
+
+----
+
+Dates: 
+
+- 
+  date: 2021-10-22
+  enddate: 2021-10-24
+  venue: Residenzschloss
+  city: Altenburg
+  street: ""
+  text: |
+    Dreitägiger Workshop für Jugendliche und junge Erwachsene zum jüdischen Leben in  Altenburg  im Rahmen des Themenjahres „Neun Jahrhunderte jüdisches Leben in Thüringen“
+    Das Ensemble "Solo Synchrony" führt den Workshop künstlerisch mit Tanz, Malerei, Musik und einem Stop Motion Angebot.
+- 
+  date: 2021-10-25
+  enddate: 2021-10-27
+  venue: Gemeindehaus St. Elisabeth
+  city: Gera
+  street: ""
+  text: |
+    Dreitägiger Workshop für Jugendliche und junge Erwachsene zum jüdischen Leben in Gera. im Rahmen des Themenjahres „Neun Jahrhunderte jüdisches Leben in Thüringen“
+    Das Ensemble "Solo Synchrony" führt den Workshop künstlerisch mit Tanz, Malerei, Musik und einem Stop Motion Angebot für junge Erwachsene.

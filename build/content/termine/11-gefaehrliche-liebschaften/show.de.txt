@@ -54,3 +54,17 @@ Dates:
   city: ""
   street: ""
   text: ""
+- 
+  date: 2022-04-16 19:30
+  enddate: ""
+  venue: ""
+  city: ""
+  street: '! FÄLLT AUS WEGEN CORONA !'
+  text: ""
+- 
+  date: 2022-04-18 18:00
+  enddate: ""
+  venue: ""
+  city: ""
+  street: '! FÄLLT AUS WEGEN CORONA !'
+  text: ""

@@ -1,0 +1,54 @@
+Title: Tiny Quarantine Pre Work Show
+
+----
+
+Subtitle: pyrophoric #digitalhappening
+
+----
+
+Project: HAIRDRYER MUSIC STUDIO
+
+----
+
+Venue: Twitch
+
+----
+
+City: Livestream
+
+----
+
+Street: täglich
+
+----
+
+Text: 
+
+Livestream Auftritte ohne feste Zeitplanung als öffentliches Schaufenster für Konzeptarbeiten im ersten Quartal auf meinem Twitch Kanal. Die Live Streams werden regelmäßig wieder gelöscht. Folgt dem Link und lasst euch von den Happenings einfach überraschen.  
+- Formatentwicklung im Hairdryer Music Studio für hybride Livestream Konzerte (link: https://twitch.tv/lukasdreyer)
+
+----
+
+Dates: 
+
+- 
+  date: 2022-01-01
+  enddate: 2022-01-31
+  venue: ""
+  city: ""
+  street: ""
+  text: ""
+- 
+  date: 2022-02-01
+  enddate: 2022-02-28
+  venue: ""
+  city: ""
+  street: ""
+  text: ""
+- 
+  date: 2022-03-01
+  enddate: 2022-03-31
+  venue: ""
+  city: ""
+  street: ""
+  text: ""

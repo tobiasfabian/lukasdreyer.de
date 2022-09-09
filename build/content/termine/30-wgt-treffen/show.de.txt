@@ -1,0 +1,37 @@
+Title: 30. Wave Gotik Treffen
+
+----
+
+Subtitle: 
+
+----
+
+Project: WGT Musik Kammer
+
+----
+
+Venue: 
+
+----
+
+City: Leipzig
+
+----
+
+Street: 
+
+----
+
+Text: Konzerte und Programm tba
+
+----
+
+Dates: 
+
+- 
+  date: 2022-06-03
+  enddate: 2022-06-06
+  venue: ""
+  city: ""
+  street: ""
+  text: ""

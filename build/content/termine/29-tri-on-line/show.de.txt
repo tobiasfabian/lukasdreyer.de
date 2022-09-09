@@ -1,0 +1,53 @@
+Title: TRI ON LINE beta21
+
+----
+
+Subtitle: music / dance / painting
+
+----
+
+Project: FREIRAUM SYNDIKAT
+
+----
+
+Venue: 
+
+----
+
+City: 
+
+----
+
+Street: 
+
+----
+
+Text: 
+
+----
+
+Dates: 
+
+- 
+  date: 2020-05-30 19:30
+  enddate: ""
+  venue: HEIMA®T (streaming)
+  city: (stream) Leipzig / Mainz / Augsburg
+  street: internet stream
+  text: '**Internet Premiere Stream**  Ticket info folgt'
+- 
+  date: 2020-05-31 19:30
+  enddate: ""
+  venue: Alte Handelsbörse
+  city: Leipzig
+  street: Naschmarkt 1
+  text: '**Bühnenpremiere** Ticketinfo folgt'
+- 
+  date: 2021-01-30 20:15
+  enddate: ""
+  venue: view.stub
+  city: 'live show & chat'
+  street: ""
+  text: |
+    Tri On Line
+    part 1 ticket link: https://viewstub.com/Freiraum-Syndikat-TRI-ON-LINE-Virtual-Stage

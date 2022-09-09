@@ -1,0 +1,77 @@
+Title: Tiny Quarantine Concert
+
+----
+
+Subtitle: Recherche
+
+----
+
+Project: HAIRDRYER MUSIC STUDIO
+
+----
+
+Venue: Twitch
+
+----
+
+City: Leipzig
+
+----
+
+Street: Livestream
+
+----
+
+Text: 
+
+Livestream Auftritte in kurzfristiger Planung jeweils 19 Uhr für 30 min.  als öffentliches Schaufenster für Konzeptarbeiten im dritten Quartal auf meinem Twitch Kanal. Die Live Streams sind zwei Wochen auf Twitch noch anzuschauen. Folgt dem Link und lasst euch von den Happenings überraschen.  
+(link: https://twitch.tv/lukasdreyer)
+
+----
+
+Dates: 
+
+- 
+  date: 2022-07-07 19:00
+  enddate: ""
+  venue: ""
+  city: ""
+  street: ""
+  text: ""
+- 
+  date: 2022-07-08 19:00
+  enddate: ""
+  venue: ""
+  city: ""
+  street: ""
+  text: ""
+- 
+  date: 2022-07-09 19:00
+  enddate: ""
+  venue: ""
+  city: ""
+  street: ""
+  text: ""
+- 
+  date: 2022-07-31 19:00
+  enddate: ""
+  venue: ""
+  city: ""
+  street: ""
+  text: ""
+- 
+  date: 2022-08-21 19:00
+  enddate: ""
+  venue: ""
+  city: ""
+  street: ""
+  text: ""
+- 
+  date: 2022-08-20 20:30
+  enddate: ""
+  venue: 'Studio / Twitch & Zoom'
+  city: TINY CONCERT HOME
+  street: private Veranstaltung mit Livestream
+  text: |
+    TINY CONCERT HOME - ein 60 min. Soloabend für Cello, Looper und eingeladene Gäste im Lindenauer Studio als privater Salon mit Livestreamangebot. Das hybride Konzept wird auf meinem Twitch Kanal und als Zoom Meeting live aus Leipzig gesendet. Die Live Streams sind zwei Wochen auf Twitch noch anzuschauen. Folgt dem Link und lasst euch von den Happenings überraschen.
+    (link: https://twitch.tv/lukasdreyer)

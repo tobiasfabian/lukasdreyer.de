@@ -1,0 +1,40 @@
+Title: Workshop #digital für Improvisation
+
+----
+
+Subtitle: Tri On Line
+
+----
+
+Project: FREIRAUM SYNDIKAT
+
+----
+
+Venue: Zoom
+
+----
+
+City: livestream
+
+----
+
+Street: 
+
+----
+
+Text: 
+
+----
+
+Dates: 
+
+- 
+  date: 2020-12-07
+  enddate: 2020-12-11
+  venue: ""
+  city: ""
+  street: 'Junge Akademie #digital'
+  text: >
+    Kooperation Ökumenische Akademie Gera
+    Altenburg, Streetwork Gera,
+    theaterfabrik Gera
