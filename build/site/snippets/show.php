@@ -49,10 +49,7 @@
     <h3><?= l::get('more dates') ?></h3>
     <ol class="related-events__list">
     <?php foreach($relatedEvents->flip() as $relatedEvent): ?>
-      <?php
-      $relatedEventIsPassed = (date('ymd', time()) > date('ymd', ($relatedEvent->enddate() ? $relatedEvent->enddate() : $relatedEvent->date())));
-      ?>
-      <li class="related-events__item <?= $relatedEventIsPassed ? 'is-passed' : '' ?>">
+      <li class="related-events__item">
         <a class="related-events__link" href="<?= $relatedEvent->url() ?>">
           <time class="related-events__time">
             <span class="related-events__time-wd"><?= strftime('%a,', $relatedEvent->date()) ?></span>

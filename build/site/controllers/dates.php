@@ -91,6 +91,10 @@ return function($site, $pages, $page) {
         && $item !== $event) {
           $isRelated = true;
         }
+        if (date('ymd', time()) > date('ymd', ($item->enddate() ? $item->enddate() : $item->date()))) {
+          // event is passed
+          $isRelated = false;
+        }
         return $isRelated;
       });
       return $events;
