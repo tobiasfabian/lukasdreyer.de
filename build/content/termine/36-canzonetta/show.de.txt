@@ -61,3 +61,10 @@ Dates:
   city: Rügen
   street: '#Binz #Göhren #Trent #Vilmitz'
   text: 'Chor Tour mit Konzerten in: Ostseebad Binz (Mo 8.8. 20:00, Ev. Kirche) # Ostseebad Göhren (Di 9.8. 20:00, Ev. Dorfkirche) # Trent (Mi 10.8. 20:00 Konzert , Ev. Wegekirche St. Katharinen) # Vilmnitz Do 11.8. (19:30 Konzert, Ev. Pfarrkirche St. Maria Magdalena)'
+- 
+  date: 2022-09-17 19:00
+  enddate: ""
+  venue: Marienkirche Stötteritz
+  city: Leipzig
+  street: Dorstigstr. 5
+  text: "Von Liebe und Glück"

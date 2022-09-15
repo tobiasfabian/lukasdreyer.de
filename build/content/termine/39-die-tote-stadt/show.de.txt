@@ -1,0 +1,48 @@
+Title: Die tote Stadt
+
+----
+
+Subtitle: Staatstheater
+
+----
+
+Project: 
+
+----
+
+Venue: Orchesterprojekt
+
+----
+
+City: Meiningen
+
+----
+
+Street: 
+
+----
+
+Text: 
+
+Oper von Erich Wolfgang Korngold - Einladung als 1. und 2. Solocellist im Projektvertrag
+
+Info und Tickets: (link: https://www.staatstheater-meiningen.de/produktionen/die-tote-stadt.html text: Staatstheater Meiningen popup: yes)
+
+----
+
+Dates: 
+
+- 
+  date: 2022-09-16 19:30
+  enddate: ""
+  venue: ""
+  city: ""
+  street: Premiere (2. Solocello)
+  text: ""
+- 
+  date: 2022-09-18 18:00
+  enddate: ""
+  venue: ""
+  city: ""
+  street: 2. Premiere (1. Solocello)
+  text: ""

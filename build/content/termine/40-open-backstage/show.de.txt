@@ -1,0 +1,68 @@
+Title: Open Backstage
+
+----
+
+Subtitle: Die Tote Stadt
+
+----
+
+Project: HAIRDRYER MUSIC STUDIO
+
+----
+
+Venue: Twitch
+
+----
+
+City: Livestream
+
+----
+
+Street: 
+
+----
+
+Text: Prozessarbeit - Einblick in die persönliche Arbeit zu den Vorbereitungen einer Opern Premiere als Live Tutorial im Livestream auf (link: https://www.twitch.tv/lukasdreyer text: twitch.tv/lukasdreyer popup: yes) für jeweils 30 min.
+
+----
+
+Dates: 
+
+- 
+  date: 2022-09-14 14:00
+  enddate: ""
+  venue: ""
+  city: ""
+  street: day three
+  text: |
+    Prozessarbeit - Einblick in die persönliche Arbeit zu den Vorbereitungen einer Opern Premiere als Live Tutorial im Livestream auf (link: https://www.twitch.tv/lukasdreyer text: twitch.tv/lukasdreyer popup: yes) für 30 min.
+    
+    Achtung: Der Termin wurde vom 13. auf den 14. verschoben!
+- 
+  date: 2022-09-15 14:00
+  enddate: ""
+  venue: ""
+  city: ""
+  street: day four
+  text: ""
+- 
+  date: 2022-09-17 14:00
+  enddate: ""
+  venue: ""
+  city: ""
+  street: day five
+  text: ""
+- 
+  date: 2022-09-11
+  enddate: ""
+  venue: ""
+  city: ""
+  street: day two
+  text: ""
+- 
+  date: 2022-09-10
+  enddate: ""
+  venue: ""
+  city: ""
+  street: day one
+  text: ""
